@@ -1,0 +1,449 @@
+
+\documentclass[$if(fontsize)$$fontsize$,$endif$$if(lang)$$babel-lang$,$endif$$if(papersize)$$papersize$paper,$endif$$for(classoption)$$classoption$$sep$,$endfor$]{$documentclass$}
+$if(fontfamily)$
+\usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
+$else$
+\usepackage{lmodern}
+$endif$
+\usepackage[hyphens]{url}
+\makeatletter
+\g@addto@macro{\UrlBreaks}{\UrlOrds}
+\makeatother
+\expandafter\def\expandafter\UrlBreaks\expandafter{\UrlBreaks%  save the current one
+  \do\a\do\b\do\c\do\d\do\e\do\f\do\g\do\h\do\i\do\j%
+  \do\k\do\l\do\m\do\n\do\o\do\p\do\q\do\r\do\s\do\t%
+  \do\u\do\v\do\w\do\x\do\y\do\z\do\A\do\B\do\C\do\D%
+  \do\E\do\F\do\G\do\H\do\I\do\J\do\K\do\L\do\M\do\N%
+  \do\O\do\P\do\Q\do\R\do\S\do\T\do\U\do\V\do\W\do\X%
+  \do\Y\do\Z}
+
+$if(linestretch)$
+\usepackage{setspace}
+\setstretch{$linestretch$}
+$endif$
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[$if(fontenc)$$fontenc$$else$T1$endif$]{fontenc}
+  \usepackage[utf8]{inputenc}
+$if(euro)$
+  \usepackage{eurosym}
+$endif$
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+$if(euro)$
+  \newcommand{\euro}{€}
+$endif$
+$if(mainfont)$
+    \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+$endif$
+$if(sansfont)$
+    \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
+$endif$
+$if(monofont)$
+    \setmonofont[Mapping=tex-ansi$if(monofontoptions)$,$for(monofontoptions)$$monofontoptions$$sep$,$endfor$$endif$]{$monofont$}
+$endif$
+$if(mathfont)$
+    \setmathfont(Digits,Latin,Greek)[$for(mathfontoptions)$$mathfontoptions$$sep$,$endfor$]{$mathfont$}
+$endif$
+$if(CJKmainfont)$
+    \usepackage{xeCJK}
+    \setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
+$endif$
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+$if(geometry)$
+\usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
+$endif$
+\usepackage{hyperref}
+$if(colorlinks)$
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+$endif$
+\hypersetup{unicode=true,
+$if(title-meta)$
+            pdftitle={$title-meta$},
+$endif$
+$if(author-meta)$
+            pdfauthor={$author-meta$},
+$endif$
+$if(keywords)$
+            pdfkeywords={$for(keywords)$$keywords$$sep$; $endfor$},
+$endif$
+$if(colorlinks)$
+            colorlinks=true,
+            linkcolor=$if(linkcolor)$$linkcolor$$else$Maroon$endif$,
+            citecolor=$if(citecolor)$$citecolor$$else$Blue$endif$,
+            urlcolor=$if(urlcolor)$$urlcolor$$else$Blue$endif$,
+$else$
+            pdfborder={0 0 0},
+$endif$
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+$if(lang)$
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[shorthands=off,$for(babel-otherlangs)$$babel-otherlangs$,$endfor$main=$babel-lang$]{babel}
+$if(babel-newcommands)$
+  $babel-newcommands$
+$endif$
+\else
+  \usepackage{polyglossia}
+  \setmainlanguage[$polyglossia-lang.options$]{$polyglossia-lang.name$}
+$for(polyglossia-otherlangs)$
+  \setotherlanguage[$polyglossia-otherlangs.options$]{$polyglossia-otherlangs.name$}
+$endfor$
+\fi
+$endif$
+
+$if(natbib)$
+\usepackage{natbib}
+\bibliographystyle{$if(biblio-style)$$biblio-style$$else$plainnat$endif$}
+$endif$
+
+$if(biblatex)$
+\usepackage$if(biblio-style)$[style=$biblio-style$]$endif${biblatex}
+$if(biblatexoptions)$\ExecuteBibliographyOptions{$for(biblatexoptions)$$biblatexoptions$$sep$,$endfor$}$endif$
+$for(bibliography)$
+\addbibresource{$bibliography$}
+$endfor$
+$endif$
+
+$if(listings)$
+\usepackage{listings}
+$endif$
+
+$if(lhs)$
+\lstnewenvironment{code}{\lstset{language=Haskell,basicstyle=\small\ttfamily}}{}
+$endif$
+
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+$if(verbatim-in-note)$
+\usepackage{fancyvrb}
+\VerbatimFootnotes % allows verbatim text in footnotes
+$endif$
+
+
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+% \rowcolors{3}{}{gray!25}
+
+$if(tables)$
+\usepackage{longtable,booktabs}
+$endif$
+
+$if(graphics)$
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+
+
+
+%\makeatletter
+%\def\ScaleWidthIfNeeded{%
+% \ifdim\Gin@nat@width>\linewidth
+%    \linewidth
+%  \else
+%    \Gin@nat@width
+%  \fi
+%}
+%\def\ScaleHeightIfNeeded{%
+%  \ifdim\Gin@nat@height>0.9\textheight
+%    0.9\textheight
+%  \else
+%    \Gin@nat@width
+%  \fi
+%}
+%\makeatother
+
+%\setkeys{Gin}{width=\ScaleWidthIfNeeded,height=\ScaleHeightIfNeeded,keepaspectratio}%
+
+$endif$
+
+$if(links-as-notes)$
+% Make links footnotes instead of hotlinks:
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+$endif$
+
+$if(strikeout)$
+\usepackage[normalem]{ulem}
+% avoid problems with \sout in headers with hyperref:
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+$endif$
+$if(indent)$
+$else$
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+$endif$
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+$if(numbersections)$
+\setcounter{secnumdepth}{5}
+$else$
+\setcounter{secnumdepth}{0}
+$endif$
+$if(subparagraph)$
+$else$
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+$endif$
+$if(dir)$
+\ifxetex
+  % load bidi as late as possible as it modifies e.g. graphicx
+  $if(latex-dir-rtl)$
+  \usepackage[RTLdocument]{bidi}
+  $else$
+  \usepackage{bidi}
+  $endif$
+\fi
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \TeXXeTstate=1
+  \newcommand{\RL}[1]{\beginR #1\endR}
+  \newcommand{\LR}[1]{\beginL #1\endL}
+  \newenvironment{RTL}{\beginR}{\endR}
+  \newenvironment{LTR}{\beginL}{\endL}
+\fi
+$endif$
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+$if(title)$
+\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
+$endif$
+$if(subtitle)$
+\providecommand{\subtitle}[1]{}
+\subtitle{$subtitle$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+$if(institute)$
+\institute{$for(institute)$$institute$$sep$ \and $endfor$}
+$endif$
+\date{$date$}
+
+\usepackage{ruby}
+\renewcommand{\rubysize}{0.5} % default: 0.4
+
+
+
+%----------------------------------------------------------------------------------------
+% TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\definecolor{titlepagecolor}{RGB}{63,37,29}
+\usepackage{fontspec}
+\setmainfont{Constantia}
+\usepackage{setspace}
+\newcommand*{\titleTH}{\begingroup
+
+\noindent% just to prevent indentation narrowing the line width for this line
+\includegraphics*[width=1.65in, height=0.59in, keepaspectratio=false]{images/image1}
+\begin{minipage}[b]{0.7\textwidth}
+\raggedleft
+
+\begin{spacing}{0.6}
+{\footnotesize KU LEUVEN}\\
+{\footnotesize FACULTEIT LETTEREN}\\
+{\footnotesize BLIJDE INKOMSTSTRAAT 21 BUS 3301}\\
+{\footnotesize 3000 LEUVEN, BELGIË}\\
+\end{spacing}
+
+
+\end{minipage}~~~~~
+\includegraphics*[width=0.59in, height=0.59in, keepaspectratio=false]{images/image2}
+
+\topskip0pt
+\vspace*{\fill}
+\noindent
+
+\hspace*{-0.25cm}
+\makebox[\textwidth][c]{\includegraphics[width=\paperwidth]{$banner$}}
+\hfill \break
+\hfill \break
+\hfill \break
+\centering{{\textcolor{titlepagecolor}{\Huge $titel$}}\\[\baselineskip] 
+\hfill \break
+{\textcolor{titlepagecolor}{\LARGE $subtitel$ \setmainfont{$mainfont$} $subtitel2$ \setmainfont{Constantia}}}\\[\baselineskip] 
+\hfill \break
+{\textcolor{titlepagecolor}{\normalsize $auteur$}}\par 
+{\textcolor{titlepagecolor}{\normalsize $vak$}}\par 
+{\textcolor{titlepagecolor}{\normalsize Promoter: $promoter$}}\par 
+{\textcolor{titlepagecolor}{\normalsize Begeleider: $begeleider$}}\par 
+{\textcolor{titlepagecolor}{\normalsize $jaar$}}\par}
+
+\vspace*{\fill}
+
+\endgroup}
+
+\newcommand*{\intro}{\begingroup
+\topskip0pt
+
+
+\textit{Deze bachelorpaper telt ??,??? tekens, spaties inbegrepen. De literatuurlijst, tabellen en voetnoten worden daar niet bijgeteld.}
+
+\textbf{Onderzoeksthema}
+
+$Onderzoeksthema$
+
+\textbf{Onderzoeksvraag}
+
+$Onderzoeksvraag$
+
+%\textbf{Deelvragen}
+
+%\begin{itemize}
+%\tightlist
+%$for(Deelvragen)$ \item $Deelvragen$ $endfor$
+%\end{itemize}
+
+\textbf{Abstract}
+
+$Abstract$
+
+\textbf{keywords}
+
+$keywords$
+
+\endgroup}
+
+%----------------------------------------------------------------------------------------
+% BEGIN DOC 
+%----------------------------------------------------------------------------------------
+
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+ 
+\usepackage{rotating}
+\usepackage{pdflscape}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Stevie Poppe}
+\lhead{Digitaal populisme in Japan}
+\cfoot{\thepage}
+
+\hyphenation{Zai-tokukai}
+
+\usepackage{verbatim}% http://ctan.org/pkg/verbatim
+\makeatletter
+\newcommand{\verbatimfont}[1]{\def\verbatim@font{#1}}%
+\makeatother
+\verbatimfont{\setmainfont{Meiryo}}
+
+\usepackage{float}
+%\floatstyle{boxed} 
+\restylefloat{figure}
+
+\renewcommand{\figurename}{Figuur}
+\renewcommand{\tablename}{Tabel}
+
+\usepackage{array}
+\usepackage{ragged2e}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\usepackage{underscore}
+
+\begin{document}
+\sloppy
+
+\clearpage\titleTH
+\thispagestyle{empty}
+
+\setmainfont[
+ BoldFont={Meiryo Bold}, 
+ ItalicFont={Meiryo Italic},
+ BoldItalicFont={Meiryo Italic}
+ ]{$mainfont$}
+
+\newpage
+
+\intro
+\newpage
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$if(toc)$
+{
+\renewcommand{\contentsname}{Inhoudsopgave}
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
+$endif$
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+\pagebreak
+}
+$endif$
+
+$if(lot)$
+\listoftables
+$endif$
+
+$if(lof)$
+\listoffigures
+$endif$
+
+
+\setlength{\parindent}{2em}
+
+$body$
+
+
+\setlength{\parindent}{0em}
+
+$if(natbib)$
+$if(bibliography)$
+$if(biblio-title)$
+$if(book-class)$
+\renewcommand\bibname{$biblio-title$}
+$else$
+\renewcommand\refname{$biblio-title$}
+$endif$
+$endif$
+\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
+
+$endif$
+$endif$
+$if(biblatex)$
+\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
+
+$endif$
+$for(include-after)$
+$include-after$
+
+$endfor$
+\end{document}
