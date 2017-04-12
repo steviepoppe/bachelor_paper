@@ -348,6 +348,9 @@ $keywords$
 \usepackage{rotating}
 \usepackage{pdflscape}
 
+\XeTeXlinebreaklocale "ja"         % for Japanese
+\XeTeXlinebreakskip 0pt plus 0.1pt % sets the skip
+
 \pagestyle{fancy}
 \fancyhf{}
 \rhead{Stevie Poppe}
