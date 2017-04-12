@@ -141,7 +141,7 @@ Een individualisering en fragmentering van een maatschappij als gevolg van een a
 
 (bron: @tamura_niggling_2014)
 
-Anderzijds parafraseren @tamura_niggling_2014 Hiroki Azuma uit zijn 2011 essay 一般意志2.0 (Lett. *Volkswil 2.0*) over de rol van het internet in de democratie, dat Rousseau's notie van een volkswil leest in een technologische (r)evolutie en meer specifiek de opkomst van het internet en sociale media als Twitter. Hij stelt dat internetcommunicatie zodanig de individuele wil omvormt tot een volks- of algemene wil dat het leidt tot een nieuwe vorm van democratie met 'de burger' als passief participerende '*netizen*', zoals gesteld in tabel 1.3 [-@tamura_niggling_2014]. Binnen @mudde_oxford_2013's model van populisme als ideologie kan bovenstaand argument van internetcommunicatie als creatie van een volkswil ter voordele van populisten werken.
+Anderzijds parafraseren @tamura_niggling_2014 Hiroki Azuma uit zijn 2011 essay 『一般意志2.0』 (Lett. *Volkswil 2.0*) over de rol van het internet in de democratie, dat Rousseau's notie van een volkswil leest in een technologische (r)evolutie en meer specifiek de opkomst van het internet en sociale media als Twitter. Hij stelt dat internetcommunicatie zodanig de individuele wil omvormt tot een volks- of algemene wil dat het leidt tot een nieuwe vorm van democratie met 'de burger' als passief participerende '*netizen*', zoals gesteld in tabel 1.3 [-@tamura_niggling_2014]. Binnen @mudde_oxford_2013's model van populisme als ideologie kan bovenstaand argument van internetcommunicatie als creatie van een volkswil ter voordele van populisten werken.
 
 Een specifiek kenmerk ter verdediging van die stelling is die van de zogenaamde 'echokamers'[^10] en '*filter bubbles*' op sociale media. Hoewel de achterliggende idee van "opinievorming door media" uiteraard al langer bestaat, worden ze des te meer versterkt op het internet. Enerzijds door algoritmes als die van Facebook, Google en Twitter die aan de hand van individueel gebruik relevante informatie voorleggen, en anderzijds door een tendens van cultureel tribalisme op het internet: het opzoeken en opbouwen van online gemeenschappen van gelijkgezinden.
 
@@ -155,7 +155,7 @@ Mark Rolfe neemt dat een stap verder door het 'discours van digitaal populisme' 
 
 Samenvattend creëert het internet in zijn kosteloze, ongemedieerde aard en langdurige retoriek van de internetgebruiker als *heartland* een uitstekend platform voor populisten. Kenmerken specifiek tot sociale media versterken opinievorming en werken politieke polarisatie verder in de hand en lijken een uitstekend middel voor charismatische persoonlijkheden om rechtstreeks in aanraking te komen met het electoraat en gevestigde media en politici te antagoniseren. (uitwerken)
 
-## Het internet, populisme en Japan (structuur herzien)
+## Het internet, populisme en Japan[^39] - een korte samenvatting (structuur herzien)
 
 Een correlatie tussen politieke voorkeuren en een stijging aan massamedia valt sinds jaren '90 op in de vorm van zwevende kiezers (浮動票, lett. *drijvende stemmen*), stemmers die zich niet affiliëren aan een bepaalde partij. Televisie en andere media worden geschat een belangrijke rol te hebben gespeeld in het creëren van vijandelijkheid tegenover de LDP ten voordele van het Hosokawa-kabinet (1993-1994) en later ook als instrumenteel voor het succes van Koizumi Jun'ichiro [@trifu_prefectural_2013].
 
@@ -167,34 +167,15 @@ Hij plaatst Koizumi's controversiële privatisering van het postsysteem in recht
 
 @weathers_reformer_2014 herkent dan weer in Hashimoto, ideologisch geässocieerd met een neoliberaal populisme, een meester in televisie en sociale media, met in 2013 meer dan 1 miljoen volgers op Twitter en tot 100 Tweetberichten per dag [-@weathers_reformer_2014, p.83].
 
-Ergens nog internetgebruik in Japan op globale schaal tonen: aantal twitterberichten, 2channel, Technorati Japan "more than 37% of blogging is done by Japanese bloggers, which ranks Japan as one of the top blogging nations and as exceeding the English-speaking blogosphere (36%)." (more than 37% of blogging is done by Japanese bloggers, which ranks Japan as one of the top blogging nations and as exceeding the English-speaking blogosphere (36%).)
+Als iemand uit een gezin van gevestigde politici, met zelf een lange politieke carrière achter, zich wordt Shinzo Abe zelden in verband gebracht met populisme en het anti-elitisme dat daaruit voorkomt. Anderzijds maakt hij gebruik van sociale media als Facebook om, in Horiuchi's woorden, volgers op te roepen in een gevecht tegen massamedia.  [@horiuchi_public_2014; @t._stewart_global_2016] Ook speelde Abe in op een internet-haatcampagne tegen de sociala-liberale DPJ door tijdens de verkiezingscampagne in 2012 een persconferentie in Akihabara te houden en frequent live uit te zenden op *niconico*[@hollihan_dispute_2014, p.181-191].
 
 @rimmer_japanese_1999 parafraseren in een essay rond het internet en de Japanse maatschappij Kumon als stellend dat het internet een belangrijke rol zal spelen in het creëren van politiek active netizens en het vormen van nieuwe grass-rootsbewegingen.
 
-    Kiesleeftijd in 2016 verlaagd van 20 jaar naar 18: 2.4 miljoen extra stemgerechtigden: volgens Asahi weinig interesse in politics
+In 2013 werden kieswetten herzien om politieke campagnevoering op het internet toe te laten,[^38] en in 2016 werd de kiesleeftijd van 20 jaar naar 18 jaar verlaagd, wat 2.4 miljoen extra stemgerechtigden oplevert.
 
-    2013:  kieswetten worden herzien om politieke campagnevoering op het internet toe te laten
-
-    Politieke uitvoeringen daarvan:
-
-    - JCP: Kakusanbu: 8 animated characters for correct policies and politics
-    - DPJ: VOTE18 campaign: pay attention to politics and vote
-    - LDP: special manga pamphlet: "A Report to the Country" (history of LDP + procedures for voting)
-
-    grafiek van internetgebruik in Japan?
-
-Channel sakura (Japanese Culture Channel Sakura (日本文化チャンネル桜 *Nihon Bunka Channeru Sakura*) en nippon kaigi? [@johnston_net_2006]
-
-Japanese Women for Justice and Peace? なでしこアクション internet-based rightist revisionair netwerk: anti-Koreaanse propaganda
-
-Shinzo Abe bespreken? neigingen als neoliberaal populist met sterke steun van netouyo, kritiek op media en internet als gebruik, maar wel gevestigd in politieke elite @t._stewart_global_2016
-
-    The forces that swept Abe into power were precisely those that have helped 21st century populists elsewhere: economic anxieties, public disgust toward government corruption, and a reassertion of national identity in the face of foreign threats.
-
-    Prime Minister Abe Shinzo also actively uses Facebook to appeal to　his conservative supporters. Updates of his Facebook page usually attract thousands of　viewers and comments, and many of these viewers are known to have an Internet　rightist tendency. As mentioned above, Internet rightists tend to have critical views of　the existing media organizations, and Abe takes full advantage of such a tendency and　often urges his supporters on his Facebook page to join in the fight against the mass　media.　[@horiuchi_public_2014]
+---
 
 Een opzet van deze paper is een nood aantonen naar verder onderzoek achter enige correlatie tussen internetcommunicatie en groei aan populisten. Als case-study en eerste aanzet daartoe gaat deze paper verder in op de synergie tussen de rechtsnationalistische *netto-uyoku* internetstem en de ultranationalistische grassroots-beweging **Zaitokukai**, waarin Makoto Sakurai een centrale rol speelt.
-
 
 \newpage
 
@@ -214,15 +195,21 @@ Hack argumenteert dat een primair kenmerk van het uit een ironische inside-joke 
 
 exclusive nationalism, kritiek tov 
 
-@tsuji__2008 states the online nationalists show strong affinity toward these ideological characters: 
+@tsuji__2008 spoort volgende algemene, ideologische karaktertrekken terug in het gedrag van *netto-uyoku* nationalisten:
 
-1. Anti-Korean/Chinese sentiments 
-2. Adherence for conservative policies and charismatic leaders
-3. Active participation in online communication
-4. Strong suspicion toward mass media 
-5. Generosity toward online “flaming”
+1. Anti-Koreaans en/of Anti-Chinees sentiment 
+2. Een voorkeur voor een conservatief beleid en charismatische leiders
+3. Actieve participatie aan internetcommunicatie
+4. Achterdocht jegens massamedia
+5. Frequent deelnemen aan internet '*flaming*'[^40]
 
 Higashi paper bekijken: factoren die bijdragen tot nationalisme
+
+Dankzij de anonieme aard van internetcommunicatie, en de rol van het internet als een *volkswil 2.0*, kan niet alleen de radicale aard van extremistische volksbewegingen verborgen worden, ook consensus wordt op die wijze gecreëerd. Dat, door in te spelen op de morele waarden en homogene *wij*-heid van Japanse *netizens*, en het antagoniseren van zowel andere mediavormen (de rol van massamedia als manipulatief en het bewust verbergen van waarheden), als van kritische tegenstanders - zij worden afgestempeld als Koreaanse anti-Japanse  spionnen. 
+
+De wij-groep wordt overtuigd om actie te ondernemen en waarheid over Japanse vijanden te verspreiden om anderen te doen ontwaken. Op die wijze maken ze zichzelf zowel tot patrotische burger als tot activist die dankzij het medium zonder moeite kan participeren door bijvoorbeeld video's te delen of te participeren in discussies [@murai_net_2012, pp. 373-374].
+
+>Thus, the tendency of exclusive nationalism called Net Uyoku pervades throughout the online community with good intentions, until the day they eradicate “anti-Japanese” enemies. [@murai_net_2012, pp. 373-374]
 
 ###Zuid-Korea
 
@@ -232,13 +219,17 @@ Korea-boom
 
 嫌韓活動
 
+Anti-Japans sentiment online
+
+Na een overwinning van schaatskampioene Yu-Na Kim tegenover Mao Asada op de 2010 olympische winterspelen ontstond er een klein media-incident als gevolg van een cyberaanval op 2channel. Door een online lastercampagne die beweerde dat de jury werd omgekocht door de Zuid Koreaanse overheid, hielden meer dan 10,000 Koreaanse netizens op 1 maart 2010[^41] een poging om 2channel stillegden.
+
 ###China
 
 Positie tov China
 
 response to anti-Japanese movement 
 
-    Chinese fishing trawler colliding with two Japanese Coast Guard vessels in the disputed territory of the Senkaku/Diaoyutai islands in September 2010. This incident resulted in the arrest of the trawler’s captain and his crew and is perceived to have led to export restrictions of rare earth minerals from China to Japan. Consequently, the frictions that have developed in Sino-Japanese relations over the incident have been accompanied by a lively debate in 2channel. Boards such as “East Asia” have hosted opinions voicing the legitimacy of Japan’s claims over the islands, debates on the measures taken by the Japanese government, and the implications for the two countries’ bilateral relations. Furthermore, the way in which a debate within 2channel can spur an international backlash from Japan’s neighbors has also been illustrated by a broadly covered incident in March 2010, with media reporting that an attack on 2channel by an army of more than 10,000 Korean netizens eventually caused a temporary shutdown of the online forum. The cyber attack was triggered by a series of events including Japanese postings against the Korean skating queen Kim Yu-Na, who defeated Japan’s Mao Asada in the Vancouver Winter Olympics, claiming that Kim won the gold medal due to South Korea’s bribing the jury.
+Een recent incident dat anti-Chinees sentiment online in de hand werkte was het Minjinyu 5179 incident in 2010. Een collisie tussen een Chinese vissersboot en twee Japanse kustvaartschepen op betwist gebied nabij de Pinnacle-eilanden leidde tot het afkoelen van Sino-Japanse diplomatieke betrekkingen en sterke discussies op het internet. De terughoudendheid van de Japanse overheid om videomateriaal van dat accident vrij te geven, alsook het ingaan op de eisen gesteld door China, leidden tot ook antagonisering van de DPJ.
 
 ###Politieke steun
 
@@ -254,8 +245,6 @@ Murai (2012) stelt dat [@murai_net_2012, p.371]
 
 Argumenten luiden vaak dat de *netto-uyoku* en de daaruit ontwikkelde xenofobische volksbewegingen een klein, te verwaarlozen onderdeel zijn van de Japanse maatschappij [@penney_racists_2013], maar dat die stem zich niet enkel beperkt tot de duistere regionen van de *cyberspace*, bewijst een onderzoek naar hate speech door het Japanse ministerie van Justitie in maart 2016 gepubliceerd: tussen april 2012 en september 2015 werden er over heel Japan 1152 xenofobische protestacties gehouden [@nikaido__2016]. 
 
-Die soort doelstellingen en thema's kwamen online vooral sterk aan bod tijdens het bestuur van de door hun verachte, sociaal-liberale DPJ, de Democratische Partij van Japan. Tegenpartij LDP, de Liberaal-Democratische Partij van Japan, speelde hier op in tijdens de verkiezingen in 2012: zo hielden ze een persconferentie in Akihabara en zonden ze frequent live uit op *Niconico* [@hollihan_dispute_2014, p.181-191]. 
-
     " Engesser and Häussler suspect that a conscious political strategy lies behind this. People who feel insecure tend to seek support from charismatic leaders and simple ideologies. And this is exactly what the populists offer."
 
 ###2011 als keerpunt
@@ -266,29 +255,21 @@ Na het doorbreken van de machtspositie van de LDP door de JDP in 2009 groeide er
 
 ### De Pinnacle-eilanden[^5]
 
-Ook wanneer toenmalig gouverneur van Tokyo Shintaro Ishihara in 2012 bekend maakte de Senkaku-eilanden (een belangrijk pijnpunt in huidige Sino-Japanse relaties) te willen overkopen en een online-crowdfunding campagne opstartte, was het diezelfde stem die zich hier collectief bij aansloot en aanzette tot donaties, met een uiteindelijke 1,485,201,967 yen[^4] verzameld door 113,602 burgers [@hollihan_dispute_2014, p.185].
+Ook wanneer toenmalig gouverneur van Tokyo Shintaro Ishihara in 2012 bekend maakte de Pinnacle-eilanden (een belangrijk pijnpunt in huidige Sino-Japanse relaties) te willen overkopen en een online-crowdfunding campagne opstartte, was het diezelfde stem die zich hier collectief bij aansloot en aanzette tot donaties, met een uiteindelijke 1,485,201,967 yen[^4] verzameld door 113,602 burgers [@hollihan_dispute_2014, p.185].
 
 Argument maken dat public opinion onder netto-uyoku discours de Japanse overheid beinvloede in het nationaliseren van de Pinnacle-eilanden in 2012 door de sterke steun die ze gaf aan Ishihara Shintaro en zijn bovenstaande plan. (Zie blame-avoidance) Overheid werd geforceerd in die positie doordat een private aankoop door Ishihara zowel tot overheidskritiek zou kunnen leiden als tot provocatie van China: enerzijds mogelijke conflicten beperken, anderzijds potentiëel inspelen op nationalistische public opinion [@horiuchi_public_2014]
 
 ##Internetcommunicatie
 
-###2Channel
+###2channel
 
-Opgericht in 1999 door Hiroyuki Nishimura, student in Arkansas. Aantal gebruikers nu? 
+>"... an Internet site 'that has more influence on Japanese popular opinion than the prime minister, the emperor and the traditional media combined'" [@katayama_2-channel_2007]
 
-    Eleven years after 2channel went online, the platform has developed into Japan’s most important Internet forum. The site registers 2.7 million posts every day throughout a vast jungle of more than 800 active boards comprising thousands of threads. In fact, this massive online forum represents the world’s largest bulletin board system.
+2channel werd door Hiroyuki Nishimura, toen een uitwisselstudent in Arkansas, opgericht in 1999. In 2007 werd het het grootste anonieme forum online met 2.7 miljoen berichten per dag verspreid over 800 categoriëen [@katayama_2-channel_2007]. Door de anonimiteit en lakse regulering daarvan werd het een populair middel om op grassroots level politiek en media te discussiëren [@maslow_nationalism_2011-1].
 
-@maslow_nationalism_2011-1
+Anderzijds resulteerde het wel in 50 civiele rechtszaken en meer dan 4 miljoen dollar aan schadevergoedingen en andere sancties voor laster, schending van auteursrecht, enzovoort [@katayama_2-channel_2007].
 
-anonymous forum, enorm aantal gebruikers
-
-This gave birth to an Internet site “that has more influence
-on Japanese popular opinion than the prime minister, the emperor and the
-traditional media combined” (Katayama, 2007)
-
-    Debates within the innumerable boards cover everything from politics to pornography, and from celebrities to sports, while users express their opinions under a veil of anonymity guided only by a set of loose guidelines and no moderation. This environment has enabled Japanese to contest conventional views delivered through mass media and to criticize Japanese and regional politics at the grassroots level.
-
-    Concerns like this, according to Katayama (2007), have led to the platform’s founder Nishimura being faced with 50 civil lawsuits and more than $4 million in settlement and court penalties for copyright violations, defamation, and other claims.
+Een voorbeeld van nationalistische discussies die zich offline kunnen uiten zien we in enkele protestacties die op 7 en 21 augustus 2011 werden gehouden aan het hoofdkantoor van Fuji Television in Tokio. Woede ontstond uit het idee dat Fuji Television,[^42] onder de stijgende populariteit van Koreaanse pop-cultuur, voornaam Koreaanse drama's uitzend en werd vervolgens bestempeld als 'traitor network'. Het aantal deelnemers per protest werd tussen de 2,000 en 10,000 geschat [@chosun.com_japanese_2011;@the_dong-a_ilbo_japans_2011;@schilling_japanese_2011].
 
 ###Nico Nico Douga
 
@@ -298,12 +279,11 @@ populary through subcultural atmosphere: most popular categories being Anime, vi
 
 Politics category: hate towards East Asia nations, DPJ and mass media: net uyoku idelogy
 
-    Murai (2012): 92.8% (3712/4000) of videos in the top 100 “Ranking” of Politic category during the research period contained ideology of Net Uyoku. On the contrary, videos to criticize such radical stance of the community only gained 2.65% (106/4000) of all
-
-
-![Ratio of videos "Politics" category (Bron: Murai 2012, p.370); murai_2012_nico]
+@murai_net_2012 kwam na statistisch onderzoek tot de conclusie dat tijdens zijn onderzoek 92.8% (3712/4000) van het aantal videos in de top 100 in de categorie Politiek netto-uyoku ideologieën bevatten, met maar 2.65% (106/4000) videos die daar kritiek op gaven [-@murai_net_2012, p.370].
 
 (dit zelf opnieuw doen?)
+
+nog iets over Channel sakura (Japanese Culture Channel Sakura (日本文化チャンネル桜 *Nihon Bunka Channeru Sakura*) en nippon kaigi? [@johnston_net_2006]
 
 ###Twitter
 
@@ -311,9 +291,9 @@ Twitter kernwoorden, zelf ook minen?
 
 ---
 
-    why does the online community feel the sense of affinity toward the group of anonymous people, how do people discriminate comrades from enemies despite borderless characteristic of online communication, how does nationalism become heightened online, and why does ideological polarization occur. To answer these questions, this paper discusses the case of the online nationalism from more theoretical perspective. [@murai_net_2012, p.374]
-
     What constitutes Net Uyoku a community is their collective identity as online “citizens”. That is, despite the absence of physical identity cues, the online community is unified together under the name of “patriotic citizens” that share the same intention to fight against anti-Japanese elements. On the other hand, they show radically exclusive stance against opinions that oppose their nationalistic stance. Although the online communication is fundamentally taken place under anonymity, the community clearly distincts their comrades from enemies. Rather, the anonymity plays a particularly critical role in the formation of a community in cyberspace. Burkhalter (1999) explains that, in the communication that lacks physical identity, tones of posted messages tend to become a significant identity cue. By mentioning racial identity in particular, Burkhalter points out that online people tend to discern other’s identity based on their stereotypical image toward others. Once the image is established, it is difficult for ones to dispel the labeled online identity. In Net Uyoku’s case, those who express nationalistic sentiments that agree to their ideology are welcomed as patriotic Japanese citizens, whereas those who oppose against them are unilaterally labeled as “anti-Japanese”, based on the stereotype of enemies.
+
+Net als [@murai_net_2012, p.374] poogt deze paper vanuit theoretisch perspectief een verklaring te geven aan het nationalisme en de ideologische polarisatie die plaatsvind in de anonimiteit van bovenstaande communicatieplatformen.
 
 ##Theoretische benadering
 
@@ -357,50 +337,31 @@ Makoto Sakurai een controversiëel figuur noemen in het Japanse medialandschap i
 
 Volgens een uitgebreid interview met Sankei News in 2016 groeide Sakurai, geboren op 15 februari 1972, vaderloos op in Fukuoka, waar hij studeerde aan Fukuoka Kenritsu Nakama High School, tot hij in Edogawa, Tokio ging werken als part-time administratief bediende. In dit interview haalt hij enkele anecdotes naar boven die zijn huidige politieke ideologieën zouden bepaald hebben, zoals een geschiedenisleerkracht die frequent vrijaf nam voor de Japan Teachers' Union[^33], studenten uit een aan Noord Korea-geaffilliëerde school[^34] die frequent geweld zouden plegen of studenten bedreigen voor geld [@inc_tokio_2016], stemmen omkopen via wellfare. 
 
-既成政治家は中韓に甘いですか -> 
-
-排外主義の権化
-
-- Tegen permanent residence van buitenlanders (外国人の永住権)
-
-Als startpunt voor zijn anti-Koreaanse activiteiten (*kenkan katsudou*, 嫌韓活動) geeft hij echter een anecdote over zijn ervaring op een online messaging board tijdens het wereldkampioenschap voetbal in 2002 georganiseerd in Seoul, Zuid-Korea. Ondanks volgens hem massale steun voor Korea vanuit Japan kwam er toch anti-Japans sentiment uit Zuid-Koreaanse hoek (『日本負けろ』).
+Als startpunt voor zijn anti-Koreaanse activiteiten (*kenkan katsudou*, 嫌韓活動) geeft hij echter een anecdote over zijn ervaring op een online messaging board tijdens het wereldkampioenschap voetbal in 2002 georganiseerd in Seoul, Zuid-Korea. Ondanks volgens hem massale steun voor Korea vanuit Japan kwam er toch anti-Japans sentiment uit Zuid-Koreaanse hoek (『日本負けろ』). Vervolgens stelt hij dat Zuid-Koreanen geen genoegen nemen met 1964 verdrag dat relaties tussen Zuid-Korea en Japan normaliseerden[^35] en zaken als de comfort women issue laten aanslepen.
 
 >"「３年間そんなことをやってきて、最後の討論の際、彼らにこう言ったんです。『朝鮮人が日本人に虐殺されたというけれども、それなら併合期になぜ人口が倍増しているんだ』と。韓国の教科書にその統計が載っているんですよ。国定教科書ですよ、向こうの。だからその向こうの国の教科書を相手に見せたんですよ。そうしたらこう返したんです。『いや、日帝は奴隷を作るために人口を増やしたんだ』と。私、脱力しましたね。これはダメだと、議論にならない」" [@inc_tokio_2016-1]
 
->"Na dit drie jaar te hebben volgehouden (het online discussiëren met Zuid-Koreanen) zei ik hun op het moment van mijn laatste discussie het volgende: 'Jullie stellen dat Koreanen [onder Japans colonialisme] massaal werden geëxecuteerd. Waarom verdubbelde de bevolking dan tijdens de annexatie?' Die cijfers staan in Zuid-Koreaanse schoolboeken hoor! In schoolboeken door de Koreaanse overheid gepubliceerd! Daarom liet ik die schoolboeken aan hun zien. Ik kreeg het volgende antwoord: 'Nee, het Japans Keizerrijk deed de bevolking stijgen om slaven te maken.' Daarop werd ik uitgeput. Nu is het genoeg, ik kan niet verder argumenteren."
-
-Vervolgens stelt hij dat Zuid-Koreanen geen genoegen nemen met 1964 verdrag dat relaties tussen Zuid-Korea en Japan normaliseerden[^35] en zaken als de comfort women issue laten aanslepen.
-
-- Hilary Clinton: op economisch gebied 反日
-- Donald Trump: op militair gebied 反日
+>"Na dit drie jaar te hebben volgehouden [het online discussiëren met Zuid-Koreanen] zei ik hun op het moment van mijn laatste discussie het volgende: 'Jullie stellen dat Koreanen [onder Japans colonialisme] massaal werden geëxecuteerd. Waarom verdubbelde de bevolking dan tijdens de annexatie?' Die cijfers staan in Zuid-Koreaanse schoolboeken hoor! In schoolboeken door de Koreaanse overheid gepubliceerd! Daarom liet ik die schoolboeken aan hun zien. Ik kreeg het volgende antwoord: 'Nee, het Japans Keizerrijk deed de bevolking stijgen om slaven te maken.' Toen was ik uitgeput. Nu is het genoeg, ik kan niet verder blijven argumenteren."
 
 ##Zaitokukai
 
-Bestaand onderzoek rond de *netto-uyoku* en *Zaitokukai* door o.a. @morris-suzuki_beyond_2015, @yasuda__2012 en @yamaguchi_xenophobia_2013
+De Zaitokukai, oftewel de "Associatie tegen het erkennen van Speciale Rechten van Zainichi" (*Zainichi Tokken o Yurusanai Shimin no Kai*, 在日特権を許さない市民の会) werd door Sakurai opgericht in 2007 en hoort tot een nieuwe golf van extreem-rechtse volksbewegingen in de late jaren 2000[^43] .
 
-De Zaitokukai, oftewel de "Associatie tegen het erkennen van Speciale Rechten van Zainichi" (*Zainichi Tokken o Yurusanai Shimin no Kai*, 在日特権を許さない市民の会) ... deel van Team Kansai (チーム関西, overkoepelende citizen's group waaronder ook shukenkai)
-
-    the group is established to protest against Korean residents in Japan, who they claim to be parasitizing in Japan with unfair social aids that are given as compensation for World War II. The group insists that the history of Japanese invasion of Korean territory and the problem of “comfort woman” are wholly fabricated by Koreans, who shamelessly ask for too much compensation. Thus, to expel Korean residents from Japanese land and bring rights back to the hands of “true” Japanese citizens, the group protests on the street with sometimes even violent actions (Yasuda, 2012). [@murai_net_2012, p.373]
-
-...een thema dat in Sakurai's populistische retoriek vaak terug komt.
+De groep is ontstaan als protest jegens de Zainichi-diaspora in Japan en andere buitenlanders die misbruik zouden maken van een oneerlijk systeem van sociale zekerheid ter compensatie van door Koreanen gefabriceerde oorlogsmisdaden in de Tweede Wereldoorlog. Uit een patriotisch idee om dit anti-Japanse gedrag te bestrijden en Japan terug in handen van 'echte Japanners' te geven houdt de groep frequent protestacties [@yasuda__2012; @murai_net_2012, p.373]. Het narratief van beide Korea's en de Koreaanse burgers in Japan als vijand van Japan is een thema dat in Sakurai's retoriek vaak terug komt.
 
 @tamura_niggling_2014 [-@tamura_niggling_2014: p.127] plaatst de Zaitokukai volgens **Tabel 1.2** onder de categorie van '*Contentious Democracy*'.
 
-    The second example is the anti-foreign, extreme right movements. Since late 2000, they have been active in Japan and systematically conducted by organizations. One such organisation which has received much attention is Zaitoku-kai, an advocatory movement that opposes Korean residents. Since its establishment in 2007, this organization has framed Korean residents in Japan as enemies and has been a leading anti-Korean resident movement. Two points are worth noting. First, the organizers of this movement use the Internet to recruit potential members and to organize activities (Higuchi 2014). They carefully observe citizens who post anti-Korean resident comments on the Internet, approach them, and recruit them.To attract such individuals who have antipathies to foreigners latently, Zaitoku-Kai posts video clips to its website. Through those clips, the Zaitoku-Kai successfully organizes individualized citizens, whom existing political actors fail to reach. Second, its illiberal characteristic is to breach values of liberal democracy by conducting hate speech. In response, anti-Zaitokukai countermovements criticizing its hate speech have emerged.
+Volgens @higuchi__2014 worden potentiële leden aangewerfd door netto-uyoku met anti-koreaanse berichten online te contacteren, of door een latent wantrouwen jegens buitenlanders naar buiten te brengen met haatwekkende videos.
 
-
-
-    For professed citizen activism like Zaitokukai, the internet provides a remarkably ideal condition for propagation of ideology. If nationalistic activities are carried out by obvious extremists, politically-undetermined young people would easily keep distance from them. Nevertheless, thanks to anonymity and the Internet’s premise as citizen’s media, extremists can conceal the radical nature of their groups. Fabricating the consensus of the community by advertising their ideology repeatedly under anonymity, the community can pretend it to be the right opinion as shared and supported widely by the majority of online comrades. Moreover, their messages appeal that only “we” as informed online citizens can solve the problem. The dichotomy of “right” and “evils” inflates viewer’s sense of justice; stimulated the sense of patriotism by alarming propaganda to inform the nearing crisis of their nation, viewers are persuaded to spread the “truth” so that other comrades can also be awakened. Eventually, they turn themselves into patriotic activists, embracing nationalistic ideology propagated by other citizens. Once viewers become activists, the internet provides them with the way to participate in the protest without hesitation; they can easily support the activism by posting videos online, or simply giving anonymous comments of supports without risking their daily life. Thus, the tendency of exclusive nationalism called Net Uyoku pervades throughout the online community with good intentions, until the day they eradicate “anti-Japanese” enemies. [@murai_net_2012, pp. 373-374]
+@murai_net_2012 stelt dat op deze wijze de organisatie leden kan ronselen die gevestigde politici niet kunnen bereiken[^44] [-@murai_net_2012, p. ]. Met kenmerken aangehaald in het tweede deel levert het internet een ideale omgeving ter, om het in Murai's woorden te stellen, propagatie van ideologie.
 
 2015, voor de rechter: hatespeech veroordeling -> som betalen aan North Korean school: Clash met Toru Hashimoto in opiniemeeting  (in bijlage transcript toevoegen?)
 
-京都朝鮮第一初級学校による公園の不正占用に在特会が抗議した事件。在特会は約１２００万円の賠償命令を受けた
+    京都朝鮮第一初級学校による公園の不正占用に在特会が抗議した事件。在特会は約１２００万円の賠償命令を受けた
 
 Makoto Sakurai beweert vlak voor hij uit de Zaitokukai stapte, een uitnodiging te hebben ontvangen om naar een congress van nationalistische bewegingen als de Griekse Golden Dawn in Budapest te komen. Hoogstwaarschijnlijk gaat het over een geplande "National Policy Institute Conference" dat gepland werd in Budapest maar grondwettelijk werd tegengehouden en leidde tot een deportatie van NPI-oprichter Richard Spencer.
 
-
-
-###Zainichi Diaspora
+###Zainichi diaspora
 
 Korte paragraaf over voornaam doelwit van Zaitokukai
 
@@ -412,28 +373,32 @@ In 2016 stelde Sakurai zich als onafhankelijke kandidaat voor in de gouverneursv
 
 **7 campagnepunten**
 
->1. 都内に在住する外国人の生活保護の支給を停止し、生活保護の受給者は日本国民に限定する
-"Stop het betalen van financiële overheidssteun aan buitenlanders die verblijven in Tokio en beperk ontvangers daarvan tot het Japanse volk"
->2. 都内の不法残留者を4年間で半減させる
-"Verminder binnen vier jaar het aantal overschrijdingen van de toegelate verblijftijd met de helft "
->3. 日本人に対し外国人が虚構の歴史に基づいて責め立てる反日ヘイトスピーチを禁止する
-"Verbied opdringerige anti-Japanse hate speech gebaseerd op een door buitenlanders fictieve Japanse geschiedenis "
->4. 税の公平性に反し減免されている、総連・民団の中央本部および関連施設への課税強化を図る
-"Ontwerp een belastingsverhoging voor het hoofdkantoor en de bijhorende faciliteiten van Chongryon en Mindan (die een oneerlijke belastingsverlaging krijgen)"
->5. 違法賭博パチンコに対し規制を実施
-"Implementeer een wetgeving met betrekking tot pachinko als illegaal gokken"
->6. 韓国学校建設については中止
+>1. 「都内に在住する外国人の生活保護の支給を停止し、生活保護の受給者は日本国民に限定する」         
+"Stop het betalen van financiële overheidssteun aan buitenlanders die verblijven in Tokio en beperk ontvangers daarvan tot het Japanse volk."
+
+>2. 「都内の不法残留者を4年間で半減させる」         
+"Verminder binnen vier jaar het aantal overschrijdingen van de toegelate verblijftijd met de helft."
+
+>3. 「日本人に対し外国人が虚構の歴史に基づいて責め立てる反日ヘイトスピーチを禁止する」         
+"Verbied opdringerige anti-Japanse hate speech gebaseerd op een door buitenlanders fictieve Japanse geschiedenis."
+
+>4. 「税の公平性に反し減免されている、総連・民団の中央本部および関連施設への課税強化を図る」         
+"Ontwerp een belastingsverhoging voor het hoofdkantoor en de bijhorende faciliteiten van Chongryon en Mindan (die een oneerlijke belastingsverlaging krijgen)."
+
+>5. 「違法賭博パチンコに対し規制を実施」         
+"Implementeer een wetgeving met betrekking tot pachinko als illegaal gokken."
+
+>6. 「韓国学校建設については中止」         
 "Stop het bouwen van scholen voor Zuid-Koreanen."
->7. コンパクト五輪の意義を考え、現行の東京五輪案の改善を図る
+
+>7. 「コンパクト五輪の意義を考え、現行の東京五輪案の改善を図る」         
 "Ontwerp ter verbetering van het huidig Tokyo Olympics plan een meer compacte Tokyo Olympics."
 
-[@shiminjichi_3rd_makoto_2016; @sankei_news_7_2016]
+[Bron: @shiminjichi_3rd_makoto_2016; @sankei_news_7_2016]
 
 Asahi Shimbun bekritiseerde zijn campagne als gebruikmakend van de verkiezingen om hate speech te verspreiden. Sankei News daarentegen raporteerde op frequente basis over Sakurai's campagne en hield ook een diepgaand interview.
 
 Tabel opstellen van krantenweergaven en toon gebruikt in de big 5 (Asahi, Yomiuri, Mainichi, Nikkei, en Sankei News)?
-
-Vergelijking met 田母神俊雄 ? Die eerder wel meer stemmen won van ネット保守層
 
 ###Japan First Party (日本第一党)
 
@@ -443,24 +408,22 @@ Het programma van de JFP is opgesteld in 10 categoriëen[^36] met een totaal aan
 
 >**Hoofdpunten van de JFP (日本第一党綱領)**
 
->我が党は、世界に比類無き万世一系の天皇を戴いた民族国家日本の国体を護ります。          
+>「我が党は、世界に比類無き万世一系の天皇を戴いた民族国家日本の国体を護ります。」          
 >"Onze partij zal de in deze wereld ongeëvenaarde, ongebroken keizerlijke lijn van de Japanse keizer beschermen als belichaming van de natiestaat Japan."
 
->我が党は、日本第一主義を掲げ、日本国の国益を死守し、日本人の権利を保護し、日本全体の幸福追求を目指します。         
+>「我が党は、日本第一主義を掲げ、日本国の国益を死守し、日本人の権利を保護し、日本全体の幸福追求を目指します。」         
 >"Onze partij hanteert een Japan First doctrine, verdedigt de nationale belangen van Japan, beschermt de rechten van het Japanse volk en streeft naar geluk voor heel Japan"
 
->我が党は、本来の保守主義の復権を目指し、我が国の伝統、文化、歴史を守る為、時として外敵と戦う事を辞さない覚悟を持ちます。         
+>「我が党は、本来の保守主義の復権を目指し、我が国の伝統、文化、歴史を守る為、時として外敵と戦う事を辞さない覚悟を持ちます。」         
 >"Onze partij is gericht op het herstel van een essentieel conservatisme, en om de traditie, cultuur en geschiedenis van ons land te beschermen zijn we bereid om, in sommige gevallen, niet te aarzelen en buitenlandse vijanden te bestrijden."
 
->我が党は、逼迫する国際情勢の危機を看過する事なく、一日でも早く日本人自らの手で新憲法を制定し、国軍を保有することを目指します。         
+>「我が党は、逼迫する国際情勢の危機を看過する事なく、一日でも早く日本人自らの手で新憲法を制定し、国軍を保有することを目指します。」         
 >"Onze partij zal zijn ogen niet sluiten voor een urgente internationale crisis en zal zo spoedig mogelijk een door Japanse handen ontworpen nieuwe grondwet creëren met als doel een eigen nationaal leger te beheren."
 
->我が党は、歪な外国人社会福祉行政を廃止し、日本人のための社会福祉の充実を図ります。         
+>「我が党は、歪な外国人社会福祉行政を廃止し、日本人のための社会福祉の充実を図ります。」         
 >"Onze partij zal de misvormde (*crooked*) administratie van sociale zekerheid voor buitenlanders afschaffen en een verbeterde sociale zekerheid voor Japanners ontwerpen."
 
-[japan_first_party_japan_2016]
-
-Ideologieën? Conservatief, nationalistisch, antiglobalisme?
+[Bron: @japan_first_party_japan_2016]
 
 ##Kwantitatieve inhoudsanalyse van Sakurai's Twitter-gebruik (oud)
 
@@ -536,9 +499,21 @@ Hier komt data over Doronpa01
 | Average Likes        | ?     |
 | Average Daily Tweets | ?     |
 
+##Ideologieën en receptie
+
+Ideologieën? Conservatief, nationalistisch, antiglobalisme?
+
+(- Tegen permanent residence van buitenlanders (外国人の永住権)
+- Hilary Clinton: op economisch gebied 反日
+- Donald Trump: op militair gebied 反日)
+
+(Vergelijking met 田母神俊雄 ? Die eerder wel meer stemmen won van ネット保守層)
+
 \newpage
 
 #Conclusie (herschrijven)
+
+(Synergie tussen supply-side kenmerken als internet-democratie en demand-side kenmerken die leiden tot een crisis in identiteit creëren een spiraal van nationalisme waaruit enerzijds populisten kunnen ontstaan, en anderzijds populisten op in kunnen spelen.)
 
 (Stemmen als [@funabashi_japan_2017] stellen dat een rechtspopulisme als ervaard in West-Europa en de Verenigde Staten heeft gefaald in Japan. Een dergelijke stelling lijkt te kort door te bocht: het opentrekken van het Japans politiek systeem, en een sterke groei aan massamedia, heeft tot een hoop grassrootsbewegingen en politieke partijen met populistische ideologieën geleid die individueel bekeken geen sterke impact op het politiek landschap lijken te hebben, maar als geheel wel een nieuwe trend in politiek denken lijken te vormen.)
 
@@ -556,9 +531,13 @@ Een optie daarvoor is het verder utiliseren van de relatief nieuwe mogelijkheden
 
 Verder is het aangewezen om een dergelijke analyse uit te voeren op het huidig politieke beleid in Japan onder Premier Shinzo Abe als middel om populistische retoriek kwantitatief te analyseren.
 
+#Bijlagen
+
 #Referenties
 
 (nog slordig)
+
+[murai_2012_nico]: images/murai_2012_nico.jpg
 
 [^1]: Afkorting van *Zainichi Tokken o Yurusanai Shimin no Kai* (在日特権を許さない市民の会),  vrij vertaald als "Associatie tegen het erkennen van Speciale Rechten van Zainichi". Zainichi (在日) betekend letterlijk "Verblijven in Japan" en kan elke buitenlandse inwoner van Japan aanduiden, maar in deze context verwijst het eerder naar de Koreaanse diaspora.
 [^2]: Ontstaan in 2005 als protest tegen het stijgende succes van Zuid-Koreanse populaire media in Japan (de *Korean Wave*). Een sequel werd in 2006 uitgebracht.
@@ -578,7 +557,6 @@ Verder is het aangewezen om een dergelijke analyse uit te voeren op het huidig p
 [^15]: Een partij, opgericht in Augustus 2016, met een naamgeving gehaald uit de America First retoriek van President Trump en doelstellingen analoog tot de als grassroots-beweging ontstaande populistische Tea Party in de Verenigde Staten.
 [^18]: Nativisme als term in politieke wetenschappen verklaren: Mudde (2007: 19) ‘an ideology, which holds that states should be inhabited exclusively by members of the native group (“the nation”) and that nonnative elements (persons and ideas) are fundamentally threatening to the homogenous nation-state’.
 [^19]: De Japan Restoration Party, opgericht door Toru Hashimoto in 2012 tot de verdere formatie van de Japan Innovation Party in 2014 wordt ideologisch beschreven als een mengeling van neoliberalisme met elementen van nationalisme en conservatisme.
-
 [^20]: Denk aan Koizumi's sterk beeldende retoriek als 「自民党をぶっ壊す!」 (Lett. "Ik ga de LDP vernietigen").
 [^21]: Neoliberaal populisme als een op de markt gericht beleid dat vakbonden antagoniseert en de eigen rol in economie en maatschappij tot een minimum reduceert door het privatiseren van publieke instellingen en reduceren van sociale voordelen [@weathers_reformer_2014].
 [^22]: Taggart definiëerde populisme als ideologie aan de hand van volgende universele kenmerken: gevestigde politici of beleid als antagonist, een gebrek aan 'core values', reactionair, fluïditeit @taggart_populism_2000
@@ -597,7 +575,11 @@ Verder is het aangewezen om een dergelijke analyse uit te voeren op het huidig p
 [^34]: Chōsen gakkō (朝鮮学校) uitleggen
 [^35]: Treaty on Basic Relations between Japan and the Republic of Korea (*nikkan kihon joyaku*, 日韓基本条約), getekend op 22 juni 1965.
 [^36]: grondwet (憲法), nationale defensie en diplomatie (国防 · 外交), immigratie en buitenlanders (移民 · 外国人) onderwijs (教育), economie (経済), landbouw, bosbouw en visserij, milieu (農林漁業 · 環境), maatschappij (社会), openbare orde (治安), welzijn (福祉), politiek (政治)
-
-
-[murai_2012_nico]: images/murai_2012_nico.jpg
 [^37]: (APA Group contrersie rond Nanking en comfort women)
+[^38]: Als gevolg hielden verschillende partijen campagnes om jongeren politiek bewust te maken. de JCP ontwierp o.a. een animatiereeks en de LDP bracht een mangapamflet "Bezorgen aan het Land" (*kuni ni todoke*, 国に届け) uit dat de geschiedenis van de LDP alsook stemprocedures beschreef [@asahi_shimbun_elections_2016]. 
+[^39]: De International Telecommunication Union rapporteert dat in 2015 91,06% van de totale bevolking gebruikt maakt van het internet, wat hoger is als in België en de VS, en ongeveer gelijk ligt met het Verenigd Koninkrijk. Volgens Technorati Japan werden er in 2007 meer blogs geschreven in het Japans als in het Engels (37% Japans tegenover 36% in het Engels). In 2011 kwamen 25% van alle Twitterberichten uit Japan.
+[^40]: Het plaatsen van vijandelijke of beledigende berichten op internetdiscussies.
+[^41]: Deze dag werd gekozen als verwijzing naar de Sam-il beweging in 1919, het eerste Koreaans protest tijdens de Japanse kolonisatie. 
+[^42]: Fuji TV kwam in 2015 nogmaals onder vuur, ditmaal voor wat werd beschouwd als opzettelijk haat zaaien tussen Zuid-Korea en Japan. Dat, door het foutieve gebruik van Japanse ondertitels van geïnterviewde Zuid-Koreanen in Japan. Volgens die ondertitels zouden de geïnterviewden "Japan haten" [@osaki_fuji_2015].
+[^43]: deel van Team Kansai (チーム関西, overkoepelende citizen's group waaronder ook shukenkai). (Iets vermelden over Japanese Women for Justice and Peace? なでしこアクション internet-based rightist revisionair netwerk, anti-Koreaanse propaganda, comfort women ontkenning, opgericht door een Zaitokukai-lid)
+[^44]: Anderzijds ontstaan er, door het aansporen tot haat en verspreiden van extreem-nationalistische propaganda, ontstaan er ook anti-Zaitokukai tegenbewegingen (voorbeeld?). 
