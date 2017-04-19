@@ -310,8 +310,7 @@ $endif$
 \newcommand*{\intro}{\begingroup
 \topskip0pt
 
-
-\textit{Deze bachelorpaper telt momenteel ??,??? tekens, spaties inbegrepen. De literatuurlijst, tabellen en voetnoten worden daar niet bijgeteld.}
+\textit{Deze bachelorpaper telt momenteel 68,523 tekens, spaties inbegrepen. De literatuurlijst, bijlagen en voetnoten worden daar niet bijgeteld. (wat met tabellen, abstract en Japanse inleiding?)}
 
 \textbf{Onderzoeksthema}
 
