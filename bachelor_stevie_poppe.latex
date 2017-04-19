@@ -378,6 +378,9 @@ $keywords$
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \usepackage{underscore}
 
+\usepackage{relsize,etoolbox}% http://ctan.org/pkg/{relsize,etoolbox}
+\AtBeginEnvironment{quote}{\smaller}% Step font down one size relative to current font.
+
 \begin{document}
 \sloppy
 
