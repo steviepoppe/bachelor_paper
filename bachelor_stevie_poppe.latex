@@ -68,6 +68,7 @@ $if(geometry)$
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 $endif$
 \usepackage{hyperref}
+
 $if(colorlinks)$
 \PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
 $endif$
@@ -310,7 +311,7 @@ $endif$
 \newcommand*{\intro}{\begingroup
 \topskip0pt
 
-\textit{Deze bachelorpaper telt momenteel 68,523 tekens, spaties inbegrepen. De literatuurlijst, bijlagen en voetnoten worden daar niet bijgeteld. (wat met tabellen, abstract en Japanse inleiding?)}
+\textit{Deze bachelorpaper telt momenteel 87,523 tekens, spaties inbegrepen. De literatuurlijst, Japanse inleiding en bijlagen worden daar niet bijgerekend.}
 
 \textbf{Onderzoeksthema}
 
@@ -340,6 +341,22 @@ $keywords$
 %----------------------------------------------------------------------------------------
 % BEGIN DOC 
 %----------------------------------------------------------------------------------------
+\newcommand\myshade{85}
+%\colorlet{mylinkcolor}{violet}
+%\colorlet{mycitecolor}{YellowOrange}
+%\colorlet{myurlcolor}{Aquamarine}
+\colorlet{mylinkcolor}{NavyBlue}
+\colorlet{mycitecolor}{NavyBlue}
+\colorlet{myurlcolor}{NavyBlue}
+\hypersetup{
+  linkcolor  = mylinkcolor!\myshade!black,
+  citecolor  = mycitecolor!\myshade!black,
+  urlcolor   = myurlcolor!\myshade!black,
+  colorlinks = true,
+  %pagebackref = true,
+  
+}
+
 
 \usepackage{pdfpages}
 \usepackage{fancyhdr}
@@ -382,6 +399,8 @@ $keywords$
 \AtBeginEnvironment{quote}{\smaller}% Step font down one size relative to current font.
 
 \begin{document}
+
+\pagenumbering{roman}
 \sloppy
 
 \clearpage\titleTH
@@ -425,6 +444,8 @@ $endif$
 
 \setlength{\parindent}{2em}
 
+\pagenumbering{arabic}
+
 $body$
 
 
@@ -439,6 +460,13 @@ $else$
 \renewcommand\refname{$biblio-title$}
 $endif$
 $endif$
+
+\textit{Als standaard in de sociale wetenschappen hanteer dit document **Chicago B** (‘auteur-jaarsysteem’) als verwijzingssysteem.
+
+(nog slordig)}
+
+
+
 \bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
 
 $endif$
@@ -447,6 +475,17 @@ $if(biblatex)$
 \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
 
 $endif$
+
+
+\newpage
+
+\makeatletter
+\def\@seccntformat#1{%
+  \expandafter\ifx\csname c@#1\endcsname\c@section\else
+  \csname the#1\endcsname\quad
+  \fi}
+\makeatother
+
 $for(include-after)$
 $include-after$
 
