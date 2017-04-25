@@ -352,9 +352,7 @@ $keywords$
   linkcolor  = mylinkcolor!\myshade!black,
   citecolor  = mycitecolor!\myshade!black,
   urlcolor   = myurlcolor!\myshade!black,
-  colorlinks = true,
-  %pagebackref = true,
-  
+  colorlinks = true,  
 }
 
 
@@ -446,10 +444,11 @@ $endif$
 
 \pagenumbering{arabic}
 
+\setcounter{section}{-1}
+
 $body$
 
 
-\setlength{\parindent}{0em}
 
 $if(natbib)$
 $if(bibliography)$
@@ -460,10 +459,6 @@ $else$
 \renewcommand\refname{$biblio-title$}
 $endif$
 $endif$
-
-\textit{Als standaard in de sociale wetenschappen hanteer dit document **Chicago B** (‘auteur-jaarsysteem’) als verwijzingssysteem.
-
-(nog slordig)}
 
 
 
@@ -477,17 +472,17 @@ $if(biblatex)$
 $endif$
 
 
-\newpage
+%\newpage
 
-\makeatletter
-\def\@seccntformat#1{%
-  \expandafter\ifx\csname c@#1\endcsname\c@section\else
-  \csname the#1\endcsname\quad
-  \fi}
-\makeatother
+%\makeatletter
+%\def\@seccntformat#1{%
+%  \expandafter\ifx\csname c@#1\endcsname\c@section\else
+%  \csname the#1\endcsname\quad
+%  \fi}
+%\makeatother
 
 $for(include-after)$
 $include-after$
-
 $endfor$
+
 \end{document}

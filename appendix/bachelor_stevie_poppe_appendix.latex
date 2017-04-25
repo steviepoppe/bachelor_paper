@@ -1,3 +1,5 @@
+\appendix
+
 \section{Bijlagen}\label{bijlagen}
 
 \subsection{Methodologie}\label{methodologie}
@@ -84,9 +86,9 @@ van deze methodologie ligt, naast de mogelijkheid tot foutieve
 correlaties, in de subjectiviteit die het opstellen van een typologie
 als ``\emph{lone wolf}'' - één enkele onderzoeker - oplevert. \ldots{}
 
-\subsubsection{Twitter dataset}\label{twitter-dataset}
+\subsubsection{Twitter datasets}\label{twitter-datasets}
 
-\sout{(btw google trends bekijken voor kernwoorden?)}
+\paragraph{Makato Sakurai}\label{makato-sakurai}
 
 De dataset die gebruikt wordt in de kwantitatieve inhoudsanalyse bevat
 de laatste 3200 publieke berichten en \emph{retweets} geplaatst door
@@ -106,8 +108,17 @@ De dataset werd vervolgens opgekuist met \textbf{Open Refine} door voor
 deze paper overbodige meta-informatie te verwijderen (welke?). De in
 deze paper gebruikte visualisaties werden vervolgens samengesteld door
 middel van \textbf{Tableau}. Een interactieve visuele weergave van de
-gebruikte dataset valt ten slotte te raadplegen op
-\sout{https://steviepoppe.net/}.
+gebruikte dataset valt ten slotte te raadplegen op (hier komt nog een
+link).
+
+\paragraph{Netto-Uyoku}\label{netto-uyoku}
+
+Hier komt uitleg over het dataminen van Twitterberichten met
+\emph{netto-uyoku}-retoriek. Gebruik van streaming API. Probleem:
+
+\begin{verbatim}
+The API does not only give you access to a couple of weeks of data if you are willing to wait for it. The streaming API gives you access to 1% of Tweets posted in a real time, or 10% if you have been granted elevated access. 
+\end{verbatim}
 
 \subsection*{Referenties}\label{referenties}
 \addcontentsline{toc}{subsection}{Referenties}

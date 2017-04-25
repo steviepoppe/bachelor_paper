@@ -2,6 +2,11 @@
 link-citations: true
 ---
 
+\section*{Bijlagen}
+\addcontentsline{toc}{section}{Bijlagen}  
+
+\appendix
+
 #Bijlagen
 
 ##Methodologie
@@ -40,12 +45,18 @@ Bron: @riffe_analyzing_2014
 
 Aldus zal deze paper gebruik maken van kwantitatieve inhoudsanalyse, gebaseerd op Riff en Lacy's ontwerpvoorstel (**Tabel 8.1**), op een verzameling van berichten gehaald van de publieke Twitter pagina van Makoto Sakurai. Dat als middel om Sakurai's voornaamste politieke ideologieën te categoriseren, en aldus als hulpmiddel in het beantwoorden van de onderzoeksvraag van deze paper. Voor die reden werd een typologie gecodeerd die aan de hand van een aantal kernwoorden berichten plaatst in verschillende categorieën (zie deel 5.5). De zwakte van deze methodologie ligt, naast de mogelijkheid tot foutieve correlaties, in de subjectiviteit die het opstellen van een typologie als "*lone wolf*" - één enkele onderzoeker - oplevert. ...
 
-###Twitter dataset
+###Twitter datasets
 
-~~(btw google trends bekijken voor kernwoorden?)~~
+####Makato Sakurai
 
 De dataset die gebruikt wordt in de kwantitatieve inhoudsanalyse bevat de laatste 3200 publieke berichten en *retweets* geplaatst door Makoto Sakurai op Twitter-account **&commat;Doronpa01** (https://twitter.com/doronpa01) en werd samengesteld op 4/04/2017 14:00. De dataset werd samengesteld door de Twitter (REST) API recursief aan te spreken met Python tot elk tweet-bestand verzameld werd in een JSON-bestand. De limitatie van 3200 berichten werd opgelegd door de API van Twitter - naast het webscrapen van elk individueel bericht is er nog geen mogelijkheid om deze te omzeilen. Het Python-script, de rauwe data, en de CSV aan Tweets zijn online als digitale bijlage te raadplegen op https://github.com/steviepoppe/bachelor_paper. Elk Tweet-object bevat naast het bericht zelf meta-informatie die meer inzicht geeft in het leven dat het bericht leidt vanaf dat het geplaatst werd.
 
-De dataset werd vervolgens opgekuist met **Open Refine** door voor deze paper overbodige meta-informatie te verwijderen (welke?). De in deze paper gebruikte visualisaties werden vervolgens samengesteld door middel van **Tableau**. Een interactieve visuele weergave van de gebruikte dataset valt ten slotte te raadplegen op ~~https://steviepoppe.net/~~.
+De dataset werd vervolgens opgekuist met **Open Refine** door voor deze paper overbodige meta-informatie te verwijderen (welke?). De in deze paper gebruikte visualisaties werden vervolgens samengesteld door middel van **Tableau**. Een interactieve visuele weergave van de gebruikte dataset valt ten slotte te raadplegen op (hier komt nog een link).
+
+####Netto-Uyoku
+
+Hier komt uitleg over het dataminen van Twitterberichten met *netto-uyoku*-retoriek. Gebruik van streaming API. Probleem:
+
+    The API does not only give you access to a couple of weeks of data if you are willing to wait for it. The streaming API gives you access to 1% of Tweets posted in a real time, or 10% if you have been granted elevated access. 
 
 ## Referenties
