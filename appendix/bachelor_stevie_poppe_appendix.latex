@@ -1,3 +1,2316 @@
+\section*{日本語要旨 (まだ)}\addcontentsline{toc}{section}{日本語要旨 (まだ)}
+
+日本語要旨
+
+\newpage
+
+\section[Inleiding]{\texorpdfstring{Inleiding\footnote{Deze paper is
+  opgesteld in een crossbreed markdown - latex formaat en is open-source
+  beschikbaar op \url{https://github.com/steviepoppe/bachelor_paper}}}{Inleiding}}\label{inleiding75}
+
+De tweede helft van 2016 kenmerkt zich als politiek rumoerig. In Japan
+haalt de LDP-Komeitocoalitie een tweederdemeerderheid in het Hoger Huis,
+voldoende om een veelbesproken grondwettelijke revisie door te kunnen
+voeren. In Zuid-Korea wordt president Park Geun-hye wegens een politiek
+schandaal afgezet. In West-Europa ontstaat er sprake van een opmars van
+rechts-populistische partijen, en daadwerkelijk halen én het
+pro-Brexitkamp in het Brits EU-referendum, én Donald Trump als
+presidentiële kandidaat van de Verenigde Staten een meerderheid. Deze
+latere gebeurtenissen, vaak in één adem naast elkaar genoemd, worden
+wereldwijd door journalisten en politici bekeken als een belangrijke
+overwinning voor rechts-populisme en sterker, onder de noemer
+`post-truth politics'\footnote{\emph{post-truth} werd door Oxford
+  Dictionary verkozen tot woord van het jaar in 2016, en wordt door
+  Paelinck
+  (\protect\hyperlink{ref-paelinckux5fpost-truthux5f2016}{2016})
+  beschreven als ``omstandigheden waarbij objectieve feiten minder
+  doorwegen dan emoties voor het vormen van de publieke opinie''.}, als
+een keerpunt in politieke campagnevoering (Sismondo
+\protect\hyperlink{ref-sismondoux5fpost-truthux3fux5f2017}{2017}).
+
+Om deze groei te verklaren ontstaat er een vernieuwde interesse in
+studies rond populisme en meer specifiek, het aandeel van (sociale)
+media daarin. Rolfe
+(\protect\hyperlink{ref-rolfeux5freinventionux5f2016}{2016}) en Kim
+(\protect\hyperlink{ref-kimux5fdigitalux5f2009}{2009}) observeren in het
+internet een mogelijkheid tot rechtstreeks contact met de kiezer en een
+grotere mobilisatiecapaciteit vast. Zo wordt bijvoorbeeld het
+Twitter-gebruik van huidig Amerikaans president Trump geargumenteerd als
+cruciaal onderdeel van zijn campagne te zijn geweest (Ott
+\protect\hyperlink{ref-ottux5fageux5f2017}{2017}). Sociale
+netwerkdiensten als die van Google, Twitter en Facebook dragen daar tot
+bij in de vorm van o.a. zogenaamde \emph{filter-bubbles}\footnote{Algoritmes
+  die op basis van interesses relatieve inhoud voordragen, waardoor het
+  moeilijk wordt om een neutraal standpunt te houden.} (Zimmermann
+\protect\hyperlink{ref-zimmermannux5fdigitalux5f2017}{2017}), en op
+sociologisch niveau dragen meer anonieme fora als Reddit, 4chan, of de
+Japanse 2channel (2ちゃんねる) juist bij uit sociologische gevolgen die
+die anonimiteit met zich meebrengt.
+
+Deze bachelorproef onderzoekt of ook in Japan de ontwikkeling van het
+internet bijdraagt als voedingsbodem tot populisme en zijn sporen
+achterlaat in het huidige Japanse politiek discours. Zo argumenteren
+Yamaguchi
+(\protect\hyperlink{ref-yamaguchiux5fxenophobiaux5f2013}{2013}) en
+Yasuda (\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}) dat het
+internet voor ophefmakende groeperingen als de \emph{Zaitokukai}
+(在特会)\footnote{Afkorting van \emph{Zainichi Tokken o Yurusanai Shimin
+  no Kai} (在日特権を許さない市民の会), vrij vertaald als ``Associatie
+  tegen het erkennen van Speciale Rechten van Zainichi''. Zainichi
+  (在日) betekend letterlijk ``Verblijven in Japan'' en kan elke
+  buitenlandse inwoner van Japan aanduiden, maar in deze context
+  verwijst het naar naar de Koreaanse diaspora onder de noemer
+  \emph{zainichi kankoku ・ chosenjin} (在日韓国・朝鮮人).} niet alleen
+de organisatie van activiteiten betekent, maar dat ook het ontstaan
+terug te leiden valt naar internetcommunicatie: met name naar een
+groeiende extreemrechtse internetbeweging bekend onder de koepelterm
+\emph{netto-uyoku} (ネット右翼)\footnote{Samentreksel van
+  \emph{intaanetto} (インターネット) en \emph{uyoku} (右翼) dat de
+  rechtervleugel op het internet aanduidt. Wordt ook pejoratief afgekort
+  als \emph{netouyo} (ネトウヨ). Akihiro Kitada spreekt dan weer over
+  \emph{uyo-chu} (ウヨ厨) gebruikers, een samentreksel van \emph{uyoku}
+  右翼 (rechtervleugel) en \emph{chubo} 厨房 (wat gebruikt wordt voor
+  ``\emph{internet trol}'' en gekozen werd door de gelijke uitspraak met
+  中坊, wat op zich een afkorting is voor 中学校の坊や). Die term
+  ontstond als reactie op kinderachtige reactionaire berichten doorspekt
+  met anti-linkse of anti-Koreaanse retoriek (Itō, Okabe, en Tsuji
+  \protect\hyperlink{ref-itoux5ffandomux5f2012}{2012}, 80--81).}.
+Ondanks het laag aantal aanwezigen op protestacties en een laag
+geschatte aantal \emph{netto-uyoku} onder Japanse internetgebruikers
+(Yasuda \protect\hyperlink{ref-yasudaux5fux5f2012}{2012}) zijn er toch
+verschillende gebeurtenissen die een verschuiving in de Japanse
+maatschappij aantonen: het stijgend gebruik van sociale netwerkdiensten
+(SNS) door Japanse politici, het dalend vertrouwen in traditionele media
+door Japanse burgers, en de opkomst van een nieuwe, toegankelijkere golf
+van rechts-populistische bewegingen als de \emph{Zaitokukai} en
+\emph{Shukenkai} (主権会)\footnote{Afkorting van \emph{Shuken Kaifuku o
+  Mezasu Kai} (主権回復を目指す会), lett. ``Associatie gericht op het
+  Herstel van Soevereiniteit''.}.
+
+Het eerste hoofdstuk van deze paper bouwt een conceptueel kader rond
+(digitaal) populisme om vervolgens bestaand onderzoek van een
+veronderstelde Japans populisme en recente ontwikkelingen met betrekking
+tot het internet te bespreken. Wegens de beperkte scope van deze paper
+zal het focuspunt liggen op rechtspopulisme, met een tweede en derde
+hoofdstuk als casestudy dat toespitst op de \emph{netto-uyoku} en Makoto
+Sakurai. Het tweede hoofdstuk voert een literatuurstudie uit op de
+\emph{netto-uyoku} en brengt ze, in een eerste poging tot verdere
+conceptualisatie van digitaal populisme, in verband met modellen rond
+het effect van internetcommunicatie en anonimiteit op het individu. Het
+derde hoofdstuk poogt, volgens eerdere definitie, Makoto Sakurai
+empirisch aan te tonen als populist door middel van een kwantitatieve
+inhoudsanalyse van zijn Twitteractiviteit. Dat, als prominent spilfiguur
+van de \emph{netto-uyoku} met een niet te verwaarlozen invloedssfeer,
+maar anderzijds door zijn regelmatig verschijnen in berichtgeving als
+oprichter van de \emph{Zaitokukai}, kandidaat tijdens de
+gouverneursverkiezingen van Tokio in 2016, en recentelijk als huidig
+leider van de politieke Japan First Party (日本第一党)\footnote{Een
+  partij, opgericht in Augustus 2016, met een naamgeving gehaald uit de
+  America First retoriek van President Trump en doelstellingen analoog
+  tot de als grassroots-beweging ontstaande populistische Tea Party in
+  de Verenigde Staten.}. Ten slotte blikt de conclusie terug op de
+bevindingen uit deze studie en stelt een verder onderzoeksplan voor naar
+zaken die buiten het bereik van deze paper lagen.
+
+Eerder werden deze thema's al gedeeltelijk aangehaald door academici en
+journalisten als Tsuji
+(\protect\hyperlink{ref-tsujiux5fux5f2008}{2008}), Murai
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}), Yasuda
+(\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}), Yamaguchi
+(\protect\hyperlink{ref-yamaguchiux5fxenophobiaux5f2013}{2013}), N.
+Higuchi (\protect\hyperlink{ref-higuchiux5fjapansux5f2014}{2014}) en
+Morris-Suzuki
+(\protect\hyperlink{ref-morris-suzukiux5fbeyondux5f2015}{2015}), maar
+ondanks een frequente vermelding naar de rol van het internet in een
+opkomst aan populisten in Japan (Taniguchi
+\protect\hyperlink{ref-taniguchiux5fchangingux5f2007}{2007}; Kobori
+\protect\hyperlink{ref-koboriux5fpopulismux5f2013}{2013}; Trifu
+\protect\hyperlink{ref-trifuux5fprefecturalux5f2013}{2013}; Lindgren
+\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}) zijn er
+weinig stappen gezet om dat concreet te onderzoeken. Deze paper poogt
+bij te dragen door gebruik te maken van nieuwe methoden van empirisch
+onderzoek binnenin de sociale en politieke wetenschappen, met name die
+uit het relatieve nieuwe domein van sociale netwerkanalyse.
+
+\newpage
+
+\section{Digitaal Populisme in Japan}\label{digitaal-populisme-in-japan}
+
+\subsection{Populisme - een Conceptueel
+Kader}\label{populisme---een-conceptueel-kader}
+
+De notie van populisme als theoretisch concept binnen de politieke
+wetenschappen kent een moeilijke ontwikkeling. Tot nu toe lijkt er mede
+uit geografische en tijdsgerelateerde contextuele verschillen in
+definitie\footnote{Mudde plaatst populisme historisch in drie golven:
+  een agrarische golf ontstaan in laat-tsaristisch Rusland en onder the
+  People's Party in de VS, een socioeconomisch populisme in Zuid-America
+  dat pleitte voor een grotere staatsol in economische zaken, en een
+  xenofobisch populisme ontstaan in West-Europa met nadruk op cultuur en
+  identiteit.}, maar ook door een pejoratieve connotatie die de term met
+zich meebrengt eerder dan ideologie waarin een partij zich kan vinden,
+geen algemeen aanvaarde definitie (Bale, Van Kessel, en Taggart
+\protect\hyperlink{ref-baleux5fthrownux5f2011}{2011}; Mudde
+\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013}). Nochtans toont
+de adoptie van de term in het mainstream discours als gevolg van
+politieke verschuivingen in 2016 een nood aan verdere theoretische
+uitwerking. Met een als `universeel toepasbare' grondlegging opgesteld
+door Taggart
+(\protect\hyperlink{ref-taggartux5fpopulismux5f2000}{2000}),\footnote{Taggart
+  definiëert populisme als ideologie aan de hand van volgende universele
+  kenmerken: gevestigde politici of beleid als antagonist, een gebrek
+  aan `core values', reactionair en fluïditeit (Taggart
+  \protect\hyperlink{ref-taggartux5fpopulismux5f2000}{2000}).} volgt
+deze paper Mudde, Kaltwasser
+(\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013}), Abts en Rummens
+(\protect\hyperlink{ref-abtsux5fpopulismux5f2007}{2007}, 409) in hun
+minimalistische definitie van populisme als `\emph{thin-centred
+ideology}' - een ideologie eerder dan politieke strategie of retoriek,
+gereduceerd tot drie basiskenmerken (`\emph{a model of three logics}'),
+waardoor populisme als ideologie assimileert tot `\emph{thick-centred}'
+ideologieën als fascisme of nationalisme.
+
+\subsubsection{Het Volk, de Elite en de
+Volkswil}\label{het-volk-de-elite-en-de-volkswil}
+
+Gebruik makend van een wij/zij-dichotomie die vaak
+nativistisch\footnote{Mudde verklaart nativisme als een ideologie die
+  stelt dat elementen niet inherent aan een oorspronkelijke homogene
+  natiestaat (zoals ideeën of personen) een fundamentele dreiging vormen
+  voor die natiestaat.} is van aard, worden buitenstaanders (de
+\emph{Andere}) afgebeeld als de morele antagonist van een veronderstelde
+homogene, van nature goedaardige wij-groep. Die wij-groep kan onder een
+weinigzeggende, normatieve noemer als `het volk' (Abts en Rummens
+\protect\hyperlink{ref-abtsux5fpopulismux5f2007}{2007}) of `\emph{the
+heartland}'\footnote{Taggart beschrijft een \emph{heartland} als een
+  geïdealiseerde voorstelling van de gemeenschap die een populist
+  vertegenwoordigt, als bevolking van een regio gebaseerd op een
+  geromantiseerd verleden (Taggart
+  \protect\hyperlink{ref-taggartux5fpopulismux5f2000}{2000}, 95--98).}
+(Taggart \protect\hyperlink{ref-taggartux5fpopulismux5f2000}{2000}) vele
+vormen aannemen: het ideaalbeeld van één bevolking onder één natie, of
+net ter verdediging van volkssoevereiniteit. Laclau plaatst dergelijke
+terminologie zelfs centraal in zijn definitie van populisme en noemt ze
+lege omhulsels of \emph{empty signifiers}, symbolen die een proces van
+abstrahering ondergaan en tenslotte in hun betekenisloosheid dienen ter
+expressie van universele ideeën (Laclau
+\protect\hyperlink{ref-laclauux5fpopulistux5f2005}{2005}).\footnote{Met
+  andere woorden, de term ondergaat als significant of betekenaar in
+  Rousseauiaanse woorden, doorheen verschillende contexten verschillende
+  betekenissen tot het los staat van enige conceptuele inhoud.}
+
+Die wij-groep wordt vervolgens onderdrukt door de \emph{Andere}. In
+populistische ideologieën zal de \emph{Andere} voornaam een sociale of
+economische `elite' in nemen (vaak naar verwezen als `het
+establishment'), met als primair kenmerk een machtspositie ten nadele
+van `het volk'. Mudde beschrijft het verband tussen `elite' en economie
+als specifiek belangrijk voor reeds gezetelde politici, die vaak een
+gebrek aan politiek succes wijten aan die economische elite. Naast de
+\emph{Andere} als elite wordt vaak ook, in wat beschreven wordt als een
+nieuwe golf van populisme, geantagoniseerd op basis van etnische
+afkomst; zij het xenofobie tegenover moslims in West-Europa en de VS, of
+tegen de Koreaanse diaspora in rechts-populistische retoriek in Japan.
+
+Een derde concept als basiskenmerk van populisme is dat van de volks- of
+algemene wil, een notie oorspronkelijk geconceptualiseerd door Rousseau
+als vorm van directe democratie (eerder dan representatieve democratie)
+waarin het volk rechtstreeks in staat is tot het opstellen van wetten.
+Als populistisch concept neemt dat onder rechtspopulisten vaak echter
+een nativistische vorm aan dat, door de homogeniteit van een volk te
+veronderstellen, neigingen heeft tot autoritarisme\footnote{Mudde
+  verklaart autoritarisme als `het geloof in een strict-geordende
+  maatschappij, met zware straffen op het schenden van regels opgelegd
+  door de autoriteiten'.} (Abts en Rummens
+\protect\hyperlink{ref-abtsux5fpopulismux5f2007}{2007}, 408--9). Mudde,
+in referentie naar Canovan, argumenteert echter ook dat populisme niet
+noodzakelijk als anti-democratisch gezien moet worden: uit democratische
+hoek kan het juist groepen aanduiden die zich niet voldoende
+gerepresenteerd voelen. Die enerzijds ondermijnende, anderzijds
+democratisch-corrigerende mogelijkheden leiden tot een ambivalente
+relatie tussen populisme en democratie (Mudde
+\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013}, p16-17).
+
+Ten slotte kan het begrip populisme als ideologie, om het in Hegeliaanse
+dialectiek te stellen, enkel bestaan als een directe tegenstelling
+daarvan bestaat. Door de notie van populisme tot fluïde ideologie met
+bovenstaande kenmerken te reduceren plaatst hij dat, als een populist
+die in naam van het volk vecht tegen de elite, recht tegenover de idee
+van `elitisme', dat een zelfde wij/zij dichotomie tussen een
+intellectuele en cultureel superieure elite plaatst tegenover een
+ongecultiveerd volk, en pluralisme, dat verschillen in een maatschappij
+juist als sterkte bestempelt (Mudde
+\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013}).
+
+\subsubsection{Populisme en
+Macro-Economie}\label{populisme-en-macro-economie}
+
+Door populisme als fluïde, minimalistische ideologie te aanschouwen
+stelt Mudde de mogelijkheid om opkomst en ontwikkeling van populistische
+partijen te verklaren eerder aan de hand van vraag en aanbod, dan door
+het electoraat te herleiden naar een makkelijk te manipuleren massa. Hoe
+groot het aandeel van elk aspect juist is is niet meetbaar, maar Mudde
+en Lindgren bevestigen een voorkeur voor supply-side verklaringen. Met
+demand-side verwijst Mudde naar factoren die een vraag naar populisten
+creëren: factoren op macroniveau als globalisering, immigratie, een
+falende economie, enzovoort. Supply-side aan de andere kant wordt verder
+opgedeeld in externe en interne kenmerken. De interne kant betreft
+eerder partijstructuren als `ideologie, leiderschap, organisatie en
+internationalisering'. Externe zaken omvatten dan externe instituten en
+contexten die een opkomst in de hand werken: massamedia, maar ook het
+politieke systeem als een geheel. Dat geheel aan opdelingen
+classificeert Lindgren in \textbf{Tabel 1.1}
+(\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}).
+
+\textbf{Table 1.1} Opdeling van voorbeelden in de opkomst en
+ontwikkeling van populistische partijen
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+Type factoren & Voorbeelden van factoren\tabularnewline
+\midrule
+\endhead
+Demand-side & Economische depressie\tabularnewline
+& Politiek onvermogen en corruptie\tabularnewline
+& Crisis modus\tabularnewline
+& Het falen van de ontwikkelingsstaat\tabularnewline
+Supply-side: & Ideologie\tabularnewline
+intern & Leiderschap\tabularnewline
+& Opbouw organisatie\tabularnewline
+Supply-side: & Versoepelen van het partij-systeem\tabularnewline
+extern & Groei aan zwevende kiezers\tabularnewline
+& TV-democratie\tabularnewline
+\bottomrule
+\end{longtable}
+
+Bron: (Lindgren
+\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015})
+
+In een volgende stap in het opstellen van dit conceptueel kader
+analyseert deze paper de compatibiliteit van bovenstaand,
+minimalistische model met populisme als onderzocht in Japanse
+literatuur, toegepast op Japan.
+
+\subsubsection{Het Japans Model van Populisme
+(日本型ポピュリズム)}\label{het-japans-model-van-populisme-ux65e5ux672cux578bux30ddux30d4ux30e5ux30eaux30baux30e0}
+
+De flamboyante verkiezingscampagne en retoriek van voormalig Eerste
+Minister Jun'ichiro Koizumi, alsook zijn vele economische hervormingen
+en groeiende populariteit, leiden tot een academische interesse in het
+populisme in Japan. Lindgren, in zijn onderzoek over Japans populisme,
+stelt dat populistische kenmerken terug te vinden zijn in
+anti-establishment retoriek van verscheidene prominente politici gaande
+van Tanaka Kakuei als zelf-verklaarde stem van het volk (door
+Schlesinger beschreven als Japan's eerste na-oorlogse populist
+(\protect\hyperlink{ref-schlesingerux5fshadowux5f1999}{1999})), tot meer
+recente controversiële spelers als Ishihara Shintaro en Hashimoto Toru,
+respectievelijk ex-burgemeester van Osaka en Tokio, en beiden verwant
+aan de Japan Restoration Party\footnote{De Japan Restoration Party,
+  opgericht door Toru Hashimoto in 2012 en in 2014 hervormd tot de Japan
+  Innovation Party, wordt ideologisch beschreven als een mengeling van
+  neoliberalisme met elementen van nationalisme en conservatisme.}
+(Lindgren \protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}).
+
+Aan het voortouw van studies om Japans populisme te conceptualiseren
+staat Otake (\protect\hyperlink{ref-otakeux5fnihonux5f2003}{2003}),
+gevolgd door Kimura Masato (\protect\hyperlink{ref-ux5fux5f2006}{2006}),
+Matsutani Mitsuru (\protect\hyperlink{ref-matsutaniux5fux5f2009}{2009};
+\protect\hyperlink{ref-matsutaniux5fnihongataux5f2010}{2010}), Yoshida
+Toru (\protect\hyperlink{ref-yoshidaux5fpopyurizumuux5f2011}{2011}), en
+Kobori Masahiro
+(\protect\hyperlink{ref-koboriux5fpopulismux5f2013}{2013}). Hun
+onderzoek vertrekt telkens vanuit een focus op Koizumi, maar behandelt
+ook een op regionaal niveau ervaarde `golf aan nieuw-populisme' in de
+vroege jaren 2000. De hervormingen van het Japans politiek model in de
+jaren '90 heeft namelijk geleid tot een bestaansmogelijk van nieuwe,
+onafhankelijke politieke spelers, zoals Ishihara en Hashimoto en
+partijen als de Sunrise Party.
+
+Lindgren, in een samenvatting van Otake's eerste definitie van Japans
+populisme (日本型ポピュリズム), stelt dat moderne Japanse populisten
+`zichzelf afschilderen als buitenstaander', `politiek reduceren tot een
+gevecht tussen moreel goed en fout', en `massamedia op theatrale wijze
+exploiteren om zichzelf als anti-establishment af te schilderen'
+(Lindgren \protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015},
+578) - kenmerken compatibel met Mudde's model van een populist die een
+wij/zij-narratief ten nadele van `het establishment' creëert met
+zichzelf als vertegenwoordiger van de volkswil. Ook Yoshida en Matsutani
+bekrachtigen Otake's stelling dat een retoriek van `wij versus zij'
+gebruikt wordt ter creatie van een morele strijd tussen een fundamenteel
+goede bevolking (met name de populisten en hun volgers) en een
+gedemoniseerde bureaucratie. Anderzijds maken Otake, Yoshida, en
+Matsutani wel een onderscheidt tussen het populisme terug te vinden
+onder rechtspopulisten in Europa, en een neoliberaal populisme\footnote{Neoliberaal
+  populisme als een op de markt gericht beleid dat vakbonden
+  antagoniseert en de eigen rol in economie en maatschappij tot een
+  minimum reduceert door het privatiseren van publieke instellingen en
+  reduceren van sociale voordelen (Weathers
+  \protect\hyperlink{ref-weathersux5freformerux5f2014}{2014}).} van
+Koizumi, dat op sociaal en cultureel vlak conservatief is maar vooral
+neoliberale hervormingen wenst. Yoshida vat het model van modern Japans
+populisme zelfs samen tot `neoliberale hervormingen', het `schrijven van
+narratieven' (物語の政治) en een `politiek van
+vijandelijkheden'\footnote{Denk aan Koizumi's sterk beeldende retoriek
+  als 「自民党をぶっ壊す!」 (Lett. `Ik ga de LDP vernietigen').}
+(敵作る政治).
+
+In Lindgren's woorden stelt Masako dat er daarom een onderscheidt moet
+gemaakt worden tussen het Europees model en het Japans neoliberale
+model. Dat, omdat het rechtspopulisme in Europa er geen is die in Japan
+voorkomt. Kobori daarentegen argumenteert het tegendeel: naast een
+neoliberaal populisme als die van Koizumi op nationale schaal, ligt die
+uitgevoerd door o.a. Ishiharo op plaatselijke schaal meer in lijn met
+het Europees model van nativistisch rechtspopulisme. Dat staaft verder
+Mudde's `\emph{thin-centred}' populisme als fuseerbaar met andere
+ideologieën. Lindren legt daar tevens een verband met Betz
+(\protect\hyperlink{ref-betzux5ftwoux5f1993}{1993}), die eerder al op
+gelijkaardige wijze twee vormen van Europees populisme herkende:
+neoliberaal en xenofoob van aard (Lindgren
+\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}, 581). Hij
+typeert aan de hand van dat onderzoek \textbf{Tabel 1.2}: een
+categorisering van mogelijke \emph{thick-centred} ideologieën in Japans
+populisme.
+
+\textbf{Table 1.2} Potential ideologies in Japanese populisms and
+examples of potential candidates for being populists in Japan
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.21\columnwidth}\raggedright\strut
+Ideologie
+\strut\end{minipage} &
+\begin{minipage}[b]{0.35\columnwidth}\raggedright\strut
+Voorname standpunten
+\strut\end{minipage} &
+\begin{minipage}[b]{0.35\columnwidth}\raggedright\strut
+Voorbeelden van potentiële kandidaten
+\strut\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Neoliberalisme
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Neoliberale hervormingen
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Koizumi, Hashimoto, Kawamura, Ozawa, Watanabe
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Welzijnsoriëntatie
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Verdeling van rijkdom
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Tanaka, Hatoyama
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Anti-materialisme
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Kritiek op hebzucht en materialisme
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Ishihara
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Nativisme
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Xenofobe meningen over niet-Japanners
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Ishihara, Koizumi?, Hashimoto?
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Revisionisme
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Herinterpretatie van de Japanse geschiedenis
+\strut\end{minipage} &
+\begin{minipage}[t]{0.35\columnwidth}\raggedright\strut
+Ishihara, Koizumi?, Hashimoto?
+\strut\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Bron: (Lindgren
+\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}, 586)
+
+Kobori bekijkt de impact van populistische ideologiëen op het Japanse
+politieke landschap. De JRP (Japan Restoration Party) won tijdens de
+verkiezingen in 2012 bijvoorbeeld 54 zetels en werd daarmee de derde
+grootste partij in het Lager Huis. Mede-oprichter Toru Hashimoto won een
+jaar eerder al burgemeestersverkiezingen in Osaka. Een gevolg daarvan is
+dat gevestigde partijen geforceerd worden om beleidgeving te assimileren
+door middel van wat hij beschijft als `\emph{blame-avoidance}'
+strategiëen (Kobori
+\protect\hyperlink{ref-koboriux5fpopulismux5f2013}{2013}, 108; Lindgren
+\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}, 579). In
+Kobori's woorden beïnvloedt het populisme publieke opinie namelijk
+zodanig dat grotere partijen beleid wel moeten assimileren om politieke
+afstraffing te vermijden. Het nationaliseren van de Pinnacle-eilanden in
+2012 door de sterke steun die het publieke discours gaf aan Ishihara
+Shintaro en zijn intentie om die over te kopen kan als dergelijk zo'n
+voorbeeld gezien worden. Horiuchi argumenteert dat, doordat een private
+aankoop door Ishihara zowel tot overheidskritiek zou kunnen leiden als
+tot provocatie van China, de DPJ werd geforceerd in een positie van
+nationalisering (Horiuchi
+\protect\hyperlink{ref-horiuchiux5fpublicux5f2014}{2014}, 36--38).
+
+Onderzoek naar de demografie van het electoraat van populisten in Japan
+is relatief schaars en lijkt niet gezien te worden binnen de context van
+een aanhoudende vergrijzing in Japan. Matsutani hield bijvoorbeeld een
+enquête rond stemgedrag na de 2011 burgemeestersverkiezingen in Osaka en
+concludeerde daaruit dat de grootste steungroep van Hashimoto bestond
+uit leden van de hogere en middenklasse, voornaam boven 60 jaar, als een
+socio-economische groep met voorkeur voor liberale hervormingen. Kobori
+stelt zelfs kort door de bocht dat deze groei aan neoliberale populisten
+simpelweg `\emph{the people's opinion}' reflecteert en in rechtstreekse
+tegenstelling staat tot een electoraat in West-Europa, dat vaak in
+verband wordt gebracht met een economische lagere klasse en gebrek aan
+onderwijs (Kobori
+\protect\hyperlink{ref-koboriux5fpopulismux5f2013}{2013}, 115--16).
+
+Bovenstaand Japans onderzoek over populisme past ideologisch binnen de
+universele \emph{thin-centred} definitie van populisme als beschreven
+door Mudde, mits inclusie van Betz' `\emph{two faces}': een ofwel
+bijkomende neoliberale, ofwel conservatieve ideologie. Dat, omdat
+verschillende Japanse academici een `ideologisch verschil' lijken te
+suggereren tussen het Japans model van populisme en het Europees of
+Noord-Amerikaans model. Om het in Betz' woorden te stellen zou dan vanaf
+de 21ste eeuw vooral het nationalistische, xenofobe populisme in Europa
+en Noord-Amerika aan populariteit winnen, terwijl in Japan het
+nieuw-populisme vanaf 2000 voornaam een neoliberaal beleid voor ogen
+heeft, met een lichtere focus op cultureel en sociaal vlak.
+
+Kobori en anderen stellen volgens Lindgren's typologie vooral een
+demand-side verklaring voor ter verklaring van deze groei aan populisme,
+met onder andere de langdurige economische crisis (de `\emph{lost
+decade}'), de Hanshin-aardbeving van 1995, terreur onder Aum Shinrikyo,
+de Fukushima-aardbeving van 2011 en de daaropvolgende nucleare crisis
+als ontstaansreden. Anderzijds argumenteert Kobori ook dat massamedia en
+internetcommunicatie populariteit verder in stand zet door een verhoogde
+interesse in deze populistische `nieuwkomers'. Zich toespitsend op een
+supply-side als onderdeel in een groei aan modern populisme,
+veronderstelt deze paper, met \textbf{tabel 1.1.} in gedachten, een
+`E-democratie'\footnote{Een samentreksel van \emph{electronic} en
+  \emph{democracy}, als verwijzing naar een democratische vorm waarin
+  internetcommunicatie participatie van een gemeenschap stimuleert.} als
+aanvulling van deze typologie. Lindgren
+(\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015}, 589)
+argumenteert namelijk als volgt:
+
+\begin{quote}
+``A third explanation for populist success may be the increased
+importance of TV and the internet as mediums for political messages.
+Politicians with less resources, no formal clientele, and without the
+capacity to exploit the finances of the state for pork and barrel
+politics (as LDP politicians traditionally have accessed) can, in
+particular if they are charismatic and gifted with rhetorical skills,
+utilize the opportunities offered by `TV democracy'.''
+\end{quote}
+
+\subsection{\texorpdfstring{E-democratie en `Digitaal
+Populisme'}{E-democratie en Digitaal Populisme}}\label{e-democratie-en-digitaal-populisme}
+
+De discussie over het aandeel van internetcommunicatie in populisme is
+er een verhit. Aan de ene kant van het spectrum luiden enkelen het
+argument dat het digitale medium de offline trend van populistische
+groei enkel verderzet en dat `het politieke landschap niet fundamenteel
+zou veranderen {[}zonder sociale media{]}'. Dat omdat, ondanks het
+slimme gebruik van sociale en digitale media, politieke opinievorming
+vandaag nog voornaam door mainstream berichtgeving gebeurt (Bimber
+\protect\hyperlink{ref-bimberux5finternetux5f1998}{1998}; Zimmermann
+\protect\hyperlink{ref-zimmermannux5fdigitalux5f2017}{2017}). Aan de
+andere kant van het spectrum gaan er echter vele stemmen akkoord met het
+belang van telecommunicatietechnologie in de evolutie van politieke
+participatie, met voorbeelden van nieuwe sociale bewegingen allerhande:
+de Egyptische en Tunesische revolutie, protesten in Brazilïe, een
+Koreaanse presidentsverkiezing van Roh Moo-hyun in 2003, enzovoort
+(Murai \protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}; Hale e.a.
+\protect\hyperlink{ref-haleux5fpoliticalux5f2016}{2016}; Ricardo
+Buettner
+\protect\hyperlink{ref-ricardoux5fbuettnerux5fsystematicux5f2016}{2016}).
+Politieke participatie en de vraag daar naar zijn namelijk zowel
+logistiek als financiëel eenvoudig te creëren op het internet en hebben
+een lagere instapdrempel (Tamura en Kobayashi
+\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}).\footnote{Benjamin
+  Krämer legt een verband maar stelt dat een structurele analyse van de
+  relatie tussen internetcommunicatie en populisme een verdere analyse
+  van onderliggende sociale, technologische en linguistische structuren
+  vereist (\protect\hyperlink{ref-kramerux5fmediaux5f2014}{2014}, 53).
+  Iets waar deze paper een eerste poging tot geeft.}
+
+Niettemin neemt, in de eerder opgestelde definitie van populisme, het
+internet als rechtstreeks contactmiddel tussen het archetype van de
+populist en het volk echter een belangrijke rol in: die in de creatie
+van het wij/zij-narratief waarin mainstream-nieuwsgeving dient als
+manipulatiemiddel van de gedemoniseerde elite. Een ander kenmerk van
+digitaal populisme, alsook bijwerking van de decentralisatie van het
+internet, ligt in de groei en verspreiding van nieuwe en alternatieve
+media. Iets wat als alternatief dient voor wat meer en meer in een
+poging tot laster afgeschilderd wordt als `\emph{Lügenpresse}',
+`\emph{masugomi}' (マスゴミ)\footnote{Een woordspelling op de afkorting
+  voor \emph{mass media}, \emph{masukomi} (マスコミ). \emph{Gomi} (ゴミ)
+  betekent hier rommel of rotzooi.} of `\emph{fake news}', pers die zich
+niet zou hanteren aan neutrale journalistieke standaarden. Discussies
+worden ondermijnt enerzijds door de onderliggende idee dat informatie
+gehaald uit media foutief zou zijn, en anderzijds door de opkomst van
+alternatieve bronnen die vaak in stijl mainstream media kopiëren maar
+zelf geen gebruik maken van die journalistieke standaarden.
+
+Verder brengt een individualisering en fragmentering van een
+maatschappij als gevolg van een aanhoudende globalisatie en verspreiding
+van massamedia bepaalde veranderingen mee. Het idee van één
+conventionele partij voor één sociale classe als electoraat is niet
+langer van toepassing, en aldus worden politieke partijen niet langer
+als het meest representatief gezien. Tamura argumenteert dat dat leidt
+tot een groeiende twijfel in gevestigde politieke partijen en aldus de
+noodzaak voor politici om zich aan te passen aan deze individualisering
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}, 123). Als
+weerspiegeling van die democratische veranderingen stelt hij een
+categorisering van mogelijke vormen van democratie voor onder typologie
+\textbf{Tabel 1.3}.
+
+\textbf{Table 1.3} Voorbeelden van democratische vormen
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+\begin{minipage}[b]{0.32\columnwidth}\raggedright\strut
+Type
+\strut\end{minipage} &
+\begin{minipage}[b]{0.38\columnwidth}\raggedright\strut
+Medium ter creatie van een gemeenschappelijke `wij'-heid
+\strut\end{minipage} &
+\begin{minipage}[b]{0.21\columnwidth}\raggedright\strut
+Politieke deelname
+\strut\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.32\columnwidth}\raggedright\strut
+1 Populistische democratie\footnotemark{}
+\strut\end{minipage}
+\footnotetext{Tamura definiëert ``populist democracy'' in deze context
+  als de vraag naar sterk leiderschap door charismatische politici die
+  de stem van ``het volk'' of een ``\emph{heartland}'' representeren.
+  Als voornaam voorbeeld in Japan gebruikt ook Tamura voormalig eerste
+  minister Jun'ichiro Koizumi, Shintaro Ishihara, Toru Hashimoto,
+  Takashi Kawamura en Shinichi Takehara (Tamura en Kobayashi
+  \protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}, 125).} &
+\begin{minipage}[t]{0.38\columnwidth}\raggedright\strut
+Leiderschap door specifieke individuele politici
+\strut\end{minipage} &
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Passief
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.32\columnwidth}\raggedright\strut
+2 Overleggende democratie
+\strut\end{minipage} &
+\begin{minipage}[t]{0.38\columnwidth}\raggedright\strut
+Overleg in kleinschalige forums als mini-`publiek'
+\strut\end{minipage} &
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Positief
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.32\columnwidth}\raggedright\strut
+3 strijdbare democratie\footnotemark{}
+\strut\end{minipage}
+\footnotetext{Tamura en Kobayashi
+  (\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}) beschrijven
+  dat als een vorm die actieve participatie van burgers aanmoedigt in de
+  vorm van protestacties.} &
+\begin{minipage}[t]{0.38\columnwidth}\raggedright\strut
+Protest
+\strut\end{minipage} &
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Positief
+\strut\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.32\columnwidth}\raggedright\strut
+4 Internetdemocratie
+\strut\end{minipage} &
+\begin{minipage}[t]{0.38\columnwidth}\raggedright\strut
+Internet
+\strut\end{minipage} &
+\begin{minipage}[t]{0.21\columnwidth}\raggedright\strut
+Participatief maar passief
+\strut\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+Bron: Tamura en Kobayashi
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014})
+
+Tamura en Kobayashi
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}) parafraseren
+Hiroki Azuma uit zijn 2011 essay 『一般意志2.0』 (Lett. `\emph{Volkswil
+2.0}') over de rol van het internet in de democratie, dat Rousseau's
+notie van een volkswil leest in een technologische evolutie en meer
+specifiek de opkomst van het internet en sociale media als Twitter. Hij
+stelt dat internetcommunicatie zodanig enige individuele wil omvormt tot
+een volks- of algemene wil dat het leidt tot een nieuwe vorm van
+democratie met `de burger' als passief participerende `\emph{netizen}',
+zoals gesteld in tabel 1.3
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}). Binnen Mudde
+(\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013})'s model van
+populisme als ideologie kan bovenstaand argument van
+internetcommunicatie als creatie van een volkswil ook ten voordele van
+populisten werken.
+
+Een specifiek kenmerk van sociale media, en de huidige staat van het
+internet, ter verdediging van die laatste stelling is die van de
+zogenaamde `echokamers'\footnote{In de context van massacommunicatie
+  wordt de term echokamer gebruikt als metafoor voor het versterken van
+  ideeën door middel van repetitie.} en `\emph{filter bubbles}'. Hoewel
+de achterliggende idee van `opinievorming door media' uiteraard al
+langer bestaat, worden ze des te meer versterkt op het internet.
+Enerzijds door algoritmes als die van Facebook, Google en Twitter die
+aan de hand van individueel gebruik relevante informatie voorleggen, en
+anderzijds door een tendens van cultureel tribalisme op het internet:
+het opzoeken en opbouwen van online gemeenschappen van gelijkgezinden.
+Youngmi Kim, in haar paper over opkomend populisme in Zuid-Korea
+(\protect\hyperlink{ref-kimux5fdigitalux5f2009}{2009}), argumenteert op
+gelijkaardige wijze digitaal populisme als een verdergedreven vorm van
+politiekvoering gebaseerd op emotie in plaats van rationaliteit. Dat als
+gevolg van een ongecontroleerde groei aan alternatieve
+informatiebronnen. Kenmerken van het internet als cruciaal voor digitaal
+populisme vat ze op volgende wijze samen:
+
+\begin{itemize}
+\tightlist
+\item
+  Rechtstreekse, kosteloze toegang tot grassroots-bewegingen en een
+  grotere mobilisatiecapaciteit.
+\item
+  De ongemedieerde aard van het internet staat op anonieme wijze open
+  discussie toe via messageboards, chatplatfora en blogs.
+\item
+  Het proces van `\emph{Othering}'\footnote{Het sociale proces van de
+    ik-persoon of wij-groep te differentiëren van anderen door actoren
+    buiten deze groep als anders of negatief te klassificeren.} wordt
+  vereenvoudigt door ongestraft verbaal geweld.
+\end{itemize}
+
+Mark Rolfe neemt dat een stap verder door het `discours van digitaal
+populisme' zelf terug te sporen naar het ontstaan van een hackers-ethos
+rond het einde van de jaren `80. Die ethos plaatst de hacker
+(of'\emph{hacktivist}') als een soort moderne Robin Hood tegen een
+onderdrukkende elite in de strijd voor vrijheid van informatie
+(\protect\hyperlink{ref-rolfeux5freinventionux5f2016}{2016}, 145 - 159).
+Dat is inhoudelijk herkenbaar als de hedendaagse retoriek gebruikt door
+nieuwe grassroots-bewegingen die het internet aanschouwen als
+mogelijkheid tot rechtstreekse democratie.
+
+Samenvattend creëert het internet in zijn kosteloze, ongemedieerde aard
+en langdurige retoriek van de internetgebruiker als \emph{heartland} een
+platform voor populisten om ideologieën te propageren. Kenmerken
+specifiek tot sociale media of zoekmachines versterken opinievorming en
+werken politieke polarisatie verder in de hand. Aldus lijkt het internet
+dankzij die kenmerken een uitstekend middel voor charismatische
+persoonlijkheden om rechtstreeks in aanraking te komen met het
+electoraat, maar ook om gevestigde media en politici te antagoniseren.
+
+\subsection[E-democratie, (Digitaal) Populisme en
+Japan]{\texorpdfstring{E-democratie, (Digitaal) Populisme en
+Japan\footnote{De International Telecommunication Union rapporteert dat
+  in 2015 91,06\% van de totale bevolking gebruikt maakt van het
+  internet, wat hoger is als in België en de VS, en ongeveer gelijk ligt
+  met het Verenigd Koninkrijk. Volgens Technorati Japan werden er in
+  2007 meer blogs geschreven in het Japans als in het Engels (37\%
+  Japans tegenover 36\% in het Engels). In 2011 kwamen 25\% van alle
+  Twitterberichten uit Japan.}}{E-democratie, (Digitaal) Populisme en Japan}}\label{e-democratie-digitaal-populisme-en-japan39}
+
+Rimmer en Morris-Suzuki
+(\protect\hyperlink{ref-rimmerux5fjapaneseux5f1999}{1999}) anticiperen
+al in een vroeg stadium dat het internet in Japan een belangrijke rol
+kan spelen in het creëren van politiek actieve \emph{netizens} en het
+vormen van nieuwe grass-rootsbewegingen, mits een herstructurering van
+het politieke systeem. Dat doen zij aan de hand van werken van Kumon
+Shumpei en Masuda Yoneji, sociologen die vanaf eind jaren 70 speculeren
+over een utopische \emph{information society} of \emph{teledemocracy}
+dat ook aan minderheden een stem in de maatschappij biedt
+(\protect\hyperlink{ref-rimmerux5fjapaneseux5f1999}{1999}). Ook Gottlieb
+en McLelland
+(\protect\hyperlink{ref-gottliebux5fjapaneseux5f2003}{2003})
+parafraseren Kumon Shumpei als voorspellend dat `het internet op
+fundamentele wijze ons denkpatroon en gedrag wijzigt' en dat `de macht
+van de regering, de zakenwereld en massamedia om een maatschappij te
+beheersen zal overgaan naar \emph{netizens}'
+(\protect\hyperlink{ref-gottliebux5fjapaneseux5f2003}{2003},
+162--64).\footnote{Vervolgens tonen ze enkele voorbeelden van netizen
+  activisme. Een online gemeenschap aan vredesactivisten genaamd
+  `Chance!' leidden na de terreuraanslagen in de Verenigde staten
+  respectievelijk demonstraties van 8000 mensen in Hibiya op 18 oktober
+  2001 en 25.000 mensen in Yoyogi Park op 23 oktober. Een andere online
+  campagne verzamelde in Japan en de Verenigde Staten \$100,000 ter
+  publicatie van een een anti-oorlogsbrief in the New York Times.}
+Beiden nuanceren echter deze visie als utopisch en stellen dat de
+ontwikkeling van het internet als bruikbaar voor democratische
+veranderingen binnen de context van economische, politieke en culturele
+structuren gezien moet worden.
+
+Analoog met Tamura en Kobayashi
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}) argumenteert
+ook Taniguchi
+(\protect\hyperlink{ref-taniguchiux5fchangingux5f2007}{2007}) dat
+massamedia (en later ook het internet) in Japan democratische
+participatie verhoogt door een aanhoudende stijging aan
+`\emph{infotainment}' en `\emph{soft news}'.\footnote{Als journalistieke
+  term staat \emph{soft news} voor nieuws dat vooral een entertainende
+  functie heeft zoals \emph{human interest}-verhalen, raportages over
+  kunst, enzovoort. \emph{hard news} daarentegen betreft zaken zoals
+  politieke kwesties, misdaden, economie, enzovoort.} Daarvoor refereert
+hij als keerpunt naar nieuwsanker Hiroshi Kume die in de jaren `80 met
+zijn `witty talk and casual style' nieuws op entertainende wijze
+toegankelijk maakte. Een indirect gevolg daarvan was een economische
+noodzaak voor journalisten van \emph{hard news} om hun programma te
+herzien.\footnote{``There is `the eternal dilemma' of the news program.
+  What a journalist wants to show and what an audience wants to watch
+  are not always consistent.'' (Chikushi, Tetsuya (2002) Nieuwsanker,
+  Tokyo: Shueisha: 213--214)} Hij plaatst het succecvol doorvoeren van
+Koizumi's controversiële privatisering van het postsysteem bijvoorbeeld
+in rechtstreeks verband met een populistisch gebruik van massamedia en
+meer specifiek \emph{wide shows}\footnote{Van ワイドショー, een Japanse
+  term geconstrueerd uit Engelse leenwoorden als overkoepelende term
+  voor talk- en variety shows met een focus op nieuwsgeving.}.
+
+Een correlatie tussen politieke voorkeuren en een stijging aan
+massamedia valt sinds jaren `90 op in de vorm van 'zwevende kiezers'
+(浮動票, lett. \emph{drijvende stemmen}), stemmers die zich niet
+affiliëren aan een bepaalde partij. Televisie en andere media worden zo
+bijvoorbeeld geschat een belangrijke rol te hebben gespeeld in het
+creëren van vijandelijkheid tegenover de LDP ten voordele van het
+Hosokawa-kabinet (1993-1994) en later ook als instrumenteel voor het
+succes van Koizumi Jun'ichiro (Trifu
+\protect\hyperlink{ref-trifuux5fprefecturalux5f2013}{2013}). Weathers
+(\protect\hyperlink{ref-weathersux5freformerux5f2014}{2014}) herkent dan
+weer in Hashimoto, ideologisch geässocieerd met een neoliberaal
+populisme, een meester in televisie- en sociale mediagebruik: in 2013
+had hij meer dan één miljoen volgers op Twitter en plaatste soms tot
+honderd Tweetberichten per dag
+(\protect\hyperlink{ref-weathersux5freformerux5f2014}{2014}, 83).
+
+Als iemand uit een gezin van gevestigde politici, met zelf een lange
+politieke carrière achter zich, wordt Shinzo Abe zelden in verband
+gebracht met populisme en het anti-elitisme dat daaruit voorkomt.
+Anderzijds maakt hij gebruik van sociale media als Facebook om, in
+Horiuchi's woorden, volgers op te roepen in een gevecht tegen massamedia
+(Horiuchi \protect\hyperlink{ref-horiuchiux5fpublicux5f2014}{2014}; T.
+Stewart en Wasserstrom
+\protect\hyperlink{ref-t.ux5fstewartux5fglobalux5f2016}{2016}). Ook
+speelde Abe in op een internet-haatcampagne tegen de sociaal-liberale
+DPJ door tijdens de verkiezingscampagne in 2012 een persconferentie in
+Akihabara te houden en frequent live uit te zenden op
+video-uploadwebsite \emph{Niconico} (ニコニコ) (Hollihan
+\protect\hyperlink{ref-hollihanux5fdisputeux5f2014}{2014}, 181--91). Om
+jongeren en specifiek jongeren op het internet aan te spreken werden
+vervolgens de kieswetten herzien in 2013 om politieke campagnevoering op
+het internet toe te laten\footnote{Als gevolg hielden verschillende
+  partijen internetcampagnes om jongeren politiek bewust te maken. de
+  JCP ontwierp o.a. een animatiereeks en de LDP bracht een mangapamflet
+  ``Aan het Land Bezorgen'' (\emph{kuni ni todoke}, 国に届け) uit dat de
+  geschiedenis van de LDP alsook stemprocedures beschreef (Shimbun
+  \protect\hyperlink{ref-asahiux5fshimbunux5felectionsux5f2016}{2016}).},
+en in 2016 werd de kiesleeftijd van 20 jaar naar 18 jaar verlaagd, wat
+2.4 miljoen extra stemgerechtigden oplevert.
+
+Een opzet van deze paper is een nood aantonen naar verder onderzoek
+achter enige correlatie tussen internetcommunicatie en groei aan
+populisten. Als case-study en eerste aanzet daartoe gaat deze paper
+verder in op de synergie tussen de rechtsnationalistische
+\emph{netto-uyoku}-internetstem als potentiëel electoraat of
+\emph{heartland}, en de ultranationalistische grassroots-beweging
+\emph{Zaitokukai}, waarin Makoto Sakurai een centrale rol speelt.
+
+\newpage
+
+\section{De Netto-Uyoku
+(ネット右翼)}\label{de-netto-uyoku-ux30cdux30c3ux30c8ux53f3ux7ffc}
+
+\begin{quote}
+``The current nationalist movement in Japan is a loose alliance of
+conservative politicians, rightist activist groups, commentators, and
+business executives brought closer together through the Internet.''
+(Horiuchi \protect\hyperlink{ref-horiuchiux5fpublicux5f2014}{2014})
+\end{quote}
+
+Traditioneel wordt de rechts-nationalistische stem in het na-oorlogse
+Japan vertegenwoordigd door de \emph{uyoku-dantai} (右翼団体): een
+koepelterm voor losstaande nationalistische organisaties die omwille van
+hun agressieve, militaristische retoriek en associaties met
+georganiseerde misdaad door het grote publiek eerder met argusogen
+worden bekeken. In een cultuur waar enorme druk wordt gelegd op het
+bewaren van de openbare orde worden affiliaties hiermee a fortiori ook
+ontmoedigd. Het ontstaan van volksbewegingen als de \emph{Zaitokukai} of
+media als de revisionistische manga \emph{Manga Kenkanryū}
+(マンガ嫌韓流)\footnote{Ontstaan in 2005 als protest tegen het stijgende
+  succes van Zuid-Koreanse populaire media in Japan (de \emph{Korean
+  Wave}). Een sequel werd in 2006 uitgebracht.}, duidt echter op de
+opkomst van een nieuwe, toegankelijkere golf van rechts-nationalistische
+bewegingen - een golf die vooral gedecentraliseerd en backstage, in de
+anonimiteit van het internet, plaatsvindt en geassociëerd wordt met de
+koepelterm \emph{netto-uyoku}.
+
+De term \emph{netto-uyoku} staat voor de extreem-rechtsgezinde
+internetgebruikers, vooral actief op (anonieme) fora als \emph{2channel}
+(2ちゃんねる), video-uploadwebsites als \emph{Niconico} (ニコニコ) en
+\emph{Channel sakura}\footnote{Channel Sakura is een televisiekanaal en
+  video-uploadsite geassocieert met o.a. Nippon Kaigi en de Sunrise
+  Party, en programmeert conservatieve programma's met vaak historisch
+  revisionistische thematiek.} (日本文化チャンネル桜), en meer recent,
+microblogging-sites als Facebook en Twitter. Leden uit deze sociale
+verzameling vermijden zelf dergelijke terminologie en bekijken ze eerder
+als constructen van `anti-Japan'-activisten en massamedia, die ze steeds
+vaker met de term \emph{masugomi} aangeven (Z.N.
+\protect\hyperlink{ref-z.n.ux5fux5f2011}{2011}). Verder beschrijven ze
+zichzelf eerder als patriottische, politiek geëngageerde
+internetactivisten (`\emph{netizens}') die de Japanse natie enerzijds
+willen beschermen tegen `linkse Anti-Japan activisten' (反日左翼), en
+anderzijds willen versterken om haar burgers te kunnen beschermen.
+
+Argumenten luiden vaak dat de \emph{netto-uyoku} en de daaruit
+ontwikkelde xenofobische volksbewegingen een klein, te verwaarlozen
+onderdeel zijn van de Japanse maatschappij (Penney
+\protect\hyperlink{ref-penneyux5fracistsux5f2013}{2013}), maar dat die
+stem zich niet enkel beperkt tot de duistere regionen van de
+\emph{cyberspace}, bewijst een onderzoek naar hate speech door het
+Japanse ministerie van Justitie in maart 2016 gepubliceerd: tussen april
+2012 en september 2015 werden er over heel Japan 1152 xenofobische
+protestacties gehouden (Nikaido
+\protect\hyperlink{ref-nikaidoux5fux5f2016}{2016}).
+
+Een groeiende onrust onder jongeren door een stagnerende economie,
+spanningen met buurlanden, de \emph{zainichi}-problematiek, territoriale
+disputen en de Noord-Koreaanse ontvoeringen van Japanse burgers blijven
+sterk actuele thema's die een crisis in identiteitsvorming meebrengen.
+In de anonimiteit van het internet kan een drang naar samenhorigheid,
+interactie en alternatieve, open vormen van media plaatsvinden. Hier
+ligt echter een risico tot groepspolarisatie en het creëren van een
+exclusief discours waar sociaal afgezonderden of uitgeslotenen als
+\emph{hikikomori} (引き籠もり)\footnote{Een fenomeen waarbij iemand zich
+  sociaal volledig terugtrekt.}, \emph{NEETs}\footnote{Afkorting voor
+  ``Not in Education, Employment, or Training''. Een term ontstaan in
+  het Verenigd Koninkrijk en sinds de jaren 2000 sterk in gebruik in
+  Japan.} en \emph{freeters} (フリーター)\footnote{Mengwoord uit het
+  Engelse free (of freelance) en het Duitse Arbeiter (``arbeider'') dat
+  jongeren, met uitzondering van huisvrouwen en studenten, aanduid die
+  geen voltijdse baan hebben of werkloos zijn.} zich makkelijk in kunnen
+verliezen (Mihashi
+\protect\hyperlink{ref-izumiux5fmihashiux5fconfessionsux5f2015}{2015}).
+
+Met de \emph{netto-uyoku} als potentiëel \emph{heartland} onderneemt dit
+hoofdstuk twee zaken. Eerst beschrijft het de \emph{netto-uyoku} door de
+voornaamste methoden tot internetcommunicatie, ideologische standpunten
+en interactie met beleid en maatschappij in kaart te brengen. Ten slotte
+poogt het op theoretische wijze de dispersie van rechtspopulistische
+ideologieën door middel van het internet te verklaren.
+
+\subsection{Ideologie en Definitie}\label{ideologie-en-definitie}
+
+Hack argumenteert dat een primair kenmerk van het uit een ironische
+inside-joke gegroeide nationalistische \emph{netto-uyoku}
+discours\footnote{Akihiro Kitada stelt dat de cynische schrijfstijl op
+  2channel die momenteel gehanteerd wordt ter groepsvorming, ontstaan is
+  als ironische kritiek op media en sociale fenomenen. Dat werd gedaan
+  door leden die enerzijds voldoende zijn gesocialiseerd door die media
+  om de intertekstualiteit daarin te lezen, en anderzijds afstand zoeken
+  om zichzelf op romantische wijze als transcendente waarheidszoeker te
+  plaatsen (Itō, Okabe, en Tsuji
+  \protect\hyperlink{ref-itoux5ffandomux5f2012}{2012}, 69--82).} een
+aanhoudende etnisch exclusionisme en etnocentrisme inhoudt dat vooral
+dient ter bescherming van een eigen identiteit (Hack
+\protect\hyperlink{ref-hackux5fsubcultureux5f2016}{2016}), en ook Murai
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}) ziet in de leidende
+ideologie achter de collectieve camaraderie van de netto-uyoku een
+radicaal nationalisme
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 375). N. Higuchi
+(\protect\hyperlink{ref-higuchiux5fjapansux5f2014}{2014}) plaatst die
+groep in contrast met hun tegenhangers in Europa en de Verenigde Staten.
+Daar wordt naast het nativisme ook gebruik gemaakt van economische
+narratieven als die van de dreiging van immigratie op de arbeidsmarkt.
+In het eerste kwantitatieve onderzoek achter die groep definiëert Tsuji
+(\protect\hyperlink{ref-tsujiux5fux5f2008}{2008}, 10--11)
+\emph{netto-uyoku} echter aan de hand van volgende drie karaktertrekken:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Anti-Koreaans en/of anti-Chinees sentiment.
+\item
+  Een voorkeur voor een conservatief beleid en charismatische leiders,
+  met name voor het populisme onder Koizumi en kwesties als meer
+  patriottistisch onderwijs, staatsbezoeken aan het Yasukuni-schrijn,
+  enzovoort.
+\item
+  Actieve participatie aan internetcommunicatie door middel van blogs,
+  messageboards als 2channel, enzovoort.
+\end{enumerate}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/tsuji_masukomi_translated.jpg}
+\caption{(onder de versoepelde voorwaarden): geloofwaardigheid van
+massamedia onder \emph{netto-uyoku}. (Bron: Tsuji (Tsuji
+\protect\hyperlink{ref-tsujiux5fux5f2008}{2008}, 14))}
+\end{figure}
+
+In een online enquete\footnote{De resultaten werden systematisch
+  gereduceerd tot een totaal van 998, met een gelijke verdeling tussen
+  het aantal mannen en vrouwen, alsook het aantal mensen met een
+  leeftijd tussen 20-24, 25-29, 30-34, 35-39 en 40-44.} merkt Tsuji
+(\protect\hyperlink{ref-tsujiux5fux5f2008}{2008}, 10--12) vooral bij
+mannen neigingen tot die karaktertrekken. Ook merkt hij een correlatie
+tussen een gevoel van eenzaamheid bij de deelnemers en dat anti-Koreaans
+en/of anti-Chinees sentiment, iets dat volgens hem misschien eerder aan
+de basis van dat sentiment ligt dan nationalistische ideologieën.
+Leeftijd en onderwijs lijken echter geen belangrijke rol te spelen. Ten
+slotte concludeert hij wel dat slechts 1.3\% (13 mensen) van de
+deelnemers met alle stellingen uit bovenstaande drie categorieën uit de
+enquete akkoord gingen en aldus aan alledrie \emph{netto-uyoku}
+kenmerken voldeed.\footnote{36.8\% (367 mensen) voelden anti-Koreaans of
+  anti-Chinees sentiment, 6.4\% (64 mensen) gingen akkoord met politiek
+  conservatieve en nationalistische kwesties, en 15.2\% (152 mensen)
+  maakten gebruik van computerondersteunde communicatie om
+  maatschappelijke en politieke kwesties te bespreken (Tsuji
+  \protect\hyperlink{ref-tsujiux5fux5f2008}{2008}, 11).} Om meer
+vertrouwbare resultaten te verwerven breidt hij zijn voorwaarden om tot
+de \emph{netto-uyoku}-groep te horen iets uit (tot deelnemers die
+akkoord gaan met meer dan de helft van alle stellingen per karaktertrek)
+en bekomt zo 31 personen. Uit zijn resultaten vindt Tsuji twee andere
+kenmerken terug in berichten van \emph{netto-uyoku}: een achterdocht
+jegens massamedia\footnote{Net zoals Rolfe en zijn idee van een
+  anti-massamedia \emph{underground} \emph{netizen}-beweging
+  argumenteert ook Akihiro Kitada dat het hele discours van 2channel
+  ontstond uit een cynische kijk op massamedia (Itō, Okabe, en Tsuji
+  \protect\hyperlink{ref-itoux5ffandomux5f2012}{2012}, hfst. 3).} (zie
+\textbf{figuur 1}) en het frequent deelnemen aan internet
+`\emph{flaming}'\footnote{Het plaatsen van vijandelijke of beledigende
+  berichten op internetdiscussies.} (炎上).
+
+\subsubsection{Anti-Koreaans en/of anti-Chinees sentiment
+(嫌韓嫌中)}\label{anti-koreaans-enof-anti-chinees-sentiment-ux5accux97d3ux5accux4e2d}
+
+Xenofoob sentiment tegenover de Aziatische buurlanden omvat enerzijds
+historische problemen (歴史問題) en anderzijds diplomatische problemen
+(外交問題). Onder historische problemen komen vooral de
+`troostmeisjes'-discussie (慰安婦) en het `Bloedbad van Nanking'
+(南京大虐殺) sterk ter sprake. Diplomatische problemen omvatten dan weer
+territoriale disputen en het afkoelen van relaties sinds dat plannen ter
+hervorming van schoolboeken historische problemen begonnen te
+bagatelliseren.
+
+Negatief sentiment op het internet richt zich ook sterk reactionair
+tegen de idee dat onderwijs in China, beide Korea's en Koreaanse scholen
+in Japan anti-Japanse opvoeding (反日教育) aanbiedt en aldus haat zaait
+onder diens inwoners. \emph{Netto-uyoku} delen ook frequent door middel
+van alternatieve nieuwsbronnen en video-uploadwebsites incidenten die
+``anti-Japanse'' ideologieën zouden meedragen, vaak met de boodschap dat
+mainstream media deze ``waarheid probeert te verbergen''.
+
+Yasuda (\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}) voor media?
+
+\begin{quote}
+ヘイトグループの関係者の多くが、新聞、雑誌、テレビなどが自分たちから``真実''を隠しているという被害者感情を抱いているとしている。
+\end{quote}
+
+Taka
+(\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{2015}\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{b})
+masugomi en dergelijke termen over mainstream nieuws komen vrij vaak
+voor in berichten.
+
+``捏造''（2,472 件）、``噓''（2,170 件）
+
+\paragraph{China}\label{china}
+
+Een recent incident dat anti-Chinees sentiment online in de hand werkte
+was het `Minjinyu 5179'-incident in 2010. Een collisie tussen een
+Chinese vissersboot en twee Japanse kustvaartschepen op betwist gebied
+nabij de Pinnacle-eilanden\footnote{Ook bekend onder de Japanse naam als
+  Senkaku-eilanden of onder de Chinese naamgeving Diaoyu-eilanden.}
+leidde tot het afkoelen van Sino-Japanse diplomatieke betrekkingen en
+sterke discussies op het internet. De terughoudendheid van de Japanse
+overheid om videomateriaal van dat accident vrij te geven, alsook het
+ingaan op de eisen gesteld door China, leidden tot ook antagonisering
+van de DPJ.
+
+Ook wanneer toenmalig gouverneur van Tokyo Shintaro Ishihara in 2012
+bekend maakte de Pinnacle-eilanden (een belangrijk pijnpunt in huidige
+Sino-Japanse relaties) te willen overkopen en een online-crowdfunding
+campagne opstartte, was het diezelfde stem die zich hier collectief bij
+aansloot en aanzette tot donaties, met een uiteindelijke 1,485,201,967
+yen\footnote{In 2012 kwam dit bedrag overeen met 14,067,361 euro.}
+verzameld door 113,602 burgers (Hollihan
+\protect\hyperlink{ref-hollihanux5fdisputeux5f2014}{2014}, 185; Horiuchi
+\protect\hyperlink{ref-horiuchiux5fpublicux5f2014}{2014}, 36--38).
+
+\paragraph{Zuid-Korea (nog niet)}\label{zuid-korea-nog-niet}
+
+Gebruik Itagaki
+(\protect\hyperlink{ref-itagakiux5fanatomyux5f2015}{2015}) voor
+`Korea-phobia' en cultural racism:
+
+\begin{quote}
+Zaitokukai's hate speeches use various derogatory phrases to describe
+Zainichi Koreans: `Stink of kimchi' (kimuchi kusai), `criminals',
+`rascals' (rokudenashi), `Korean gangsters' (Chosen yakuza), `spies',
+`descendants of illegal immigrants', `Korean malcontents' (futeisenjin),
+and so on. Of course, all of these are vulgar discriminatory terms.
+However, one of the distinctive features of Zaitokukai rhetoric is that
+it contains no markers of biological difference such as references to
+physical characteristics. In other words, Zaitokukai does not use
+so-called `racial' categories in its hate speech. Instead,
+politico-cultural elements such as smell, attitude, illegality, or
+political suspicion become the markers of collective difference.
+\end{quote}
+
+``反日'' ``犯罪'' ``事件''``逮捕''
+
+Hier komt de \emph{netto-uyoku} positie tov Zuid-Korea, de korean wave,
+enz
+
+FIFA World Cup in 2002
+
+(Voetnoot: Na een overwinning van schaatskampioene Yu-Na Kim tegenover
+Mao Asada op de 2010 olympische winterspelen ontstond er een klein
+media-incident als gevolg van een cyberaanval op 2channel. Door een
+online lastercampagne die beweerde dat de jury werd omgekocht door de
+Zuid Koreaanse overheid, hielden meer dan 10,000 Koreaanse netizens op 1
+maart 2010\footnote{Deze dag werd gekozen als verwijzing naar de Sam-il
+  beweging in 1919, het eerste Koreaans protest tijdens de Japanse
+  kolonisatie.} een poging om 2channel stil te leggen.)
+
+\paragraph{Noord-Korea (nog niet)}\label{noord-korea-nog-niet}
+
+positie tov Noord-Korea:
+
+Kidnappingskwestie
+
+Militaire crisis 2016 / 2017
+
+\paragraph{Koreaanse Diaspora (nog
+niet)}\label{koreaanse-diaspora-nog-niet}
+
+positie tov Zainichi-koreanen
+
+``生活保護''（3,971 件）、``人権''（2,909
+件）、``参政権''（2,798件）、``特権''（2,746 件）、``通名''（2,540 件
+
+Special Permanent Resident (特別永住者), na 1965 akkoord Japan /
+Zuid-Korea, zainichi koreanen die niet genaturaliseerd zijn krijgen dat
+akkoord.
+
+『在日特権』 -\textgreater{} tax reduction, kosteloos lenen, minder snel
+gestraft, gebruik van nickname als officiële naam, social security, werk
+vinden zonder een residence card, favourable treatment. Nochtans: budget
+voor 生活保護 is ong. 3 biljoen yen en 98\% van begunstigden
+-\textgreater{} Japans \textbar{} hoax: 2.3 miljoen gebruikt voor
+Zainichi Koreanen
+
+朝鮮進駐軍 -\textgreater{} Korean Occupying Forces als conspiracy voor
+Zainichi die misdaden plegen in Japan
+
+\begin{quote}
+東日本大震災後に典型的に見られたように、ソーシャル・メディアでは、コリアンなどの外国籍住民についての悪質なデマがしばしば流行する（荻上，2011）。
+\end{quote}
+
+\subsubsection{Politiek (nog niet)}\label{politiek-nog-niet}
+
+Op nationale schaal worden netto-uyoku vooral verbonden aan Abe Shinzo
+en het nationalistisch beleid dat daar aan gekoppeld gaat.
+
+Murai (\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}) analyseert
+maandelijkse opiniepeilingen naar politieke voorkeuren gehouden op Nico
+Nico Douga en merkt, wanneer vergeleken met offlinecijfers, een
+sterkerere neiging naar conservatisme en steun voor de LDP, ten koste
+van de DPJ. Na het doorbreken van de machtspositie van de LDP door de
+JDP in 2009 groeide er op de met \emph{netto-uyoku}-geassocieëerde
+internetgemeenschappen een anti-JDP sentiment dat de JDP bekeek als een
+anti-Japan (反日) partij bestaande uit voornaam Zainichi-Koreanen die
+werken tegen het beste belang van een homogene Japanse bevolking.
+
+Een ander aspect van beide opiniepeilingen, aan de andere kant, levert
+inzicht in de tevredenheid in politiek en toont een sterker scepticisme
+bij online deelnemers. Murai trekt aldus de conclusie, afgaande op de
+cijfers gehaald uit de internetgemeenschappen opgebouwd rond Nico Nico
+Douga en publieke opiniepeilingen, dat \emph{netizens} een sterkere
+politieke bewustheid hebben dan leeftijdsgenoten die aan de offline
+opiniepeiling deelnamen maar anderzijds dat er onder jongere mensen veel
+meer zwevende (浮動票) dan vaste kiezers (固定票) voorkomen. Hij
+concludeert als volgt:
+
+\begin{quote}
+This is an ideal condition for Net Uyoku's ideology to pervade. When
+susceptible people meet sensational videos, they may easily embrace the
+advertised ideology.
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 371)
+\end{quote}
+
+Grondwettelijke Revisie van Artikel 9?
+
+Patriottistische opvoeding? (愛国心教育)
+
+政治''（5,115 件）、``民主党''（4,679 件）、``安倍''（3,681
+件）、``選挙'' （3,550 件）、``自民党''（2,977 件）、``法案''（2,548
+件）、``政権''（1,989 件）
+
+\subsubsection{Internetcommunicatie}\label{internetcommunicatie}
+
+\emph{netto-uyoku} en rechts-nationalistische internetdiscussies in
+Japan worden het meest in verband gebracht met online
+communicatieplatfora als 2channel en Niconico (Katayama
+\protect\hyperlink{ref-katayamaux5f2-channelux5f2007}{2007}; Tsuji
+\protect\hyperlink{ref-tsujiux5fux5f2008}{2008}; Rumi
+\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}; Murai
+\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}), maar recentlijk ook
+Twitter (Yasuda \protect\hyperlink{ref-yasudaux5fux5f2012}{2012}; Taka
+\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{2015}\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{b}).
+Alledrie horen in 2017 tot de meest bezochte websites van
+Japan\footnote{De top tien bestaat uit respectievelijk zoekmachine
+  google.co.jp, google.com, internetportaal Yahoo.co.jp, youtube.com,
+  E-commercesite amazon.co.jp, Facebook, Twitter, bloghost-site
+  FC2.co.jp, Wikipedia en E-commercesite Rakuten.co.jp. Niconico staat
+  op de elfde positie, een daling van achtste positie in september 2015.
+  2channel staat op de achtiende positie.} (Alexa
+\protect\hyperlink{ref-alexaux5ftopux5f2017}{2017}\protect\hyperlink{ref-alexaux5ftopux5f2017}{b}).
+
+\paragraph{2channel}\label{channel}
+
+2channel\footnote{In april 2017 kwam 95.8\% van het aantal bezoekers uit
+  Japan, 2.2\% uit Zuid-Korea en 0.6\% uit China. Alexa statistieken
+  stellen verder dat het publiek verschilt van de gemiddelde
+  internetbezoeker met een sterke meerderheid aan mannen en bezoekers
+  zonder (nog) enige vorm van hogere opleiding (Alexa
+  \protect\hyperlink{ref-alexaux5ftopux5f2017}{2017}\protect\hyperlink{ref-alexaux5ftopux5f2017}{b}).}
+is een anoniem internetforum opgericht in 1999 door een toenmalige
+Japanse uitwisselstudent in de Verenigde Staten, Hiroyuki Nishimura, en
+ervaarde een geleide groei tot grootste anonieme internetforum in Japan
+met in 2007 2.7 miljoen berichten per dag verspreid\footnote{10 jaar
+  later worden er nog ongeveer 2 miljoen berichten per dag geplaatst
+  (statistics
+  \protect\hyperlink{ref-2chux5fstatisticsux5fsuzumeux5f2017}{2017}).}
+over 800 categoriëen (Katayama
+\protect\hyperlink{ref-katayamaux5f2-channelux5f2007}{2007}). Enerzijds
+blijkt het, door de anonimiteit en lakse regulering daarvan, een geliefd
+middel om op grassroots level politiek en media te discussiëren (Maslow
+\protect\hyperlink{ref-maslowux5fnationalismux5f2011-1}{2011}).
+Anderzijds resulteerde diezelfde lakse regulering echter wel tot 50
+civiele rechtszaken en meer dan 4 miljoen dollar aan schadevergoedingen
+of sancties voor zaken als laster en schending van auteursrecht
+(Katayama \protect\hyperlink{ref-katayamaux5f2-channelux5f2007}{2007}).
+
+Door de grote schaal van het platform wordt 2channel vaak geciteerd als
+een zekere invloed te hebben op mainstream opinievorming. Auteurs als
+Rumi (\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}) en Yasuda
+(\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}) beschouwen het
+platform dan ook als voornaamste communicatiemiddel van \emph{netizens}
+met ideologieën van de \emph{netto-uyoku},\footnote{Ook Tsuji
+  (\protect\hyperlink{ref-tsujiux5fux5f2008}{2008}) leest in de
+  resultaten van zijn enquete een correlatie tussen 2channel en
+  rechtsnationalistisch gedachtengoed.} en brengen het ook in
+rechtstreeks verband met het ontstaan van nationalistische
+volksbewegingen als de Zaitokukai. In een studie over
+internetnationalisme observeert Rumi
+(\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}) bijvoorbeeld een
+\emph{thread}\footnote{Een specifieke conversatie die wordt opgestart op
+  een internetforum (of andere vormen van internetcommunicatie) waarin
+  gebruikers bijdragen tot discussie door het plaatsen van reacties.}
+die een Koreaans webartikel over `Takeshima Day'\footnote{Om Japan's
+  aanspraak op de eilanden in het territoriaal dispuut rond de Liancourt
+  Rocks te benadrukken houdt de Shimane-prefectuur een jaarlijkse
+  viering op 22 februari. Op die dag werden de eilanden in 1905, tijdens
+  de Russisch-Japanse oorlog, geannexeerd als Japans territorium en tot
+  onderdeel gemaakt van Shimane.} discussiëert. Op 4 dagen tijd werden
+er 7000 berichten geplaatst die al snel inhoudelijk devieerden van het
+oorspronkelijk onderwerp en herleidt werden naar herhalingen van
+typische \emph{netto-uyoku}-retoriek. Eerder dan discussie werd op
+dergelijke manier het beeld van Koreanen als een geweldadige,
+irrationele Andere in stand gehouden en versterkt; enige poging tot
+discussie zelf daarentegen werd al snel genegeerd of afgeschreven als
+berichten van anti-Japanse spionnen
+(\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}, 5--8).
+
+\begin{quote}
+``Collectively, the 7,000 postings produced and reinforced the negative
+image of Korea and Koreans far beyond the Tsushima issue. Forum
+participants brought up a multitude of Korearelated issues which had
+nothing to do with Korean tourists on Tsushima: the `special tax and
+welfare privileges' that zainichi Koreans allegedly enjoy, the `illegal
+occupation' of Takeshima Island', kimchi with parasite eggs, or crimes
+by Koreans in Japan and overseas. Links were made to a TV news item
+about a Japanese boy who was attacked in Korea, snapshots of
+anti-Japanese artwork by Korean school children, a Youtube clip on a
+rape by a zainichi Korean, 2-chan threads on zainichi pension
+entitlement and welfare benefits, shocking images of anti-Japanese
+demonstrators slaughtering pheasants (Japan's national bird) in front of
+the Japanese Embassy, and many more. These and other unrelated events
+and images are linked together under the unifying but empty sign of the
+`Koreans'.'' (Rumi
+\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}, p5)
+\end{quote}
+
+Een voorbeeld van nationalistische discussies gestart op 2channel die
+zich offline uiten zien we in enkele protestacties die voor het eerst op
+7 en 21 augustus 2011 werden gehouden aan het hoofdkantoor van Fuji
+Television in Tokio. Woede ontstond uit het idee dat Fuji Television,
+onder de stijgende populariteit van Koreaanse pop-cultuur, voornaam
+Koreaanse drama's uitzend en werd vervolgens bestempeld als een
+`\emph{traitor network}'.\footnote{Fuji TV kwam in 2015 nogmaals onder
+  vuur, datmaal voor wat werd beschouwd als het opzettelijk haat zaaien
+  tussen Zuid-Korea en Japan. Dat, door het foutieve gebruik van Japanse
+  ondertitels van geïnterviewde Zuid-Koreanen in Japan. Volgens die
+  ondertitels zouden de geïnterviewden ``Japan haten'' (Osaki
+  \protect\hyperlink{ref-osakiux5ffujiux5f2015}{2015}).} Het aantal
+deelnemers werd door verschillende online kranten, waaronder ook
+Zuid-Koreaanse, tussen de 2,000 en 10,000 geschat (Chosun.com
+\protect\hyperlink{ref-chosun.comux5fjapaneseux5f2011}{2011}; ilbo
+\protect\hyperlink{ref-theux5fdong-aux5filboux5fjapansux5f2011}{2011};
+Schilling en Schilling
+\protect\hyperlink{ref-schillingux5fjapaneseux5f2011}{2011}), maar had
+verder wel geen invloed op de programmatie van Fuji Television. In die
+protesten diende Fuji Television uiteraard als object ter representatie
+van een diepgewortelde ontevredenheid onder deelnemers in Tokio. Dat
+tegenover een ervaren Zuid-Koreaanse \emph{soft-power} dreiging in de
+vorm van de \emph{Korean Wave} enerzijds, en tegenover massamedia en
+veronderstelde mediamanipulatie anderzijds. Die protesten werden live
+uitgezonden op verschillende video-uploadsites, waaronder de populaire
+Japanse Niconico.
+
+\paragraph{Nico Nico Douga}\label{nico-nico-douga}
+
+Niconico (ニコニコ)\footnote{Volgens Alexa Rank kwam in april 2017
+  92.9\% van het internetverkeer uit Japan, gevolgd door 2.7\% uit
+  China, 1.4\% uit Taiwan en 1.2\% uit Zuid-Korea. Vervolgens blijken
+  Niconico bezoekers het meeste te overlappen met die van 2channel
+  (Alexa
+  \protect\hyperlink{ref-alexaux5fnicovideo.jpux5f2017}{2017}\protect\hyperlink{ref-alexaux5fnicovideo.jpux5f2017}{a}).},
+opgericht als Nico Nico Douga (ニコニコ動画) in 2006, is een Japanse
+video-uploadwebsite met als specifiek kenmerk de mogelijkheid tot het
+plaatsen van commentaar rechtstreeks op het videoscherm zelf om een
+soort gemeenschappelijke kijkervaring te bekomen. In 2015 verklaarden de
+ontwikkelaars een record van 50 miljoen geregistreerde gebruikers en een
+extra 2,5 miljoen betalende gebruikers te hebben overschrijdt (Blog
+\protect\hyperlink{ref-niconicoux5fblogux5f2505000ux5f2015}{2015}).
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/murai_2012_nico.jpg}
+\caption{Thematische categorisering van video's op
+``politics''-categorie op Niconico (Bron: Murai
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}), p.370)}
+\end{figure}
+
+Ondanks vooral gericht te zijn op populaire sub-culturen als die van
+o.a. Japanse animatie en videospellen, met een doelpubliek overlappend
+met 2channel, heeft het ook een actieve `Politics' categorie die Murai
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}) in verband brengt
+met \emph{netto-uyoku} ideologiëen: onvrede jegens de DPJ, massamedia en
+Oost-Aziatische landen als Zuid-Korea en China. Hij merkte na
+kwantitatief onderzoek op dat 92.8\% (3712/4000) van het aantal
+populairste videos in de categorie `politics' \emph{netto-uyoku}
+ideologieën bevatten, met maar 2.65\% (106/4000) videos die daar kritiek
+op gaven (\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 370).
+\textbf{Figuur 1} deelt dat verder onder.
+
+\paragraph{Twitter}\label{twitter}
+
+Ook in Japan is Twitter uitgegroeid tot een uiterst populaire vorm van
+sociale media, met in 2001 een aandeel van 25\% van alle berichten op
+Twitter geschreven in het Japans. Het \emph{netto-uyoku}
+gebruikersbestand op Twitter, vaak onder een koepelterm 日の丸クラスト
+(\emph{hinomaru kurasuto}, lett. de Hinomaru factie), kenmerkt zich
+enerzijds door een Japanse vlag\footnote{De 日の丸 (hinomaru) of
+  officiëel de 日章旗 (Nisshōki) is de officiële vlag van Japan. Een
+  andere vaakgebruikte variant is de 旭日旗 (de Rijzende Zon-vlag), een
+  vlag geassociëerd met oorlogsvoering tussen de Edo-periode en het
+  einde van de Tweede Wereldoorlog, en in buurlanden met het Japanse
+  militarisme.} op de profielfoto, vaak in combinatie met militaire
+middelen en/of Japanse cartoonpersonages, en anderzijds door de
+\emph{netto-uyoku}-geassociëerde retoriek in de introductiekolom van de
+gebruiker\footnote{Met variaties op 「日本大好き」 wordt vaak de liefde
+  verklaard voor Japan, en met variaties van
+  「単なる日本生まれの日本人。」 wordt de nationalistische retoriek van
+  de gebruiker genormaliseerd tot iets wat voor de hand liggend is voor
+  een gewone Japanse burger.} (Hack
+\protect\hyperlink{ref-hackux5fsubcultureux5f2016}{2016}). Zie
+\textbf{Figuur 2} voor voorbeelden daarvan.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/twitter_hinomaru_crest.jpg}
+\caption{Voorbeelden van `Hinomaru faction' Twitter-accounts (Bron:
+Twitter)}
+\end{figure}
+
+Taka Fumiaki, stellend dat sociale media een belangrijke rol heeft
+gespeeld in de groei van modern racisme\footnote{Ook wel symbolisch
+  racisme, in tegenstelling tot ouderwets racisme, gebaseerd op werken
+  van David Sears en John McConahay. Wordt samengevat tot vier punten:
+  1. Minderheden worden niet langer geconfronteerd met vooroordelen en
+  discriminatie. 2. Ongelijkheid komt als gevolg voort uit een gebrek
+  aan inspanning door die minderheden. 3. Zelfs dan nog maken
+  minderheden in een protest tegen discriminatie te veel eisen. 4.
+  Minderheden hebben meer voorrechten gekregen dan dat ze verdienen
+  (Taka
+  \protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{2015}\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{b},
+  143).} en xenofobie in Japan, voert een kwantitatieve tekstanalyse uit
+op een databank van Twitterberichten handmatig opgehaald door middel van
+kernwoorden met betrekking op Koreanen
+(\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{2015}\protect\hyperlink{ref-takaux5ftwitterux5f2015-1}{b})
+en China
+(\protect\hyperlink{ref-takaux5ftwitterux5f2015}{2015}\protect\hyperlink{ref-takaux5ftwitterux5f2015}{a}).
+Taka concludeert dat het merendeel van die berichten negatief
+sentiment\footnote{Respectievelijk uit 109,589 berichten 70\% negatief
+  sentiment tegenover Koreanen en uit 67,884 berichten negatief
+  sentiment 67.3\% tegenover China.} bevat, vooral met betrekking tot
+misdaad, speciale rechten, anti-Japans gedrag of corruptie in het
+politieke landschap. Daarvoor wordt vaak gerefereerd naar alternatieve
+nieuwsbronnen, met name verzamelblogs geaffiliëerd aan 2channel
+(2ちゃんねるまとめブログ). Ten slotte zijn discussies met betrekking tot
+Koreanen opvallend meer omvangrijk.
+
+\subsection{Theoretische Benadering}\label{theoretische-benadering}
+
+Net als Matsumura e.a.
+(\protect\hyperlink{ref-matsumuraux5fdynamismux5f2005}{2005}), Murai
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}) en Rumi
+(\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}) poogt deze paper
+vanuit theoretisch perspectief een verklaring te geven aan het
+nationalisme en de ideologische polarisatie die plaatsvind in de
+anonimiteit van bovenstaande communicatieplatformen. Aan het voortouw
+van studies rond sociale en psychologische gevolgen uit anonieme
+computerondersteunde communicatie staan Kiesler, Siegel, en McGuire
+(\protect\hyperlink{ref-kieslerux5fsocialux5f1984}{1984}), en Lea
+(\protect\hyperlink{ref-leaux5fsocialux5f1992}{1992}). Zij toonden aan
+dat als negatieve aspect anonimiteit een gebrek aan sociale
+verantwoordelijkheid en groepsvorming gebaseerd op retoriek meebrengt,
+dat weer leidt tot verdere groepspolarisatie. Deze paper, in een sociale
+identiteitsbenadering, analyseert \emph{netto-uyoku}, als verbeelde
+gemeenschap, vanuit recentere modellen die daar op verder bouwen.
+
+\subsubsection{Verbeelde
+(Cyber)gemeenschappen}\label{verbeelde-cybergemeenschappen}
+
+In zijn onderzoek naar nationalisme bedacht Anderson
+(\protect\hyperlink{ref-andersonux5fimaginedux5f2006}{2006}) de term
+`verbeelde gemeenschap', een sociale constructie ter verklaring van een
+bindingsgevoel dat leidde tot nationalisme vanaf de vroege negentiende
+eeuw. In een drang naar sociale interactie worden, door categorisering,
+arbitraire overeenkomstigheden gebruikt ter creatie van verbeelde
+gemeenschappen. Verbeeld, omdat leden van gemeenschappen, ondanks elkaar
+nog nooit te hebben ontmoet, toch een gevoel van eendracht bezitten en
+zich aldus als een relatief homogene groep plaatsen tegen mensen buiten
+die groep. Anderson beschouwd de natiestaat als een verbeelde
+gemeenschap omdat het bindingsgevoel onder leden daarvan wordt
+geconstrueerd uit etnische afkomst en een nationale ethos. In de creatie
+van een verbeelde gemeenschap spelen vooral het printkapitalisme en het
+ontstaan van een gemeenschappelijke taal door printmedia een primaire
+rol, aldus Anderson. De daaruit gegroeide massamedia propageert binnen
+een vaak geografische afgebakende regio, staatsgeleide, homogene
+narratieven van identiteit in de vorm van gemeenschappelijke
+herinneringen.
+
+Met de opkomst van het internet als nieuwe vorm van media argumenteert
+Appadurai (\protect\hyperlink{ref-appaduraiux5fmodernityux5f1996}{1996},
+hfstk. 3 - 4) dat dat kan leiden tot creatie van nieuwe transnationale,
+verbeelde gemeenschappen, gebaseerd op ideologie eerder dan op de
+natiestaat en met narratieven die afwijken van die voortgebracht uit
+traditionele media. De eentaligheid van Japanse \emph{netizens}
+limiteert echter de mogelijkheid tot transnationaliteit, en als enige
+sociale markeerders in een anonieme sfeer als die van 2channel worden
+taal en ideologie de belangrijkste bindingsmiddelen van de
+\emph{netto-uyoku} als verbeelde, cybergemeenschap (Murai
+\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 375--76).
+
+\subsubsection{SIDE-model}\label{side-model}
+
+Rond de impact van anonimiteit op groepsvorming en mogelijke (negatieve)
+gevolgen daaruit zoals afwijkend gedrag en geweldpleging, bestaan
+verschillende theoretische modellen. De klassieke deïndividuatietheorie
+stelt dat anonimiteit uit de aanwezigheid in een menigte leidt tot een
+verlies van zelfbewustzijn en aldus persoonlijke verantwoordelijkheid.
+Dat zou leiden tot antinormatief gedrag.
+
+De ontwikkeling van het internet en daarmee verbonden grootschalige
+computerondersteunde communicatie geeft echter een nieuwe context van
+anonimiteit en ideeën over sociale signalen. Lea en Spears
+(\protect\hyperlink{ref-leaux5fcomputer-mediatedux5f1991}{1991}) en Lea
+(\protect\hyperlink{ref-leaux5fsocialux5f1992}{1992}) ervaren
+anonimiteit in de context van het SIDE-model (\emph{social identity
+model of deindividuation effects}) als een minimale mogelijkheid om
+individuele verschillen te markeren, en nuanceren dat er onder invloed
+van de sociale identiteitstheorie\footnote{Deze theorie stelt dat de
+  identiteitservaring gebaseerd wordt op de perceptie van zichzelf
+  binnen een groep, en van de groep collectief tegenover andere groepen.
+  Eerst zal men zichzelf en anderen categoriseren in groepen. Vervolgens
+  zal men aan de hand van die groepen zichzelf (en anderen)
+  identificeren en zich conformeren naar het gedrag dat van die groep
+  verwacht wordt. Tenslotte begint het process van vergelijken. Gevolgen
+  daarvan zijn dat de groep waar men tot hoort, de in-groep (`wij'), ter
+  verhogen van eigenwaarde, de andere groep zal discrimineren.} geen
+sprake is van een echt verlies van zelfbewustzijn. Dat, aangezien
+volgens die theorie identiteit mee opgebouwd wordt door
+zelf-categorisering in verschillende groepen. Volgens het SIDE-model
+veschuift de persoonlijke identiteit juist naar die van de menigte en
+aldus vormt er een groepsmentaliteit. Het eerder beschreven
+antinormatief gedrag wordt dan juist uitgevoerd op basis van wat wel tel
+telt als normatief gedrag in die groep - al zijn het zelfs
+gemeenschappelijke ideeën die geen basis hebben in de realiteit.
+
+Verder doorgetrokken stelt deze theorie dat, mits er reeds enige
+affiniteit bestaat met de groep in kwestie, anonimiteit groepsidentiteit
+zal opleggen en versterken, maar ook bepaald gedrag zal normaliseren.
+Indien dat niet het geval is zal het omgekeerde effect plaatsvinden en
+versterkt de persoonlijke identiteit als los van de groep.
+
+\subsubsection{Referent Informational Influence
+Theory}\label{referent-informational-influence-theory}
+
+Groepspolarisatie wordt beschreven als de neiging om als groep extremere
+opvattingen te hanteren dan wat een individu eerst als intentie had.
+Daarrond bestaan verschillende modellen. De \emph{Social comparison
+theory} stelt bijvoorbeeld dat leden beginnen met een gematigde mening
+en, door het vergelijken met die van anderen, een iets extremer
+standpunt innemen dat toch overeenkomt met die van de groep als middel
+tot onderscheiding. De \emph{informational influence theory} stelt
+eerder dat groepspolarisatie het gevolg is van de overtuigingskracht van
+argumenten van de meerderheid in een groep. In een groep met een
+gelijkaardige meningen worden verschillende argumenten bovengehaald ter
+ondersteuning, en voor leden die deze argumenten nog kenden zorgt dat
+voor een verdere versterking van die mening.
+
+Een derde model, de \emph{referent informational influence theory} (of
+``\emph{the social identity theory of influence in groups}'') bouwt
+verder op de zelf-categorisatietheorie\footnote{De
+  zelf-categorisatietheorie stemt voort uit de sociale
+  identiteitstheorie en analyseert de cognitieve processen in
+  zelf-categorisatie door de vraag te stellen wanneer, waarom en op
+  welke basis we ons eerder als groep categoriseren dan als individu,
+  alsook wat de psychologische gevolgen daarvan zijn. Op basis van
+  sociale categoriëen gevormd uit geobserveerde overeenkomstigheden en
+  contrasten categorizeren we anderen, maar veranderen we ook onze
+  representatie van die leden. Ze worden niet langer gezien als unieke
+  individuen maar als een uiting van attributen uit die groep en werken
+  dus stereotypering in de hand. Op een zelfde wijze wordt ook gedrag
+  als conformiteit of etnocentrisme verklaard.} en verklaart
+groepspolarisatie als een psychologische conformiteit (eerder dan
+naleving of gehoorzaamheid) aan waarden in een bepaalde \emph{in}-groep.
+Dat wordt gedaan wanneer men zich sterk identificeert met de normen van
+die groep en die aldus opneemt als deel van de eigen identiteit. Om
+zichzelf tot het uiterste te differentiëren tot een \emph{out}-groep,
+eerder dan tot onderscheiding in de \emph{in}-groep, wordt er echter een
+extremer standpunt in genomen dan wat gemiddeld telt. In deze theorie is
+het dus ook niet de inhoud van de argumenten die telt, maar de sociale
+positie van zichzelf in de groep waar de informatie uit komt (Turner,
+Wetherell, en Hogg
+\protect\hyperlink{ref-turnerux5freferentux5f1989}{1989}).
+
+Eun-Ju Lee, in haar studie over deïndividuatie en groepspolarisatie
+binnen computerondersteunde communicatie
+(\protect\hyperlink{ref-leeux5fdeindividuationux5f2007}{2007}), past het
+SIDE-model toe in combinatie met de \emph{referent informational
+influence theory}. Ze concludeert dat het gebrek aan sociale signalen en
+herkenningsattributen als kenmerk van computerondersteunde communicatie
+sociale categorisatie en groepsidentificatie in de hand werkt wat, in
+het distantiëren tot de \emph{out}-groep, tot groepspolarisatie leidt.
+Aan de hand van deze bevindingen stelt ze dat politieke discussies
+uitgevoerd op anonieme fora, waarin argumenten langs beide kanten een
+contrast creëeren tussen \emph{in} en \emph{out}-groep,
+groepspolarisatie meebrengt enerzijds om de sociale positie in de groep
+te verduidelijken, en anderzijds om zich te distantiëren van de
+\emph{out}-groep. In dat geval, vermoedt ze, kan de discussie een
+verdeeldheid in standhouden en versterken, eerder dan tot een publieke
+consensus te komen.
+
+De exclusiviteit van het \emph{netto-uyoku} discours is daar een
+rechtstreeks gevolg van. Door het proces van groepspolarisatie wordt er
+een selectie gemaakt aan `goede', patriottische burgers met
+gemeenschappelijke morele waarden en normen tot creatie van een
+ideologisch homogene gemeenschap. Nationalisme en patriottisme worden
+als primaire, juiste ideologieën aangenomen en de daar uit vloeiende
+taal dient als signaal ter identificatie van gelijkgestemden. De
+ideologieën van de groep worden enerzijds op een gelijk niveau gebracht
+door het zich omwikkelen in deze gemeenschap, en anderzijds worden de
+meningen ter bescherming van de eigen groep versterkt als contrast met
+de \emph{out}-groep. Tegenstanders komen in hun gebrek aan patriottisme
+collectief anti-japans over en worden aldus volledig genegeerd.
+
+Ook Murai stelt dat groepspolarizatie kenmerkelijk is aan de ideologieën
+die de \emph{netto-uyoku} handhaven. Zelfs als dat niet zou leiden tot
+enige vorm van (online) activisme groeit het discours zodanig, stelt
+Murai, als een spiraal dat het op normatieve wijze wordt overgenomen
+door anderen die oorspronkelijk nog geen conservatieve neigingen hebben
+maar wel toesluiting zoeken tot de online gemeenschap (Murai
+\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 373--74).
+
+Dankzij de anonieme aard van internetcommunicatie, en de rol van het
+internet als een \emph{volkswil 2.0}, kunnen extremistische
+volksbewegingen niet alleen hun radicale aard verbergen, ook consensus
+wordt op die wijze gecreëerd. Dat, door in te spelen op de morele
+waarden en homogene \emph{wij}-heid van Japanse \emph{netizens}, en het
+antagoniseren van zowel andere mediavormen (de rol van massamedia als
+manipulatief en het bewust verbergen van waarheden), als van kritische
+tegenstanders - zij worden afgestempeld als Koreaanse anti-Japanse
+spionnen. De wij-groep wordt overtuigd om actie te ondernemen en
+waarheden over Japanse vijanden te verspreiden om anderen te doen
+ontwaken. Op die wijze maken ze zichzelf zowel tot patriottische burger
+als tot activist die dankzij het medium zonder moeite kan participeren
+door bijvoorbeeld video's te delen of deel te nemen in discussies.
+
+\subsection{Conclusie (herschrijven)}\label{conclusie-herschrijven}
+
+De populariteit van bovenstaande platformen toont aan dat in de
+anonimiteit van het internet, en meer specifiek platformen als 2channel
+waar ook een gebruikersnaam als herkenningsmiddel vermeden wordt, het
+toch mogelijk is een gevoel van gemeenschap te creëren ondanks een
+gebrek aan fysieke kenmerken. Dat wordt verklaard door een
+gemeenschappelijke identiteit als patriottische \emph{netizens}, met
+enerzijds de nativistische intentie om slechte anti-Japanse invloeden af
+te weren en anderzijds ook een antagonisering van tegengestelde
+meningen. Omdat er geen andere kenmerken ter herkenning zijn wordt dat
+imago geheel opgebouwd uit de schrijfstijl en opbouw van geplaatste
+berichten. Naar bovenstaande logica worden, aan de hand van de
+ideologieën die uit anonieme berichten geplaatst worden, \emph{netizens}
+dan ook geklassificeerd als ofwel patriottische \emph{netizens} ofwel
+``anti-Japanse'' vijanden (Murai
+\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 374).
+
+Met Mudde (\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013}) en
+Lindgren (\protect\hyperlink{ref-lindgrenux5fdevelopingux5f2015}{2015})
+in gedachten definiëerde deze paper in het eerste deel aan de hand van
+eerder onderzoek Japans populisme en bracht het in verband met
+internetcommunicatie en sociale media. In het tweede deel werd verder
+ingegaan op mogelijke sociale effecten van internetcommunicatie op de
+maatschappij door als case-study de extreem-rechtse, nationalistische
+internet-stem te nemen en hun politieke beweegredenen te bekijken. Het
+tweede deel concludeert dat het internet in een creatie van
+\emph{imagined cybercommunities} zowel polariseert als nationalistische
+retoriek normaliseert, en aldus vrij spel creëert voor populisten.
+Samenvattend voldoen de ideologieën die de \emph{netto-uyoku} voor hand
+hebben aan de eerder opgestelde definitie van populisme. Inhoudelijk
+zijn ze echter nativistisch door buitenlandse invloeden als anti-Japans
+te plaatsen en autoritair door de intentie die anti-Japanse invloeden te
+straffen. In lijn met Rolfe wordt daarnaast, inherent aan het
+\emph{netizens}-discours, ook massamedia afgeschilderd als de
+manipulatieve elite. Dit hoofdstuk plaatste de \emph{netto-uyoku
+netizen}-groep als wij-groep of \emph{heartland} in functie van
+populistische politici. In het laatste deel onderneemt deze paper een
+poging om de ideologieën van Makoto Sakurai te classificeren: iemand die
+zich opstelt als representatief voor die groep, en in de literatuur daar
+vaak aan verbonden wordt.
+
+\newpage
+
+\section[Makoto Sakurai (桜井誠)]{\texorpdfstring{Makoto
+Sakurai\footnote{Makoto Sakurai wordt vaak beweerd een bijnaam of
+  \emph{pen name} te zijn. Na een Zaitokukai arrestie publiceerde Nikkei
+  News zijn echte naam als 高田誠, door een nieuwsanker uitgesproken als
+  Takata Makoto (HoSyu
+  \protect\hyperlink{ref-hosyuux5fzaitokukaiux5f2013}{2013}; News
+  \protect\hyperlink{ref-nikkeiux5fnewsux5fdemomeguriux5f2013}{2013})}
+(桜井誠)}{Makoto Sakurai (桜井誠)}}\label{makoto-sakurai52-ux685cux4e95ux8aa0}
+
+Het hoeft niet gezegd te worden dat als spilfiguur in de discussie rond
+hatespeech in Japan Makoto Sakurai een controversiëel figuur is in het
+Japanse medialandschap. Als zelfverklaarde internet-activist en
+oprichter van de Zaitokukai haalt hij frequent het nieuws door
+aaneenhoudende conflicten met o.a. de Koreaanse diaspora, en na een
+aanklacht leidde dat zelfs tot een veelbesproken debat met Hashimoto
+Taro. Na een mislukte eerste stap in het politieke landschap van japan
+tijdens de Tokio 2016 gouverneursverkiezingen besloot hij een
+onafhankelijke partij op te richten met de Tokio districtsverkiezingen
+van 2 juli 2017 in het oog: de Japan First Party.
+
+\subsection{Achtergrond}\label{achtergrond}
+
+Volgens een uitgebreid interview met de conservatieve centrum-rechtse
+krant Sankei News in 2016 groeide Sakurai, geboren op 15 februari 1972,
+vaderloos op in Fukuoka, waar hij studeerde aan Fukuoka Kenritsu Nakama
+High School, tot hij in Edogawa, Tokio ging werken als part-time
+administratief bediende. In dat interview haalt hij enkele anekdotes
+naar boven die zijn huidige politieke ideologieën zouden hebben bepaald.
+Voorbeelden omvatten een geschiedenisleerkracht die frequent vrijaf nam
+om deel te nemen aan vakbondsacties van de Japan Teachers'
+Union\footnote{De Japan Teacher Union (\emph{nihonkyoshokuinkumiai},
+  日本教職員組合), Afgekort als JTU of nikkyouso (日教組), functioneert
+  als grootste onderwijsvakbond in Japan en neemt een kritisch standpunt
+  in tegen het conservatieve beleid onder de LDP.}, studenten uit een
+aan Noord Korea-geaffilliëerde school\footnote{Chōsen gakkō (朝鮮学校)
+  zijn scholen opgericht ter educatie van de Koreaanse diaspora in
+  Japan, gesubsidieerd door Chongryon, een organisatie gekoppeld aan
+  Noord-Korea.} die frequent geweld zouden plegen of studenten
+bedreigden voor geld (INC
+\protect\hyperlink{ref-incux5ftokioux5f2016}{2016}), en lokale politici
+die stemmen omkochten door het sociale zekerheidssysteem te misbruiken.
+
+Als startpunt voor zijn anti-Koreaanse activiteiten (\emph{kenkan
+katsudou}, 嫌韓活動) geeft hij echter een anekdote over zijn ervaring op
+een digitaal forum tijdens het wereldkampioenschap voetbal in 2002
+georganiseerd in Seoul, Zuid-Korea. Ondanks volgens hem massale steun
+voor Zuid-Korea vanuit Japan kwam er toch anti-Japans sentiment uit
+Zuid-Koreaanse hoek (『日本負けろ』). Vervolgens stelt hij dat
+Zuid-Koreanen geen genoegen nemen met het 1964-verdrag dat relaties
+tussen Zuid-Korea en Japan normaliseerden\footnote{Treaty on Basic
+  Relations between Japan and the Republic of Korea (\emph{nikkan kihon
+  joyaku}, 日韓基本条約), getekend op 22 juni 1965.} en zaken als het
+`troostmeisjes-probleem' onnodig laten aanslepen.
+
+\begin{quote}
+``「３年間そんなことをやってきて、最後の討論の際、彼らにこう言ったんです。『朝鮮人が日本人に虐殺されたというけれども、それなら併合期になぜ人口が倍増しているんだ』と。韓国の教科書にその統計が載っているんですよ。国定教科書ですよ、向こうの。だからその向こうの国の教科書を相手に見せたんですよ。そうしたらこう返したんです。『いや、日帝は奴隷を作るために人口を増やしたんだ』と。私、脱力しましたね。これはダメだと、議論にならない」''
+(INC \protect\hyperlink{ref-incux5ftokioux5f2016}{2016})
+\end{quote}
+
+\begin{quote}
+``Na dat drie jaar te hebben volgehouden {[}het online discussiëren met
+Zuid-Koreanen{]} zei ik hun op het moment van mijn laatste discussie het
+volgende: `Jullie stellen dat Koreanen {[}onder Japans colonialisme{]}
+massaal werden geëxecuteerd. Waarom verdubbelde de bevolking dan tijdens
+de annexatie?' Die cijfers staan in Zuid-Koreaanse schoolboeken hoor! In
+schoolboeken door de Koreaanse overheid gepubliceerd! Daarom liet ik die
+schoolboeken aan hun zien. Ik kreeg het volgende antwoord: `Nee, het
+Japans Keizerrijk deed de bevolking stijgen om slaven te maken.' Toen
+was ik uitgeput. Nu is het genoeg, ik kan niet verder blijven
+argumenteren.''
+\end{quote}
+
+\subsection{Activisme}\label{activisme}
+
+Onder de gebruikersnaam \emph{konkon} begon Sakurai zijn anti-Koreaanse
+internetactiviteiten als \emph{netto-uyoku} in 2002 op een
+vertaalforum\footnote{Een vertaalforum (翻訳掲示板) is een forum met
+  achterliggende software die berichten op machinale wijze automatisch
+  vertaalt naar de taal van de gebruiker.} van de `Chuo Daily Report'
+(中央日報), om vervolgens onder zijn huidige gebruikersnaam
+\emph{Doronpa} over te gaan op een vertaalforum van Zuid-Koreaans
+internetportaal NAVER in 2003, en van `Go Korea' in 2004. Zijn frequente
+berichtgeving werd positief geëvalueerd onder \emph{netto-uyoku} en
+leidde vervolgens tot het oprichten van zowel een eigen site
+``Zuid-Korea, het vreemde land'' (「不思議の国の韓国」)\footnote{Een
+  woordspeling op het boek ``Alice in Wonderland''
+  (「不思議の国のアリス」)} als een forum genaamd ``Rauw debat over
+Korea'' (「韓国生討論」). In januari 2005 werd hij als gast van een
+publieke \emph{panel} gevraagd op een Nippon TV (日本テレビ)
+\emph{variety}-programma `Generation Jungle' (「ジェネジャン」) om
+vervolgens periodiek door Channel Sakurai uitgenodigd te worden.
+
+Onder die nieuw-verworven populariteit richtte hij in april 2005 een
+rechtse volksbeweging op onder de naam 「日韓歴史問題研究会」
+(Onderzoeksgroep over het probleem van de Japans-Koreanse
+geschiedenis)\footnote{Werd in 2006 hernoemd tot 東亜細亜問題研究会
+  (Onderzoeksgroep over het probleem van Oost-Azië).}, met een eerste
+symposium 「暴走する韓国の反日」 (het uit de hand gelopen anti-Japanse
+Zuid-Korea) datzelfde jaar in juli. Participatie daarvan wordt op
+ongeveer vijftig leden geschat. Periodieke symposia, lezingen en
+studiegroepen leidden tot een steiging van volgers en met enkele volgers
+startte hij vervolgens een eigen internet-radioshow.
+
+In december 2005 begon hij een carrière als schrijver met zijn zijn
+eerste eerste boek 「嫌韓流 実践ハンドブック 反日妄言撃退マニュアル」
+(Haat jegens de Korean Wave, een praktisch handboek: een handleiding om
+ondoordachte Anti-Japanse opmerkingen af te weren) gepubliceerd door
+uitgever Shinyusha Co., Ltd. (晋遊舎)\footnote{Door Sharin Yamano werd
+  onder de zelfde uitgever ook de controversiële Manga Kenkanryu (マンガ
+  嫌韓流, Haat voor de Korean Wave) en Manga Kenchugokuryu
+  (マンガ嫌中国流, Haat voor de Chinese Wave) uitgebracht.}. Onder
+Shinyusha en Seirindo (青林堂)\footnote{Een uitgever die vooral bekend
+  staat voor de publicatie van de maandelijkse avant-garde manga Garo
+  (ガロ).} bracht hij vervolgens zowel solo-publicaties uit als
+contributies tot bestaande magazines als \emph{Japanism}
+(「ジャパニズム」) (Yasuda
+\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}).
+
+\subsection{Zaitokukai}\label{zaitokukai}
+
+Sakurai richtte de groep in 2006 op als protest jegens de Zainichi
+Koreanen, de Koreaanse diaspora in Japan, die misbruik zouden maken van
+een oneerlijk systeem van sociale zekerheid ter compensatie van door
+Koreanen gefabriceerde oorlogsmisdaden in de Tweede Wereldoorlog. Uit
+een patriottisch idee om dergelijk anti-Japans gedrag te bestrijden en
+Japan terug in handen van `echte Japanners' te geven houdt de groep
+frequent protestacties (Yasuda
+\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}; Murai
+\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 373). Sakurai
+weigert echter vergelijkingen met neo-nazisme en racistische ideologieën
+en verduidelijkt de groep te hebben gebaseerd op de Amerikaanse Tea
+Party na het analyseren van campagnevideos. Dat, omdat hij op zelfde
+wijze overtuigd is dat Japan door de invloed van linkse politici, media
+en buitenlanders een verkeerde richting opgaat (Fackler
+\protect\hyperlink{ref-facklerux5fnewux5f2010}{2010}).
+
+\textbf{7 campagnepunten}
+
+\begin{quote}
+１．在日による差別を振りかざしての特権要求を在特会は断じて許しません。\\
+``De Zaitokukai laat de eis naar speciale voorrechten voor Zainichi
+Koreanen die met `discrimatie' zwaaien, absoluut niet toe.''
+
+２．公式サイトの拡充、各地での講演会開催などを様々な媒体を通じて在日問題の周知を積極的に行っていきます。\\
+``We voeren actief een uitbreiding van kennis uit over het
+Zainichi-probleem door van allerlei media gebruik te maken zoals het
+uitbreiden van onze officiële site, in verschillende regio's lezingen
+houden, enzovoort.''
+
+３．各所からの講演要請があれば在特会は可能な限り応じ、集会の規模を問わず講師の派遣を行います。\\
+``Als er vanuit bepaalde plekken een vraag komt naar een spreker, zal de
+Zaitokukai er voor zover mogelijk op reageren en, ongeacht de schaal van
+de bijeenkomst, een spreker uitzenden.''
+
+４．「在日特権に断固反対」「在日問題を次の世代に引き継がせない」意思表示として在特会への会員登録を広く勧めていきます。\\
+``Met doelen als `pertinent tegen de speciale voorrechten van de
+Zainichi Koreanen' en `we laten het Zainichi-probleem niet over aan de
+volgende generaties' zullen we het aansluiten aan de Zaitokukai sterk
+aanmoedigen.''
+
+５．当面の目標を登録会員数一万人に定め、目標に達し次第、警察当局や法務当局、各地方自治体、各政治家への在日問題解決の請願を開始します。\\
+``Zodra we ons huidig doel van 10.000 geregistreerde leden hebben
+bereikt, starten we een petitie gericht naar de politieautoriteiten,
+gerechtelijke instanties, lokale overheden, politici, enzovoort, om tot
+een resultaat te komen van het Zainichi-probleem.''
+
+６．在日側からの希望があれば、放送・出版など様々なメディアにおいて公開討論に応じます。\\
+``Als er langs de kant van Zainichi Koreanen een wens bestaat, zullen we
+via allerlei media als publicaties, uitzendingen, enzovoort, reageren
+met een openlijk debat.''
+
+７．不逞在日の犯罪行為に苦しむ各地の実態を知らしめ、その救済を在特会は目指していきます。\\
+``De Zaikokai streeft naar het helpen om de werkelijke staat van
+plaatsen die lijden onder misdadig gedrag van opstandige Zainichi
+Koreanen bekend te maken.''
+\end{quote}
+
+(Z.N. \protect\hyperlink{ref-z.n.ux5fzaitokukaiux5f2017}{2017})
+
+\subsubsection{Structuur (in-progress)}\label{structuur-in-progress}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/zaitokukai_user_base.jpg}
+\caption{Screenshot van het ledendistributiediagram}
+\end{figure}
+
+In 2017 heeft de Zaitokukai naast het hoofdkantoor 36 afdelingen
+verspreid over Japan. Een interactieve kaart op de officiële pagina van
+de Zaitokukai weergeeft per regio de demografie van het ledenbestand.
+Indien die kaart up-to-date wordt gehouden omvat het totaal aantal
+gebruikers op april, 2017 volgens de organisatie 16399 leden\footnote{Het
+  totaal bevat een discrepantie van exact 10 leden wanneer vergeleken
+  met het opgetelde totaal (16389 leden) van alle regio's in de
+  interactieve kaart zelf.}, waarvan 14079 (85,85\%) mannen en 2315
+(14,12\%) vrouwen. Het hoogst aantal leden zou komen uit Tokio (2945
+leden of een 17,97\% aandeel), gevolgd door Kanagawa (1313 leden of
+8,01\%) en Osaka (1464 leden of 8,93\%).
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/zaitokukai_user_base_table.jpg}
+\caption{Cirkeldiagram van het aantal leden per regio}
+\end{figure}
+
+Hier een paragraaf over de grootte van de partij en groei. Ook iets over
+de demografie: (Demografie van Zaitokukai volgens N. Higuchi
+(\protect\hyperlink{ref-higuchiux5fjapansux5f2014}{2014}) in interview
+met 25 leden vooral white-collar of self-employed middenklasse, dus past
+niet in theorie van lagere klasse onzekerheid.) Ook iets over de
+organisatie van de partij als gevolg van deze groei. Tenslotte nog
+vermelding van het aantal protesten uitgevoerd sinds de oprichting.
+
+\subsubsection{Betogingen}\label{betogingen}
+
+Betogingen staan vooral in teken van eerdergenoemde speciale rechten van
+Zainichi Koreanen, maar ook tegen andere ervaarde anti-Japanse elementen
+wordt geprotesteerd. In 2011, na de kernramp van Fukushima, hield hij
+bijvoorbeeld een protestactie 「原発の火を消させないデモ行進」
+(``betoging om het het vuur van nucleaire reactoren niet te laten
+doven''), als reactie op antikernenergiebewegingen, wat live werd
+uitgezonden op Niconico. Sakurai deed dat uit geloof dat die bewegingen
+zijn opgericht uit anti-Japans sentiment, met de intentie om een tekort
+aan stroom te bekomen en aldus Japan te verzwakken (Sakurai
+\protect\hyperlink{ref-sakuraiux5fnihonux5f2011}{2011}).
+
+In 2009 haalde de Zaitokukai voor het eerst sterke kritiek over zich
+door een protestactie tegen het verblijf van een illegale Filipijnse
+middelbare studente die in Japan mocht verblijven onder een speciaal
+statuut.\footnote{Het was tevens de eerste protestactie van de
+  Zaitokukai die een tegenprotest langs linkse kant uitlokte en een
+  startpunt in de ontwikkeling van nieuwe sociale tegenwegingen
+  (Shibuichi
+  \protect\hyperlink{ref-shibuichiux5fstruggleux5f2016}{2016}).} In een
+2009 protest tegen het illegaal gebruik van een openbaar park door een
+\emph{chosen gakko} lagere school als oefenterrein, organiseerde de
+Zaitokukai op aanvraag van lokale inwoners, in samenwerking met
+ultranationalistische volksbewegingen Shukenkai en Team Kansai een
+betoging voor de poorten van de school. Door het roepen van racistische
+en haatzaaiende slogans werden enkele leden aangeklaagt wegens
+obstructie van openbare orde en laster met een boete van 12 miljoen yen
+tot gevolg.\footnote{Het verdict zelf werd op 9 december 2014
+  uitgesproken. De school zelf werd voor 100.000 yen beboet en werd voor
+  veiligheidsredenen in 2012 gesloten.} Yasuda, in een interview met die
+lokale inwoners, rapporteert anderzijds wel een dankbaarheid om het
+probleem, al was het op extreme wijze, in de kijker te brengen (Yasuda
+\protect\hyperlink{ref-yasudaux5fux5f2012}{2012}), wat kan duiden op een
+bepaalde reputatie van vigilantisme.
+
+Ook in een protest tegen een fundraiser gehouden door de
+onderwijsvakbond in Tokushima ten voordele van arme jongeren hield de
+Zaitokukai een betoging, datmaal in het kantoor van de vakbond zelf.
+Dat, omdat een deel van het geld gedoneerd werd aan een \emph{chosen
+gakko}. Het resultaat was een aanklacht en boete van 4,36 miljoen yen.
+In augustus 2014 volgde er een aanklacht wegens laster en racisme door
+freelance-auteur en anti-hatespeech activiste Lee Sinhae. Ze klaagde
+respectievelijk de Zaitokukai en een blog gerelateerd tot 2channel aan
+voor 5,5 miljoen yen en 22 miljoen yen. De zaak wordt momenteel nog
+onderzocht.
+
+\subsubsection{Reactie}\label{reactie}
+
+In 2012 sprak een LDP-kandidaat\footnote{Advocaat Okazaki Akira, op
+  aanbeveling van de Komeito een kandidaat in het twaalfde district van
+  Hyogo. Hij verloor met een tweede plaats tegen toenmalig regerend
+  DPJ-lid Tsuyoshi Yamaguchi (山口壮).} zich op Twitter nog positief uit
+over de groep (Okazaki
+\protect\hyperlink{ref-okazakiux5fdoronpa01ux5f2012}{2012}). Ook leden
+van ``The Party for the Japanese Kokoro'' (日本のこころ, oorspronkelijk
+``The Party for Future Generations'' 次世代の党) en de ``Osaka
+Restoration Association'' (大阪維新の会) spraken steun uit, maar die
+werd later weer teruggetroken. Door deze aaneenloping van bovenstaande
+accidenten, echter, besloot Osaka burgemeester Toru hashimoto een
+opiniemeeting te houden met Makoto Sakurai wat uitmondde in een
+scheldpartij langs beide kanten (2021 summer
+\protect\hyperlink{ref-2021ux5fsummerux5fvsux5f2014}{2014}). Tijdens een
+live broadcast op Niconico verklaarde Sakurai in 2014 om zich als
+president terug te trekken na het beëindigen zijn ambtstermijn\footnote{Vice-president
+  Yagi Yasuhiro (八木康洋) heeft sindsdien telkens de Zaitokukai
+  presidentsverkiezingen gewonnen en dient als huidig president.} om zo
+meer tijd te hebben nieuwe jonge conservatieve politici beter te
+ondersteunen.\footnote{In 2016 richt hij voor die reden de ``Beweging
+  van Actief-Conservatieven'' 「行動する保守運動」 op.}\footnote{Makoto
+  Sakurai beweert tevens vlak voor hij uit de Zaitokukai stapte, een
+  uitnodiging te hebben ontvangen om naar een congress van
+  nationalistische bewegingen als de Griekse Golden Dawn in Budapest te
+  komen. Hoogstwaarschijnlijk gaat het over een geplande ``National
+  Policy Institute Conference'' dat gepland werd in Budapest maar
+  grondwettelijk werd tegengehouden en leidde tot een deportatie van
+  NPI-oprichter Richard Spencer (INC
+  \protect\hyperlink{ref-incux5ftokioux5f2016}{2016}).}
+
+In december 2015 komt het Ministerie van Justitie, na een eerder vermeld
+onderzoek naar hate speech, tot het besluit dat de opnames van
+Zaitokukai-acties jegens Zainichi Koreanen aanleiden tot haat en
+racisme, en aldus in overtreding komt met mensenrechten. Het ministerie
+vorderde daarom een eis uit aan Niconico en dergelijke video-uploadsites
+tot verwijdering van deze videos. In mei 2016 voerde het ministerie in
+een eerste poging om hate speech te bestrijden de ``Hate Speech Act of
+2016'' door, met voorbeelden van hatespeech verspreid naar ongeveer 70
+lokale overheden in maart 2017 (Times
+\protect\hyperlink{ref-japanux5ftimesux5fjusticeux5f2017}{2017}).
+
+\subsubsection{Internet}\label{internet}
+
+Zaitokukai maakt sterk gebruik van sociale media en het internet. Naast
+verschillende actieve accounts op Twitter, Facebook, enzovoort worden
+activiteiten vaak live uitgezonden of achteraf geplaatst op
+video-uploadsites als Niconico, Channel Sakura\footnote{(Iets over het
+  blokkeren van het account door Niconico onder de nieuwe wetten en het
+  verwijderen van Zaitokukai-account door Channel Sakura beheerders
+  hier)} en Youtube.
+
+De huigige webpagina heeft een eigen discussieruimte toegankelijk tot
+geregistreerde leden, en hanteert een gelijkaardige visuele stijl tot
+die van 2channel, met een toegankelijke, zelfs schattig design (zoals
+een banner die lijkt op de profielfoto's gebruikt door de `hinomari
+clique' op Twitter). In de vorm van een cartoonesque Q\&A sessie tussen
+een fictieve professor en een Zainichimeisje \emph{Zaiko-chan}
+(ザイ子ちゃん) beschrijft een gids ten slotte de voornaamste punten van
+de Zaitokukai.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics{images/zaitokukai_site_qa.jpg}
+\caption{screenshot van een ``vragenronde'' over speciale rechten van
+Zaitokukai (Bron: Z.N.
+(\protect\hyperlink{ref-z.n.ux5fzaitokukaiux5f2017}{2017}))}
+\end{figure}
+
+\subsubsection{Verwerving}\label{verwerving}
+
+Volgens N. Higuchi
+(\protect\hyperlink{ref-higuchiux5fjapansux5f2014}{2014}) worden
+potentiële leden aangeworven door \emph{netto-uyoku} die frequent
+anti-koreaanse berichten plaatsen online te contacteren, of door een
+latent wantrouwen jegens buitenlanders naar buiten te brengen met
+haatwekkende videos. In N. (. Higuchi
+(\protect\hyperlink{ref-higuchiux5fux5f2014}{2014}) legt hij door middel
+van interviews een verdere band tussen activisten en het internet. In
+die interviews blijken leden in aanraking te komen met
+rechts-populistische ideologieën door het browsen op het internet naar
+informatie die in gaat tegen massamedia-narratieven
+(\protect\hyperlink{ref-higuchiux5fux5f2014}{2014}, 96). De filterbubbel
+van zoekmachines past resultaten verder aan aan de politieke voorkeuren
+van de zoeker en brengt de zoeker verder in aanraking met
+grassroots-bewegingen als de Zaitokukai. Murai
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}) stelt dat op deze
+wijze de organisatie leden kan ronselen die gevestigde politici niet
+kunnen bereiken\footnote{Anderzijds ontstaan er, door het aansporen tot
+  haat en verspreiden van extreem-nationalistische propaganda, ook
+  anti-Zaitokukai tegenbewegingen zoals norikoe-net (afkorting van
+  International Netwerk om Hatespeech en Racisme te Overkomen,
+  ヘイトスピーチとレイシズムを乗り越える国際ネットワーク), met
+  prominente leden als Murayama Tomiichi (Shibuichi
+  \protect\hyperlink{ref-shibuichiux5fstruggleux5f2016}{2016}).}, en
+aldus levert het internet, met kenmerken aangehaald in het tweede deel,
+een ideale omgeving ter, om het in Murai's woorden te stellen,
+`propagatie van ideologie'
+(\protect\hyperlink{ref-muraiux5fnetux5f2012}{2012}, 373).\footnote{Rumi
+  nuanceert deze visie echter door te stellen dat dergelijke pogingen
+  onder \emph{netto-uyoku} wel vaak genegeerd worden of ook het mikpunt
+  van cynische spot worden (Rumi
+  \protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}).}
+
+Tamura en Kobayashi
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}) plaatst de
+Zaitokukai door hun aanpak van confrontatie via straatdemonstraties,
+volgens \textbf{Tabel 1.2}, onder de categorie van strijdbare democratie
+(`\emph{Contentious Democracy}')
+(\protect\hyperlink{ref-tamuraux5fnigglingux5f2014}{2014}, 127).
+Anderzijds maken Makoto Sakurai en de Zaitokukai sterk gebruik van
+sociale media om Japanse burgers tot (passieve) politieke participatie
+aan te moedigen, wat past binnen het eerder gedefiniëerde model van
+\emph{Internet Democracy}. Tenslotte antwoord de gehandhaafde ideologie
+ook dusdanig aan het model van populisme als gedefiniëerd door Mudde
+(\protect\hyperlink{ref-muddeux5foxfordux5f2013}{2013}) om te passen
+binnen het model van \emph{Populist Democracy}.
+
+\subsection{Politieke carriere}\label{politieke-carriere}
+
+\subsubsection{Gouverneursverkiezingen
+(bijna)}\label{gouverneursverkiezingen-bijna}
+
+In 2016 stelde Sakurai zich als onafhankelijke kandidaat voor in de
+gouverneursverkiezingen van Tokio na het ontslag van Yoichi
+Masuzoe\footnote{Hij trad af wegens misbruik van publieke fondsen.}. Hij
+eindigde vijfdes uit 21 kandidaten, met een totaal aan 14,171 stemmen
+(1.74\% van het totaal aantal stemmen, wat vrij gelijk loopt met het
+percentage stemmen per kiesdistrict\footnote{Het meeste aantal stemmen
+  haalde hij in Setagaya City, met 7,020 stemmen of 1.56\% van het
+  geheel. Het hoogste percentage haalde hij in Mikurajima, een dorp uit
+  Miyake, Tokio met 4.10\% van het totaal (wat overeenkomt met 8
+  stemmen).})\footnote{Met 44.49\% van het totaal aantal stemmen werd
+  Yuriko Koike, vice secretaresse van de Nippon Kaigi en o.a. minister
+  van defensie onder de LDP, eerste vrouwelijke gouverneur van Tokio.}
+(Shimbun
+\protect\hyperlink{ref-asahiux5fshimbunux5felectionsux5f2016}{2016}).
+Later stelde hij de intentie om deel te nemen aan de Tokyo Assembly
+Elections (都議選) in 2017 met de kennis verworven uit deze verkiezing.
+
+\textbf{7 campagnepunten}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  「都内に在住する外国人の生活保護の支給を停止し、生活保護の受給者は日本国民に限定する」\\
+  ``Stop het betalen van financiële overheidssteun aan buitenlanders die
+  verblijven in Tokio en beperk ontvangers daarvan tot het Japanse
+  volk.''
+\end{enumerate}
+\end{quote}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  「都内の不法残留者を4年間で半減させる」\\
+  ``Verminder binnen vier jaar het aantal overschrijdingen van de
+  toegelate verblijftijd met de helft.''
+\end{enumerate}
+\end{quote}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  「日本人に対し外国人が虚構の歴史に基づいて責め立てる反日ヘイトスピーチを禁止する」\\
+  ``Verbiedt opdringerige anti-Japanse hate speech gebaseerd op een door
+  buitenlanders verzonnen fictieve Japanse geschiedenis.''
+\end{enumerate}
+\end{quote}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  「税の公平性に反し減免されている、総連・民団の中央本部および関連施設への課税強化を図る」\\
+  ``Ontwerp een belastingsverhoging voor het hoofdkantoor en de
+  bijhorende faciliteiten van Chongryon en Mindan (die een oneerlijke
+  belastingsverlaging krijgen).''
+\end{enumerate}
+\end{quote}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  「違法賭博パチンコに対し規制を実施」\\
+  ``Implementeer een wetgeving met betrekking tot pachinko als illegaal
+  gokken.''
+\end{enumerate}
+\end{quote}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\tightlist
+\item
+  「韓国学校建設については中止」\\
+  ``Stop het bouwen van scholen voor Koreanen.''
+\end{enumerate}
+\end{quote}
+
+\begin{quote}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\tightlist
+\item
+  「コンパクト五輪の意義を考え、現行の東京五輪案の改善を図る」\\
+  ``Ontwerp ter verbetering van het huidig `Tokyo Olympics'-plan een
+  meer compacte Tokyo Olympics.''
+\end{enumerate}
+\end{quote}
+
+(Bron: shiminjichi 3rd
+\protect\hyperlink{ref-shiminjichiux5f3rdux5fmakotoux5f2016}{2016}; News
+\protect\hyperlink{ref-sankeiux5fnewsux5f7ux5f2016}{2016})
+
+Asahi Shimbun bekritiseerde zijn campagne als gebruikmakend van de
+verkiezingen om hate speech te verspreiden. Sankei News daarentegen
+raporteerde op frequente basis over Sakurai's campagne en hield ook een
+diepgaand interview. (meer)
+
+\subsubsection{Japan First Party
+(日本第一党)}\label{japan-first-party-ux65e5ux672cux7b2cux4e00ux515a}
+
+Volgens Sankei News opende de partij op 26 maart 2017 voor een APA
+hotel\footnote{APA Groep haalde begin 2017 het nieuws nadat bekend
+  geraakte dat de CEO gebruik maakt van zijn hotels om eigen publicaties
+  te verspreiden. Die publicaties ontkennen het Bloedbad van Nanking en
+  het bestaan van de zogenaamde ``Troostmeisjes''.} in Tokio een
+conventie ter oprichting van de Japan First Party (JFP) met 270 mensen
+aanwezig en reeds 1600 leden aangesloten tot de partij. De partijtop
+bestaat voornaam uit Zaitokukai-leden, waaronder Hiroyuki Seto als
+adviseur.
+
+Het programma van de JFP is opgesteld in 10 categoriëen\footnote{grondwet
+  (憲法), nationale defensie en diplomatie (国防 · 外交), immigratie en
+  buitenlanders (移民 · 外国人) onderwijs (教育), economie (経済),
+  landbouw, bosbouw en visserij, milieu (農林漁業 · 環境), maatschappij
+  (社会), openbare orde (治安), welzijn (福祉) en politiek (政治)} met
+een totaal aan 145 beleidspunten en een samenvatting in vijf hoofdpunten
+(Party
+\protect\hyperlink{ref-japanux5ffirstux5fpartyux5fjapanux5f2016}{2016}).
+In bijlage staat een vertaling van het volledige programma, maar
+hieronder volgt een vertaling van de vijf hoofdpunten van de JFP en een
+samenvatting van de meest relevante standpunten per categorie:
+
+\begin{quote}
+\textbf{Hoofdpunten van de JFP (日本第一党綱領)}
+\end{quote}
+
+\begin{quote}
+「我が党は、世界に比類無き万世一系の天皇を戴いた民族国家日本の国体を護ります。」\\
+``Onze partij zal de in deze wereld ongeëvenaarde, ongebroken
+keizerlijke lijn van de Japanse keizer beschermen als belichaming van de
+natiestaat Japan.''
+\end{quote}
+
+\begin{quote}
+「我が党は、日本第一主義を掲げ、日本国の国益を死守し、日本人の権利を保護し、日本全体の幸福追求を目指します。」\\
+``Onze partij hanteert een Japan First doctrine, verdedigt de nationale
+belangen van Japan, beschermt de rechten van het Japanse volk en streeft
+naar geluk voor heel Japan.''
+\end{quote}
+
+\begin{quote}
+「我が党は、本来の保守主義の復権を目指し、我が国の伝統、文化、歴史を守る為、時として外敵と戦う事を辞さない覚悟を持ちます。」\\
+``Onze partij is gericht op het herstel van een essentieel
+conservatisme, en om de traditie, cultuur en geschiedenis van ons land
+te beschermen zijn we bereid om, in sommige gevallen, niet te aarzelen
+en buitenlandse vijanden te bestrijden.''
+\end{quote}
+
+\begin{quote}
+「我が党は、逼迫する国際情勢の危機を看過する事なく、一日でも早く日本人自らの手で新憲法を制定し、国軍を保有することを目指します。」\\
+``Onze partij zal zijn ogen niet sluiten voor een urgente internationale
+crisis en zal zo spoedig mogelijk een door Japanse handen ontworpen
+nieuwe grondwet creëren met als doel een eigen nationaal leger te
+beheren.''
+\end{quote}
+
+\begin{quote}
+「我が党は、歪な外国人社会福祉行政を廃止し、日本人のための社会福祉の充実を図ります。」\\
+``Onze partij zal de misvormde (\emph{crooked}) administratie van
+sociale zekerheid voor buitenlanders afschaffen en een verbeterde
+sociale zekerheid voor Japanners ontwerpen.''
+\end{quote}
+
+(Bron: Party
+\protect\hyperlink{ref-japanux5ffirstux5fpartyux5fjapanux5f2016}{2016})
+
+\subsection{Kwantitatieve Inhoudsanalyse van Sakurai's Twitter-gebruik
+(oud)}\label{kwantitatieve-inhoudsanalyse-van-sakurais-twitter-gebruik-oud}
+
+Voor een beschrijving van de gehanteerde methodologie verwijst deze
+paper naar \textbf{bijlage 1}. Voor een beschrijving van de methode tot
+verwerven van deze data verwijst deze paper naar \textbf{bijlage 2}.
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Inhoud & Beschrijving & Voorbeeld\tabularnewline
+\midrule
+\endhead
+test & test & test\tabularnewline
+\bottomrule
+\end{longtable}
+
+(Tabel coderen aan de hand van tabellen van Japans populisme: potentiele
+ideologieën etc: is Sakurai een populist (ja) en wat voor populist? Aan
+de hand van kernwoorden classificeren)
+
+Hier komt data over Doronpa01 account, followers, following, aantal
+Tweets, etc.
+
+\subsection{Ideologieën en Receptie (nog
+niet)}\label{ideologieuxebn-en-receptie-nog-niet}
+
+Het narratief van beide Korea's en de Koreaanse burgers in Japan als
+vijand van Japan is een thema dat in Sakurai's retoriek vaak terug komt.
+
+Ideologieën? Conservatief, nationalistisch, antiglobalisme?
+
+\textbf{tabel 1.2}
+
+\newpage
+
+\section{Conclusie (deels / oud)}\label{conclusie-deels-oud}
+
+(Sociale media spelen een sterk aandeel in de dispersie van nieuw
+racisme met betrekking tot minderheden -\textgreater{} xenofobie =
+belangrijk deel van rechtspopulisten -\textgreater{} politieke steun
+verhoogd)
+
+(Synergie tussen supply-side kenmerken als internet-democratie en
+demand-side kenmerken die leiden tot een crisis in identiteit creëren
+een spiraal van nationalisme waaruit enerzijds populisten kunnen
+ontstaan, en anderzijds populisten op in kunnen spelen. Enerzijds wordt
+een latente visie van buitenlandse elementen als een dreigende Ander
+naar bovengebracht en discursief in stand gehouden en versterkt door het
+internet, anderzijds werkt de anonimiteit een verstekende band van
+\emph{netizens} in de hand)
+
+(Rumi (\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011})
+argumenteert dat de ideologieën van \emph{netto-uyoku} niet onmiddelijk
+gerelateerd hoeven te zijn aan economische redenen\footnote{Het barsten
+  van de bubbeleconomie maakt het significant moeilijker om een stabiele
+  job te vinden als jongere, wat volgens Rumi
+  (\protect\hyperlink{ref-rumiux5fkoreansux5f2011}{2011}) leidt tot het
+  ontstaan van een `nieuwe lagere klasse'.} maar dat een identeit als
+\emph{netto-uyoku} discursief wordt gecreëerd door middel van anonieme
+fora als 2channel. link met 格差社会　en 格差意識 maken: Allison
+(\protect\hyperlink{ref-allisonux5fprecariousux5f2013}{2013}), Hack
+(\protect\hyperlink{ref-hackux5fsubcultureux5f2016}{2016}) en Toshimasa
+Usui)
+
+(Stemmen als (Funabashi
+\protect\hyperlink{ref-funabashiux5fjapanux5f2017}{2017}) stellen dat
+een rechtspopulisme als ervaard in West-Europa en de Verenigde Staten
+heeft gefaald in Japan. Een dergelijke stelling lijkt te kort door te
+bocht: het opentrekken van het Japans politiek systeem, en een sterke
+groei aan massamedia, heeft tot een hoop grassrootsbewegingen en
+politieke partijen met populistische ideologieën geleid die individueel
+bekeken geen sterke impact op het politiek landschap lijken te hebben,
+maar als geheel wel een nieuwe trend in politiek denken lijken te
+vormen.)
+
+De notie van `digitaal populisme' is er een die nood heeft aan verdere
+theoretische conceptualisatie, wat vermoeilijkt wordt door de fluiditeit
+van de term `populisme' zelf. Deze bachelorpaper dient voornaam als een
+eerste aanleiding tot het in kaart brengen van internetgebruik door
+populisten in Japan, met mogelijke verschuivingen in het politieke
+landschap als gevolg. Toch poogde deze paper al een verdere theoretische
+uitwerking: dat door de te mobiliseren doelgroep van populisten, in dit
+geval de Japanse \emph{netto-uyoku}, uit sociologisch standpunt te
+benaderen. Meer specifiek aan de hand van bestaande studies die de
+gevolgen van internet-anonimiteit op het vormen van de eigen identiteit
+beschrijven. Uiteraard dient men dat uitsluitend als een van vele
+factoren in het grote spel van vraag en aanbod van populisme in Japan te
+zien.
+
+Vervolgens spitste deze paper zich als case-study toe op een spilfiguur
+binnen de \emph{netto-uyoku}-beweging die aan alle kenmerken van Mudde
+en Taggart's definitie van populisme voldoet. Met name
+internet-personaliteit en oprichter van beide Zaitokukai en Japan First
+Party: Makoto Sakurai. Om enige groei aan populariteit empirisch in
+kaart te brengen werd er een kwantitatieve inhoudsanalyse gehouden op
+een substantiele portie van zijn Twitter-activiteit.
+
+Vertrekkende uit bovenstaande analyse is het duidelijk dat we Makoto
+Sakurai als populistisch leider van de Japan First Party en spilpersoon
+van de \emph{Netto-Uyoku} beweging op gebied van populariteit, invloed
+en mainstream rapportering nog niet in dezelfde rij kunnen zetten als
+die verworven door rechts-populistisch leiders als Donald Trump in de
+Verenigde Staten, of door o.a. Marine Le Pen, Geert Wilders en Nigel
+Farage in Europa. Wel zijn dergelijke analyses relevant in de zin dat de
+meta-data gekoppeld aan elk Twitter-bericht gebruikt kan worden om
+inzicht te verwerven in de groei en het bereik aan volgers, maar ook in
+de demografie en geografie daarvan. Deze methode is uiteraard niet
+zonder zijn limitaties: Gebruikers van Twitter en andere SNS kunnen niet
+als representatief gezien worden voor een gehele bevolking, maar wanneer
+men dat uitvoert in het kader van digitaal populisme verhoogt de
+relevantie daarvan wel.
+
+\section{Verder Onderzoek (deels /
+oud)}\label{verder-onderzoek-deels-oud}
+
+Populisme in Japan blijft relatief nieuw domein. Japanse politicologen
+hebben al eerder gepoogd Japans populisme in kaart brengen met een
+vernieuwde focus op het belang van media, maar de rol van het internet
+in het politieke landschap laat 2000 tot vandaag blijft zo goed als
+onbesproken. 2011 wordt echter zowel in lectuur als in het mainstream
+discours beschouwd als keerpunt in de perceptie van mainstream media en
+groei van de netto-uyoku. Een uitdaging bestaat er in dat empirisch te
+bewijzen.
+
+Een optie daarvoor is het verder utiliseren van de relatief nieuwe
+mogelijkheden die sociale netwerkanalyse (SNA) biedt aan sociologisch
+onderzoek. Een eerste stap zou er in kunnen bestaan om massaal van
+gegevens van sociale netwerkdiensten als Twitter te verzamelen over een
+periode vóór en ná 2011, en via een frequentie-analyse van met
+\textbf{netto-uyoku}-geassocieerde terminologie een (potentiële)
+relatieve stijging aan te tonen. Wel is het nodig om huidige Twitter API
+limitaties te omzeilen. Voorlopig is het niet mogelijk om verder als 7
+dagen in de tijd te gaan, of om per gebruiker meer als 3200 berichten te
+verzamelen.
+
+Verder is het aangewezen om een dergelijke analyse uit te voeren op het
+huidig politieke beleid in Japan onder Premier Shinzo Abe als middel om
+populistische retoriek kwantitatief te analyseren.
+
+(synergie tussen digitaal nationalisme in Japan, China en Zuid-Korea als
+verdere escalatie en dispersie van nationalisme en populistische
+neigingen in die landen?)
+
+\newpage
+
 \appendix
 
 \section{Bijlagen}\label{bijlagen}
@@ -9,7 +2322,7 @@
 
 (QCA als middel ter empirisch onderzoek in Japans populisme?)
 
-Riffe, Lacy, and Fico
+Riffe, Lacy, en Fico
 (\protect\hyperlink{ref-riffeux5fanalyzingux5f2014}{2014}), auteurs van
 ``Analyzing Media Messages: Using Quantitative Content Analysis in
 Research'' definiëren op volgende wijze kwantitatieve inhoudsanalyse als
@@ -18,7 +2331,7 @@ onderzoeksmethode sumier op:
 \begin{quote}
 ``the systematic assignment of communication content to categories
 according to rules, and the analysis of relationships involving those
-categories using statistical methods.'' (Riffe, Lacy, and Fico
+categories using statistical methods.'' (Riffe, Lacy, en Fico
 \protect\hyperlink{ref-riffeux5fanalyzingux5f2014}{2014})
 \end{quote}
 
@@ -71,7 +2384,7 @@ en hoogstwaarschijnlijk het discours van die gemeenschap reflecteren.
 \bottomrule
 \end{longtable}
 
-Bron: Riffe, Lacy, and Fico
+Bron: Riffe, Lacy, en Fico
 (\protect\hyperlink{ref-riffeux5fanalyzingux5f2014}{2014})
 
 Aldus zal deze paper gebruik maken van kwantitatieve inhoudsanalyse,
@@ -86,45 +2399,531 @@ van deze methodologie ligt, naast de mogelijkheid tot foutieve
 correlaties, in de subjectiviteit die het opstellen van een typologie
 als ``\emph{lone wolf}'' - één enkele onderzoeker - oplevert. \ldots{}
 
-\subsubsection{Twitter datasets}\label{twitter-datasets}
+\subsubsection{Twitter Datamining}\label{twitter-datamining}
 
-\paragraph{Makato Sakurai}\label{makato-sakurai}
+De achterliggende software van Twitter is op dergelijke wijze gebouwd
+dat het gebruik daarvan, en aldus de mogelijkheid tot dataverwerving, op
+relatief eenvoudige wijze kan worden uitgevoerd. Die software is, uit
+commerciële redenen, zo opgebouwd om aangesproken te kunnen worden door
+andere software en dus om interactiviteit tussen (web)applicaties te
+verhogen. Grote commerciële bedrijven gebruiken die mogelijkheden vooral
+om patronen en verbanden te leggen in grote hoeveelheden aan data en op
+die manier economische strategieën te maken of om vooruitzichten te
+creëren.
+
+Het analyseren van data gehaald uit sociale netwerken kent ook een
+opmars in academisch onderzoek. De enorme hoeveelheid aan openbaar
+beschikbare data leunt zich daar goed tot toe: elke dag worden er door
+238 miljoen actieve gebruikers sinds 2013 ongeveer 500 miljoen Tweets
+verzonden. Tweets bevatten naast de tekstuele inhoud meta-informatie als
+demografische gegevens van de zender, het aantal keer dat het bericht
+gedeeld werd, enzovoort. Het gebruik daarvan is echter nog beperkt door
+de limitaties die Twitter op de software legt. Berichten zijn in
+principe openbaar maar enkel een deel daarvan is gratis beschikbaar.
+Zowel toegang tot historische data als tot wat Twitter de
+\emph{firehose} noemt (toegang tot 100\% van de berichten die
+\emph{real-time} geplaatst worden) vereist licenties met
+\emph{resellers} als Gnip die ver boven het budget liggen van een
+gemiddelde academicus.
+
+Indien volledigheid van data, of nauwkeurigheid over de periode van het
+aantal berichten niet van belang zijn voor het onderzoek daarop
+uitgevoerd kan de software gratis aangesproken worden mits enige
+limitaties. Het ophalen van de berichten (met de Streaming API) die
+\emph{real-time} geplaatst worden kan beperkt worden tot 1\% van het
+totaal, en ook het historisch ophalen met de Search API wordt beperkt in
+aantal (3200 berichten per individu) of periode (maximaal 7 dagen terug
+voor opzoekingen op kernwoorden).
+
+\subsubsection{Dataset van Makato
+Sakurai}\label{dataset-van-makato-sakurai}
 
 De dataset die gebruikt wordt in de kwantitatieve inhoudsanalyse bevat
 de laatste 3200 publieke berichten en \emph{retweets} geplaatst door
 Makoto Sakurai op Twitter-account \textbf{@Doronpa01}
 (https://twitter.com/doronpa01) en werd samengesteld op 4/04/2017 14:00.
-De dataset werd samengesteld door de Twitter (REST) API recursief aan te
-spreken met Python tot elk tweet-bestand verzameld werd in een
+De dataset werd samengesteld door de Twitter (Search) API recursief aan
+te spreken met Python tot elk tweet-bestand verzameld werd in een
 JSON-bestand. De limitatie van 3200 berichten werd opgelegd door de API
-van Twitter - naast het webscrapen van elk individueel bericht is er nog
-geen mogelijkheid om deze te omzeilen. Het Python-script, de rauwe data,
-en de CSV aan Tweets zijn online als digitale bijlage te raadplegen op
-https://github.com/steviepoppe/bachelor\_paper. Elk Tweet-object bevat
-naast het bericht zelf meta-informatie die meer inzicht geeft in het
-leven dat het bericht leidt vanaf dat het geplaatst werd.
+van Twitter - naast het webscrapen van elk individueel bericht (wat een
+hoop moeilijkheden oplevert door de opbouw van het platform zelf,
+berichten worden gegenereerd door JavaScript) is er nog geen
+mogelijkheid om deze te omzeilen. Het Python-script is online als
+digitale bijlage te raadplegen op
+https://github.com/steviepoppe/bachelor\_paper (\emph{nog niet}).
 
 De dataset werd vervolgens opgekuist met \textbf{Open Refine} door voor
 deze paper overbodige meta-informatie te verwijderen (welke?). De in
 deze paper gebruikte visualisaties werden vervolgens samengesteld door
 middel van \textbf{Tableau}. Een interactieve visuele weergave van de
-gebruikte dataset valt ten slotte te raadplegen op (hier komt nog een
-link).
+gebruikte dataset valt ten slotte te raadplegen op (\emph{hier komt nog
+een link}).
 
-\paragraph{Netto-Uyoku}\label{netto-uyoku}
+\newpage
 
-Hier komt uitleg over het dataminen van Twitterberichten met
-\emph{netto-uyoku}-retoriek. Gebruik van streaming API. Probleem:
+\section*{Referenties}\addcontentsline{toc}{section}{Referenties}
 
-\begin{verbatim}
-The API does not only give you access to a couple of weeks of data if you are willing to wait for it. The streaming API gives you access to 1% of Tweets posted in a real time, or 10% if you have been granted elevated access. 
-\end{verbatim}
+\setlength{\parindent}{-0.2in} \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{0em} \noindent
 
-\subsection*{Referenties}\label{referenties}
-\addcontentsline{toc}{subsection}{Referenties}
+Als standaard in de sociale wetenschappen hanteer dit document
+\textbf{Chicago B} (`auteur-jaarsysteem') als verwijzingssysteem. (nog
+slordig)
+
+\vspace{4mm}
+
+\setlength{\parskip}{0em} \footnotesize
 
 \hypertarget{refs}{}
+\hypertarget{ref-2021ux5fsummerux5fvsux5f2014}{}
+2021 summer. 2014. 橋下徹vs在特会・桜井誠 【全】10/20.
+\url{https://www.youtube.com/watch?v=ACRxHAC-tyg\&feature=youtu.be}.
+
+\hypertarget{ref-abtsux5fpopulismux5f2007}{}
+Abts, K., en S. Rummens. 2007. Populism versus Democracy.
+\emph{Political Studies} 55 (2): 405--24.
+doi:\href{https://doi.org/10.1111/j.1467-9248.2007.00657.x}{10.1111/j.1467-9248.2007.00657.x}.
+
+\hypertarget{ref-alexaux5fnicovideo.jpux5f2017}{}
+Alexa. 2017a. Nicovideo.jp Traffic, Demographics and Competitors -
+Alexa. \url{http://www.alexa.com/siteinfo/nicovideo.jp}.
+
+\hypertarget{ref-alexaux5ftopux5f2017}{}
+---------. 2017b. Top Sites in Japan - Alexa.
+\url{http://www.alexa.com/topsites/countries/JP}.
+
+\hypertarget{ref-allisonux5fprecariousux5f2013}{}
+Allison, Anne. 2013. \emph{Precarious Japan}. Durham: Duke University
+Press.
+
+\hypertarget{ref-andersonux5fimaginedux5f2006}{}
+Anderson, Benedict R. O'G. 2006. \emph{Imagined communities: Reflections
+on the origin and spread of nationalism}. Rev. ed. London ; New York:
+Verso.
+
+\hypertarget{ref-appaduraiux5fmodernityux5f1996}{}
+Appadurai, Arjun. 1996. \emph{Modernity at large: Cultural dimensions of
+globalization}. Public worlds, v. 1. Minneapolis, Minn: University of
+Minnesota Press.
+
+\hypertarget{ref-baleux5fthrownux5f2011}{}
+Bale, Tim, Stijn Van Kessel, en Paul Taggart. 2011. Thrown around with
+abandon? Popular understandings of populism as conveyed by the print
+media: A UK case study. \emph{Acta Politica; Basingstoke} 46 (2):
+111--31.
+doi:\href{https://doi.org/http://dx.doi.org.kuleuven.ezproxy.kuleuven.be/10.1057/ap.2011.3}{http://dx.doi.org.kuleuven.ezproxy.kuleuven.be/10.1057/ap.2011.3}.
+
+\hypertarget{ref-betzux5ftwoux5f1993}{}
+Betz, Hans-Georg. 1993. The two faces of radical right-wing populism in
+Western Europe. \emph{The Review of Politics} 55 (04): 663--86.
+\url{http://journals.cambridge.org/abstract_S0034670500018040}.
+
+\hypertarget{ref-bimberux5finternetux5f1998}{}
+Bimber, Bruce. 1998. The Internet and Political Transformation:
+Populism, Community, and Accelerated Pluralism. \emph{Polity} 31 (1):
+133--60. doi:\href{https://doi.org/10.2307/3235370}{10.2307/3235370}.
+
+\hypertarget{ref-niconicoux5fblogux5f2505000ux5f2015}{}
+Blog, Niconico. 2015. プレミアム会員数250万、総登録会員数5,000万を突破 -
+ニコニコ動画 開発者ブログ（新着情報）.
+\url{http://blog.nicovideo.jp/2015/08/2505000.php}.
+
+\hypertarget{ref-chosun.comux5fjapaneseux5f2011}{}
+Chosun.com. 2011. Japanese March Against Korean Soap Operas.
+\url{http://english.chosun.com/site/data/html_dir/2011/08/22/2011082200679.html}.
+
+\hypertarget{ref-facklerux5fnewux5f2010}{}
+Fackler, Martin. 2010. New Dissent in Japan Is Loudly Anti-Foreign.
+\emph{The New York Times}, augustus.
+\url{http://www.nytimes.com/2010/08/29/world/asia/29japan.html}.
+
+\hypertarget{ref-funabashiux5fjapanux5f2017}{}
+Funabashi, Yoichi. 2017. Japan, Where Populism Fails. \emph{The New York
+Times}, februari.
+\url{https://www.nytimes.com/2017/02/08/opinion/japan-where-populism-fails.html}.
+
+\hypertarget{ref-gottliebux5fjapaneseux5f2003}{}
+Gottlieb, Nanette, en Mark J. McLelland, red. 2003. \emph{Japanese
+cybercultures}. Asia's transformations. London ; New York: Routledge.
+
+\hypertarget{ref-hackux5fsubcultureux5f2016}{}
+Hack, Brett. 2016. Subculture as social knowledge: A hopeful reading of
+otaku culture. \emph{Contemporary Japan} 28 (1).
+doi:\href{https://doi.org/10.1515/cj-2016-0003}{10.1515/cj-2016-0003}.
+
+\hypertarget{ref-haleux5fpoliticalux5f2016}{}
+Hale, Scott, Peter John, Helen Margetts, en Taha Yasseri. 2016.
+Political turbulence: How social media shape collective action.
+\url{http://proxy.cm.umoncton.ca/login?url=http://lib.myilibrary.com?id=842266}.
+
+\hypertarget{ref-higuchiux5fjapansux5f2014}{}
+Higuchi, Naoto. 2014. Japan's Far Right in East Asian Geopolitics: The
+Anatomy of New Xenophobic Movements. \emph{徳島大学社会科学研究} 28:
+163--83.
+\url{https://www.researchgate.net/profile/Naoto_Higuchi/publication/280727862_Japan's_Far_Right_in_East_Asian_Geopolitics_The_Anatomy_of_New_Xenophobic_Movements/links/55c337df08aeb975673e5d31.pdf}.
+
+\hypertarget{ref-higuchiux5fux5f2014}{}
+Higuchi, Naoto (樋口直人). 2014. \emph{``Nihon-gata haigai shugi:
+Zaitokukai, gaikokujin sanseiken, Higashi Ajia chiseigaku''
+日本型排外主義 : 在特会・外国人参政権・東アジア地政学}. Shohan.
+Nagoya-shi: Nagoya Daigaku Shuppankai.
+
+\hypertarget{ref-hollihanux5fdisputeux5f2014}{}
+Hollihan, Thomas A. 2014. \emph{The dispute over the Diaoyu/Senkaku
+Islands: How media narratives shape public opinion and challenge the
+global order}. Palgrave Macmillan Series in International Political
+Communication.
+\url{http://public.eblib.com/choice/publicfullrecord.aspx?p=1779859}.
+
+\hypertarget{ref-horiuchiux5fpublicux5f2014}{}
+Horiuchi, Toru. 2014. Public Opinion in Japan and the Nationalization of
+the Senkaku Islands. \emph{East Asia} 31 (1): 23--47.
+doi:\href{https://doi.org/10.1007/s12140-014-9202-6}{10.1007/s12140-014-9202-6}.
+
+\hypertarget{ref-hosyuux5fzaitokukaiux5f2013}{}
+HoSyu. 2013. ``在特会会長、しばき隊ら逮捕の件 アサヒの報道は・・・''
+zaitokukai kaicho. \emph{Niconico Video}.
+\url{http://www.nicovideo.jp/watch/sm21136388}.
+
+\hypertarget{ref-theux5fdong-aux5filboux5fjapansux5f2011}{}
+ilbo, The dong-a. 2011. Japans right-wing groups hold rallies vs. Korean
+pop culture : The DONG-A ILBO.
+\url{http://english.donga.com/List/3/all/26/401888/1}.
+
+\hypertarget{ref-incux5ftokioux5f2016}{}
+INC, SANKEI DIGITAL. 2016.
+``【東京都知事選】桜井誠氏が激白！「間違ったことはしていない」「来年の都議選に１０～２０人立候補させます」''
+Tokio Gouverneursverkiezingen. Premium. \emph{産経ニュース}.
+\url{http://www.sankei.com/premium/news/160713/prm1607130011-n1.html}.
+
+\hypertarget{ref-itagakiux5fanatomyux5f2015}{}
+Itagaki, Ryuta. 2015. The Anatomy of Korea-phobia in Japan.
+\emph{Japanese Studies} 35 (1): 49--66.
+doi:\href{https://doi.org/10.1080/10371397.2015.1007496}{10.1080/10371397.2015.1007496}.
+
+\hypertarget{ref-itoux5ffandomux5f2012}{}
+Itō, Mizuko, Daisuke Okabe, en Izumi Tsuji. 2012. \emph{Fandom unbound:
+Otaku culture in a connected world}.
+\url{http://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=3420822}.
+
+\hypertarget{ref-katayamaux5f2-channelux5f2007}{}
+Katayama, Lisa. 2007. 2-Channel Gives Japan's Famously Quiet People a
+Mighty Voice. \emph{WIRED}.
+\url{http://archive.wired.com/culture/lifestyle/news/2007/04/2channel}.
+
+\hypertarget{ref-kieslerux5fsocialux5f1984}{}
+Kiesler, Sara, Jane Siegel, en Timothy W. McGuire. 1984. Social
+psychological aspects of computer-mediated communication. \emph{American
+Psychologist} 39 (10): 1123--34.
+doi:\href{https://doi.org/10.1037/0003-066X.39.10.1123}{10.1037/0003-066X.39.10.1123}.
+
+\hypertarget{ref-kimux5fdigitalux5f2009}{}
+Kim. 2009. Digital Populism in South Korea? Internet Culture and the
+Trouble with Direct Participation. \emph{On Korea: Academic Papers
+Series} 3 (8): 1--6.
+
+\hypertarget{ref-koboriux5fpopulismux5f2013}{}
+Kobori, Masahiro. 2013. Populism as Rhetorical Politics in Britain and
+Japan : ``Devil take the hindmost'', juli.
+\url{http://r-cube.ritsumei.ac.jp/handle/10367/4851}.
+
+\hypertarget{ref-kramerux5fmediaux5f2014}{}
+Krämer, Benjamin. 2014. Media Populism: A Conceptual Clarification and
+Some Theses on its Effects: Media Populism. \emph{Communication Theory}
+24 (1): 42--60.
+doi:\href{https://doi.org/10.1111/comt.12029}{10.1111/comt.12029}.
+
+\hypertarget{ref-laclauux5fpopulistux5f2005}{}
+Laclau, Ernesto. 2005. \emph{On populist reason}. London ; New York:
+Verso.
+
+\hypertarget{ref-leaux5fcomputer-mediatedux5f1991}{}
+Lea, Martin, en Russell Spears. 1991. Computer-mediated communication,
+de-individuation and group decision-making. \emph{International Journal
+of Man-Machine Studies} 34 (2): 283--301.
+doi:\href{https://doi.org/10.1016/0020-7373(91)90045-9}{10.1016/0020-7373(91)90045-9}.
+
+\hypertarget{ref-leaux5fsocialux5f1992}{}
+Lea, Martin, red. 1992. Social influence and the influence of the
+``social'' in computer-mediated communication. In \emph{Contexts of
+computer-mediated communication}, pp. 30--65. New York: Harvester
+Wheatsheaf.
+
+\hypertarget{ref-leeux5fdeindividuationux5f2007}{}
+Lee, Eun-Ju. 2007. Deindividuation Effects on Group Polarization in
+Computer-Mediated Communication: The Role of Group Identification,
+Public-Self-Awareness, and Perceived Argument Quality. \emph{Journal of
+Communication} 57 (2): 385--403.
+doi:\href{https://doi.org/10.1111/j.1460-2466.2007.00348.x}{10.1111/j.1460-2466.2007.00348.x}.
+
+\hypertarget{ref-lindgrenux5fdevelopingux5f2015}{}
+Lindgren, Petter Y. 2015. Developing Japanese Populism Research through
+Readings Of European Populist Radical Right Studies: Populism As An
+Ideological Concept, Classifications Of Politicians And Explanations For
+Political Success. \emph{Japanese Journal of Political Science} 16 (04):
+574--92.
+doi:\href{https://doi.org/10.1017/S1468109915000328}{10.1017/S1468109915000328}.
+
+\hypertarget{ref-maslowux5fnationalismux5f2011-1}{}
+Maslow, Sebastian. 2011. Nationalism 2.0 in Japan (http://www.2ch.net/):
+Electronic Media Reviews. \emph{Asian Politics \& Policy} 3 (2):
+307--10.
+doi:\href{https://doi.org/10.1111/j.1943-0787.2011.01265.x}{10.1111/j.1943-0787.2011.01265.x}.
+
+\hypertarget{ref-matsumuraux5fdynamismux5f2005}{}
+Matsumura, Naohiro, Asako Miura, Yasufumi Shibanai, Yukio Ohsawa, en
+Toyoaki Nishida. 2005. The dynamism of 2channel. \emph{AI \& SOCIETY} 19
+(1): 84--92.
+doi:\href{https://doi.org/10.1007/s00146-004-0302-5}{10.1007/s00146-004-0302-5}.
+
+\hypertarget{ref-matsutaniux5fnihongataux5f2010}{}
+Matsutani, Mitsuru, en 松谷満. 2010.
+``日本型ポピュリズムの論理と心情--大都市無党派層の実証研究'' nihongata.
+\emph{KAKEN}.
+\url{https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21730428/}.
+
+\hypertarget{ref-matsutaniux5fux5f2009}{}
+Matsutani, en 松谷満. 2009. ``Undefined''
+若者におけるポピュリズムの支持基盤 :
+ミリュー・アプローチによる実証的検討: 茨城大学機関リポジトリ.
+\url{http://ir.lib.ibaraki.ac.jp/handle/10109/2804}.
+
+\hypertarget{ref-izumiux5fmihashiux5fconfessionsux5f2015}{}
+Mihashi, Izumi. 2015. Confessions of Former Japanese ``Netto-Uyoku''
+Internet Racists · Global Voices. \emph{Global Voices}.
+\url{https://globalvoices.org/2015/03/23/confessions-of-former-japanese-netto-uyo-internet-racists/}.
+
+\hypertarget{ref-morris-suzukiux5fbeyondux5f2015}{}
+Morris-Suzuki, Tessa. 2015. Beyond Racism: Semi-Citizenship and
+Marginality in Modern Japan. \emph{Japanese Studies} 35 (1): 67--84.
+doi:\href{https://doi.org/10.1080/10371397.2015.1014469}{10.1080/10371397.2015.1014469}.
+
+\hypertarget{ref-muddeux5foxfordux5f2013}{}
+Mudde, Cas. 2013. \emph{The Oxford handbook of political ideologies}.
+Bewerkt door Michael Freeden, Lyman Tower Sargent, en Marc Stears. First
+edition. Oxford handbooks in politics \& international relations.
+Oxford, United Kingdom: Oxford University Press.
+
+\hypertarget{ref-muraiux5fnetux5f2012}{}
+Murai, Shusuke. 2012. Net Uyoku: A Global Confrontation of Radical
+Nationalism in the Borderless World.
+\url{http://iafor.org/archives/offprints/mediasia2012-offprints/MediAsia2012_0164.pdf}.
+
+\hypertarget{ref-nikkeiux5fnewsux5fdemomeguriux5f2013}{}
+News, Nikkei. 2013. ``デモ巡り乱闘、男女８人を暴行容疑で逮捕
+東京・新宿'' demomeguri ranbou.
+\url{http://www.nikkei.com/article/DGXNASDG1601P_W3A610C1CC1000/}.
+
+\hypertarget{ref-sankeiux5fnewsux5f7ux5f2016}{}
+News, Sankei. 2016.
+``【東京都知事選】「都内在住外国人への生活保護費支給打ち切り、受給者は日本国民限定」　在特会の桜井誠前会長が７つの公約（1/2ページ）
+- 産経ニュース'' 7 beloften.
+\url{http://www.sankei.com/politics/news/160629/plt1606290061-n1.html}.
+
+\hypertarget{ref-nikaidoux5fux5f2016}{}
+Nikaido, Yuki (二階堂友紀). 2016. ``Heitosupiichi, 3 Nenhan de 1152 Ken,
+Seifu ga Hajime no Chousa'' ヘイトスピーチ、３年半で１１５２件
+政府が初の調査. \emph{Asahi Shinbun Dijitaru 朝日新聞デジタル}.
+\url{http://www.asahi.com/articles/ASJ3X7WYZJ3XUUPI004.html}.
+
+\hypertarget{ref-okazakiux5fdoronpa01ux5f2012}{}
+Okazaki, 兵庫県弁護士会姫路支部), Akira (岡崎晃. 2012. @Doronpa01
+自民党兵庫１２区の支部長です（昨年１２月に選任、新支部長）。弁護士ですが、左寄りではありません、右寄りです。またいろいろと勉強させて下さい。兵庫県で大会などがあれば、情報を教えて下さい。弁護士として、知恵を出せる部分があれば、協力させて下さい。お願いします。.
+Microblog. \emph{@okazaki\_akira}.
+\url{https://twitter.com/okazaki_akira/status/197113816344043523}.
+
+\hypertarget{ref-osakiux5ffujiux5f2015}{}
+Osaki, Tomohiro. 2015. Fuji TV apologizes for subtitles inaccurately
+quoting South Koreans The Japan Times. \emph{The Japan Times}.
+\url{http://www.japantimes.co.jp.kuleuven.ezproxy.kuleuven.be/news/2015/06/29/national/social-issues/fuji-tv-apologizes-subtitles-inaccurately-quoting-south-koreans/}.
+
+\hypertarget{ref-otakeux5fnihonux5f2003}{}
+Otake, Hideo. 2003. \emph{Nihon gata popyurizumu: Seijihe no kitai to
+genmetsu}. Chūkō shinsho 1708. Tōkyō: Chūō kōron shinsha.
+
+\hypertarget{ref-ottux5fageux5f2017}{}
+Ott, Brian L. 2017. The age of Twitter: Donald J. Trump and the politics
+of debasement. \emph{Critical Studies in Media Communication} 34 (1):
+59--68.
+doi:\href{https://doi.org/10.1080/15295036.2016.1266686}{10.1080/15295036.2016.1266686}.
+
+\hypertarget{ref-paelinckux5fpost-truthux5f2016}{}
+Paelinck, Gianni. 2016. ``Post-truth'' is woord van het jaar voor Oxford
+Dictionaries. \emph{deredactie.be}.
+\url{http://deredactie.be/cm/vrtnieuws/buitenland/1.2820305}.
+
+\hypertarget{ref-japanux5ffirstux5fpartyux5fjapanux5f2016}{}
+Party, Japan First. 2016. ``日本第一党'' Japan First Party.
+\url{http://japan-first.net/policy.html}.
+
+\hypertarget{ref-penneyux5fracistsux5f2013}{}
+Penney, Matthew. 2013. ``Racists Go Home!'', ``Go Crawl Back to the
+Net!'' -- Anti-Racism Protestors Confront the Zaitokukai, The
+Asia-Pacific Journal, Issue 16 (april).
+\url{http://apjjf.org/-Matthew-Penney/4758/article.html}.
+
+\hypertarget{ref-ricardoux5fbuettnerux5fsystematicux5f2016}{}
+Ricardo Buettner. 2016. A Systematic Literature Review of Twitter
+Research from a Socio-Political Revolution Perspective.
+doi:\href{https://doi.org/10.13140/RG.2.1.4239.9442}{10.13140/RG.2.1.4239.9442}.
+
 \hypertarget{ref-riffeux5fanalyzingux5f2014}{}
-Riffe, Daniel, Stephen Lacy, and Frederick Fico. 2014. \emph{Analyzing
-Media Messages: Using Quantitative Content Analysis in Research}.
+Riffe, Daniel, Stephen Lacy, en Frederick Fico. 2014. \emph{Analyzing
+media messages: Using quantitative content analysis in research}.
 \url{http://site.ebrary.com/id/10835584}.
+
+\hypertarget{ref-rimmerux5fjapaneseux5f1999}{}
+Rimmer, P J, en T Morris-Suzuki. 1999. The Japanese Internet:
+Visionaries and Virtual Democracy. \emph{Environment and Planning A} 31
+(7): 1189--1206.
+doi:\href{https://doi.org/10.1068/a311189}{10.1068/a311189}.
+
+\hypertarget{ref-rolfeux5freinventionux5f2016}{}
+Rolfe, Mark. 2016. \emph{The Reinvention of Populist Rhetoric in The
+Digital Age}. Singapore: Springer Singapore.
+\url{http://link.springer.com/10.1007/978-981-10-2161-9}.
+
+\hypertarget{ref-rumiux5fkoreansux5f2011}{}
+Rumi, Sakamoto. 2011. 'Koreans, Go Home!' Internet Nationalism in
+Contemporary Japan as a Digitally Mediated Subculture The Asia-Pacific
+Journal: Japan Focus, The Asia-Pacific Journal, Volume 9, Issue 10,
+Number 2 (maart).
+\url{http://apjjf.org/2011/9/10/Rumi-SAKAMOTO/3497/article.html}.
+
+\hypertarget{ref-sakuraiux5fnihonux5f2011}{}
+Sakurai, Makoto. 2011. ``『日本の電力を守ろう！
+原発の火を消させないデモ行進のお知らせ』'' nihon no denryoku wo mamorou!
+\emph{Doronpaの独り言}.
+\url{http://ameblo.jp/doronpa01/entry-10856127306.html}.
+
+\hypertarget{ref-schillingux5fjapaneseux5f2011}{}
+Schilling, Mark, en Mark Schilling. 2011. Japanese rally against Fuji
+TV. \emph{Variety}.
+\url{http://variety.com/2011/tv/news/japanese-rally-against-fuji-tv-1118041653/}.
+
+\hypertarget{ref-schlesingerux5fshadowux5f1999}{}
+Schlesinger, Jacob M. 1999. \emph{Shadow shoguns: The rise and fall of
+Japan's postwar political machine}. Stanford, Calif: Stanford University
+Press.
+
+\hypertarget{ref-shibuichiux5fstruggleux5f2016}{}
+Shibuichi, Daiki. 2016. The Struggle Against Hate Groups in Japan: The
+Invisible Civil Society, Leftist Elites and Anti-Racism Groups.
+\emph{Social Science Japan Journal} 19 (1): 71--83.
+doi:\href{https://doi.org/10.1093/ssjj/jyv035}{10.1093/ssjj/jyv035}.
+
+\hypertarget{ref-asahiux5fshimbunux5felectionsux5f2016}{}
+Shimbun, Asahi. 2016.
+``２０１６都知事選（東京都知事選挙）：候補者情報：朝日新聞デジタル''
+Elections. \emph{朝日新聞デジタル}.
+\url{http://www.asahi.com/senkyo/tochijisen/2016/vote/}.
+
+\hypertarget{ref-shiminjichiux5f3rdux5fmakotoux5f2016}{}
+shiminjichi 3rd. 2016. ``【東京都知事選挙】桜井誠氏 出馬会見 2016-6-29
+（コメ付）'' ``Makoto Sakurai Announcement of Candidacy Press
+Interview''.
+\url{https://www.youtube.com/watch?v=-xPgsoaBC1E\&ab_channel=shiminjichi3rd}.
+
+\hypertarget{ref-sismondoux5fpost-truthux3fux5f2017}{}
+Sismondo, Sergio. 2017. Post-truth? \emph{Social Studies of Science} 47
+(1): 3--6.
+doi:\href{https://doi.org/10.1177/0306312717692076}{10.1177/0306312717692076}.
+
+\hypertarget{ref-2chux5fstatisticsux5fsuzumeux5f2017}{}
+statistics. 2017. ``すずめ'' suzume.
+\url{http://stats.2ch.net/suzume.cgi?yes}.
+
+\hypertarget{ref-t.ux5fstewartux5fglobalux5f2016}{}
+T. Stewart, Devin, en Jeffrey Wasserstrom. 2016. The Global Populist
+Surge Is More than Just a Western Story---Just Look at Asia. \emph{The
+Diplomat}.
+\url{http://thediplomat.com/2016/12/the-global-populist-surge-is-more-than-just-a-western-story-just-look-at-asia/}.
+
+\hypertarget{ref-taggartux5fpopulismux5f2000}{}
+Taggart, Paul A. 2000. \emph{Populism}. Open University Press.
+
+\hypertarget{ref-takaux5ftwitterux5f2015}{}
+Taka, Fumiaki (高史明). 2015a.
+日本語Twitterユーザーの中国人についての言説の計量的分析 :
+コリアンについての言説との比較. \emph{人文学研究所報}, nr. 53 (maart):
+73--86. \url{http://ci.nii.ac.jp/naid/120005860349/}.
+
+\hypertarget{ref-takaux5ftwitterux5f2015-1}{}
+---------. 2015b.
+Twitterにおけるコリアンに対する日本語でのレイシズム言説 :
+高(2014)のさらなる分析
+(日本人大学生における排外主義・ポピュリズム傾向の規定囚の検討).
+\emph{龍谷大学国際社会文化研究所紀要}, nr. 17 (juni): 89--102.
+\url{http://ci.nii.ac.jp/naid/40020680723/}.
+
+\hypertarget{ref-tamuraux5fnigglingux5f2014}{}
+Tamura, Tetsuki, en Yasuko H. Kobayashi. 2014. Niggling New Democracies
+in the Age of Individualization in Japan. \emph{Democratic Theory;
+Oxford} 1 (2): 122--30.
+doi:\href{https://doi.org/http://dx.doi.org.kuleuven.ezproxy.kuleuven.be/10.3167/dt.2014.010213}{http://dx.doi.org.kuleuven.ezproxy.kuleuven.be/10.3167/dt.2014.010213}.
+
+\hypertarget{ref-taniguchiux5fchangingux5f2007}{}
+Taniguchi, Masaki. 2007. Changing Media, Changing Politics in Japan.
+\emph{Japanese Journal of Political Science} 8 (01): 147.
+doi:\href{https://doi.org/10.1017/S1468109907002514}{10.1017/S1468109907002514}.
+
+\hypertarget{ref-japanux5ftimesux5fjusticeux5f2017}{}
+Times, Japan. 2017. Justice Ministry distributes examples of hate speech
+to combat discrimination The Japan Times.
+\url{http://www.japantimes.co.jp.kuleuven.ezproxy.kuleuven.be/news/2017/02/04/national/social-issues/justice-ministry-distributes-examples-hate-speech-combat-discrimination/}.
+
+\hypertarget{ref-trifuux5fprefecturalux5f2013}{}
+Trifu, Ioan. 2013. Prefectural Governors and Populism in Japan
+(1990s-2010s). \emph{Acta Asiatica Varsoviensia}, nr. 26: 64--85.
+\url{http://yadda.icm.edu.pl/yadda/element/bwmeta1.element.desklight-536e7587-fa85-4ce5-91c0-7ca664873c93}.
+
+\hypertarget{ref-tsujiux5fux5f2008}{}
+Tsuji, Daisuke (辻大 介). 2008. ``Intanetto Ni Okeru `ukeika' Gensho Ni
+Kansuru Jissho Kenkyu''
+インターネットにおける「右傾化」現象に関する実証研究.
+\url{http://d-tsuji.com/paper/r04/index.htm}.
+
+\hypertarget{ref-turnerux5freferentux5f1989}{}
+Turner, John C., Margaret S. Wetherell, en Michael A. Hogg. 1989.
+Referent informational influence and group polarization. \emph{British
+Journal of Social Psychology} 28 (2): 135--47.
+doi:\href{https://doi.org/10.1111/j.2044-8309.1989.tb00855.x}{10.1111/j.2044-8309.1989.tb00855.x}.
+
+\hypertarget{ref-weathersux5freformerux5f2014}{}
+Weathers, C. 2014. Reformer or Destroyer? Hashimoto Toru and Populist
+Neoliberal Politics in Japan. \emph{Social Science Japan Journal} 17
+(1): 77--96.
+doi:\href{https://doi.org/10.1093/ssjj/jyt029}{10.1093/ssjj/jyt029}.
+
+\hypertarget{ref-yamaguchiux5fxenophobiaux5f2013}{}
+Yamaguchi, T. 2013. Xenophobia in Action: Ultranationalism, Hate Speech,
+and the Internet in Japan. \emph{Radical History Review} 2013 (117):
+98--118.
+doi:\href{https://doi.org/10.1215/01636545-2210617}{10.1215/01636545-2210617}.
+
+\hypertarget{ref-yasudaux5fux5f2012}{}
+Yasuda, Kōichi (安田浩一). 2012. \emph{``Netto to Aikoku: Zaitokukai no
+''yami`` o oikakete'' ネットと愛国 --- 在特会の「闇」を追いかけて}. G2
+book. Tōkyō: Kōdansha.
+
+\hypertarget{ref-yoshidaux5fpopyurizumuux5f2011}{}
+Yoshida, Tōru. 2011. \emph{Popyurizumu o kangaeru: Minshu shugi e no
+sainyūmon}. Enueichikē bukkusu 1176. Tōkyō-to Shibuya-ku: NHK Shuppan.
+
+\hypertarget{ref-z.n.ux5fux5f2011}{}
+Z.N. 2011. ``Kokumin Ga Shiranai Hannichi No Jittai - Netto Uyoku no
+Shoutai'' 国民が知らない反日の実態 - ネット右翼の正体.
+\emph{国民が知らない反日の実態}.
+\url{http://www35.atwiki.jp/kolia/pages/446.html}.
+
+\hypertarget{ref-z.n.ux5fzaitokukaiux5f2017}{}
+---------. 2017. ``在日特権を許さない市民の会 -'' Zaitokukai.
+\emph{Zaitokukai}. \url{http://www.zaitokukai.info/}.
+
+\hypertarget{ref-zimmermannux5fdigitalux5f2017}{}
+Zimmermann, Martin. 2017. Digital populism as a focus of research.
+\url{https://phys.org/news/2017-03-digital-populism-focus.html}.
+
+\hypertarget{ref-ux5fux5f2006}{}
+木村, 正人. 2006. ポピュリズム再考：指導者民主制と決断主義.
+\url{https://kimuramasato.wordpress.com/works/}.

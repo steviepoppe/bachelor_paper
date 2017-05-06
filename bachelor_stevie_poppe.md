@@ -175,7 +175,7 @@ Met de *netto-uyoku* als potentiëel *heartland* onderneemt dit hoofdstuk twee z
 
 ##Ideologie en Definitie
 
-Hack argumenteert dat een primair kenmerk van het uit een ironische inside-joke gegroeide nationalistische *netto-uyoku* discours[^30] een aanhoudende etnisch exclusionisme en etnocentrisme inhoudt dat vooral dient ter bescherming van een eigen identiteit [@hack_subculture_2016], en ook @murai_net_2012 ziet in de leidende ideologie achter de collectieve camaraderie van de netto-uyoku een radicaal nationalisme [-@murai_net_2012, p.375]. @higuchi_japans_2014 plaatst die groep in contrast met hun tegenhangers in Europa en de Verenigde Staten. Daar wordt naast het nativisme ook gebruik gemaakt van economische narratieven als die van de dreiging van immigratie op de arbeidsmarkt. In het eerste kwantitatieve onderzoek achter die groep definiëert Tsuji [-@tsuji__2008, pp.10-11] *netto-uyoku* echter aan de hand van volgende drie karaktertrekken:
+Hack argumenteert dat een primair kenmerk van het uit een ironische inside-joke gegroeide nationalistische *netto-uyoku* discours[^30] een aanhoudende etnisch exclusionisme en etnocentrisme inhoudt dat vooral dient ter bescherming van een eigen identiteit [@hack_subculture_2016]. Ook @murai_net_2012 ziet in de leidende ideologie achter de collectieve camaraderie van de netto-uyoku een radicaal nationalisme [-@murai_net_2012, p.375]. @higuchi_japans_2014 plaatst die groep in contrast met hun tegenhangers in Europa en de Verenigde Staten. Daar wordt naast het nativisme ook gebruik gemaakt van economische narratieven als die van de dreiging van immigratie op de arbeidsmarkt. In het eerste kwantitatieve onderzoek achter die groep definiëert Tsuji [-@tsuji__2008, pp.10-11] *netto-uyoku* echter aan de hand van volgende drie karaktertrekken:
 
 1. Anti-Koreaans en/of anti-Chinees sentiment.
 2. Een voorkeur voor een conservatief beleid en charismatische leiders, met name voor het populisme onder Koizumi en kwesties als meer patriottistisch onderwijs, staatsbezoeken aan het Yasukuni-schrijn, enzovoort.
@@ -185,61 +185,51 @@ Hack argumenteert dat een primair kenmerk van het uit een ironische inside-joke 
 
 In een online enquete[^77] merkt Tsuji [-@tsuji__2008, pp.10-12] vooral bij mannen neigingen tot die karaktertrekken. Ook merkt hij een correlatie tussen een gevoel van eenzaamheid bij de deelnemers en dat anti-Koreaans en/of anti-Chinees sentiment, iets dat volgens hem misschien eerder aan de basis van dat sentiment ligt dan nationalistische ideologieën. Leeftijd en onderwijs lijken echter geen belangrijke rol te spelen. Ten slotte concludeert hij wel dat slechts 1.3% (13 mensen) van de deelnemers met alle stellingen uit bovenstaande drie categorieën uit de enquete akkoord gingen en aldus aan alledrie *netto-uyoku* kenmerken voldeed.[^12] Om meer vertrouwbare resultaten te verwerven breidt hij zijn voorwaarden om tot de *netto-uyoku*-groep te horen iets uit (tot deelnemers die akkoord gaan met meer dan de helft van alle stellingen per karaktertrek) en bekomt zo 31 personen. Uit zijn resultaten vindt Tsuji twee andere kenmerken terug in berichten van *netto-uyoku*: een achterdocht jegens massamedia[^78] (zie **figuur 1**) en het frequent deelnemen aan internet '*flaming*'[^40] (炎上). 
 
-###Anti-Koreaans en/of anti-Chinees sentiment 「嫌韓嫌中」 (nog niet)
+###Anti-Koreaans en/of anti-Chinees sentiment (嫌韓嫌中)
 
-(dit deel gaat waarschijnlijk veel te veel zijn -> beknopter!!)
+Xenofoob sentiment tegenover de Aziatische buurlanden omvat enerzijds historische problemen (歴史問題) en anderzijds diplomatische problemen (外交問題). Onder historische problemen komen vooral de 'troostmeisjes'-discussie (慰安婦) en het 'Bloedbad van Nanking' (南京大虐殺) sterk ter sprake. Diplomatische problemen omvatten dan weer territoriale disputen en het afkoelen van relaties sinds dat plannen ter hervorming van schoolboeken historische problemen begonnen te bagatelliseren.
 
-Gebruik @itagaki_anatomy_2015 voor 'Korea-phobia' en cultural racism:
-
->Zaitokukai’s hate speeches use various derogatory phrases to describe Zainichi Koreans: ‘Stink of kimchi’ (kimuchi kusai), ‘criminals’, ‘rascals’ (rokudenashi), ‘Korean gangsters’ (Chosen yakuza), ‘spies’, ‘descendants of illegal immigrants’, ‘Korean malcontents’ (futeisenjin), and so on. Of course, all of these are vulgar discriminatory terms. However, one of the distinctive features of Zaitokukai rhetoric is that it contains no markers of biological difference such as references to physical characteristics. In other words, Zaitokukai does not use so-called ‘racial’ categories in its hate speech. Instead, politico-cultural elements such as smell, attitude, illegality, or political suspicion become the markers of collective difference.
-
-“反日”  “犯罪” “事件”“逮捕”
-
-Enerzijds historische problemen (歴史問題) en anderzijds problemen (外交問題). Onder historische problemen komt vooral de 'troostmeisjes'-discussie (慰安婦) sterk ter sprake. Diplomatieke problemen omvatten dan weer vooral territoriale disputen als 竹島
+Negatief sentiment op het internet richt zich ook sterk reactionair tegen de idee dat onderwijs in China, beide Korea's en Koreaanse scholen in Japan anti-Japanse opvoeding (反日教育) aanbiedt en aldus haat zaait onder diens inwoners. *Netto-uyoku* delen ook frequent door middel van alternatieve nieuwsbronnen en video-uploadwebsites incidenten die "anti-Japanse" ideologieën zouden meedragen, vaak met de boodschap dat mainstream media deze "waarheid probeert te verbergen" [@yasuda__2012, p.; @taka_twitter_2015-1, p.144].[^83]
 
 ####China
 
-Positie tov China
-
-Chinese riot in Nagano
-
-response to anti-Japanese movement 
-
-Een recent incident dat anti-Chinees sentiment online in de hand werkte was het 'Minjinyu 5179'-incident in 2010. Een collisie tussen een Chinese vissersboot en twee Japanse kustvaartschepen op betwist gebied nabij de Pinnacle-eilanden[^5] leidde tot het afkoelen van Sino-Japanse diplomatieke betrekkingen en sterke discussies op het internet. De terughoudendheid van de Japanse overheid om videomateriaal van dat accident vrij te geven, alsook het ingaan op de eisen gesteld door China, leidden tot ook antagonisering van de DPJ.
+Een recent incident dat anti-Chinees sentiment online in de hand werkte was het 'Minjinyu 5179'-incident in 2010. Een collisie tussen een Chinese vissersboot en twee Japanse kustvaartschepen op betwist gebied nabij de Pinnacle-eilanden[^5] leidde tot het afkoelen van Sino-Japanse diplomatieke betrekkingen en sterke discussies op het internet. De terughoudendheid van de Japanse overheid om videomateriaal van dat accident vrij te geven, alsook het ingaan op de eisen gesteld door China, leidden tot ook antagonisering van de DPJ. 
 
 Ook wanneer toenmalig gouverneur van Tokyo Shintaro Ishihara in 2012 bekend maakte de Pinnacle-eilanden (een belangrijk pijnpunt in huidige Sino-Japanse relaties) te willen overkopen en een online-crowdfunding campagne opstartte, was het diezelfde stem die zich hier collectief bij aansloot en aanzette tot donaties, met een uiteindelijke 1,485,201,967 yen[^4] verzameld door 113,602 burgers [@hollihan_dispute_2014, p.185; @horiuchi_public_2014, pp.36-38].
 
-####Zuid-Korea
-
-Hier komt de *netto-uyoku* positie tov Zuid-Korea, de korean wave, enz
-
-FIFA World Cup in 2002
-
-Anti-Japans sentiment online, idee van 嫌韓活動 en 反日教育
-
-(Voetnoot: Na een overwinning van schaatskampioene Yu-Na Kim tegenover Mao Asada op de 2010 olympische winterspelen ontstond er een klein media-incident als gevolg van een cyberaanval op 2channel. Door een online lastercampagne die beweerde dat de jury werd omgekocht door de Zuid Koreaanse overheid, hielden meer dan 10,000 Koreaanse netizens op 1 maart 2010[^41] een poging om 2channel stil te leggen.)
-
 ####Noord-Korea
 
-positie tov Noord-Korea:
+Japanse relaties met Noord-Korea zijn nooit formeel genormaliseerd. Recente publieke perceptie in Japan is reeds overheersend negatief[^86] en stemt vooral uit de kidnappingskwestie van Japanse burgers eind jaren '70 (dat onder Koizumi in 2002 formeel erkend werd) en een aanhoudende militarisering. Specifiek het nucleair wapenprogramma en het testen van langeafstandsraketten over Japans territorium wekken nieuwe angst op.[^87] Beide zaken worden dan ook uitvoerig online gediscussiëerd [@mie_xenophobia_2013] ter versterking van (Noord-)Korea als de *Ander* en leiden tot haat en vooroordelen jegens iedereen of alles geassocieerd met Noord-Korea [@itagaki_anatomy_2015, p.50].
 
-Kidnappingskwestie
+####Zuid-Korea
 
-Militaire crisis 2016 / 2017
+Naast bovenstaande formele erkenning in 2002 beschrijft @itagaki_anatomy_2015 ook het 2002 FIFA wereldkampioenschap voetbal, georganiseerd door Japan en Zuid-Korea ter bevordering van wederzijdse vriendschap en respect, als een keerpunt in *netto-uyoku*-perceptie van Zuid-Korea.[^41] De perceptie ontstond dat Zuid-Korea gebruik maakte van *soft power*-middelen als populaire cultuur om Japans territorium binnen te vallen en een anti-Japans beleid door te voeren. @itagaki_anatomy_2015 beschrijft dat fenomeen vervolgens als een vorm van cultureel racisme onder de noemer 'Korea-phobia' en traceert het historisch terug naar de kolonisatie van Korea in 1910. Termen die historisch in een koloniaal discours gebruikt werden om pejoratief te verwijzen[^88] naar etnische Koreanen vonden ook hun weg terug naar het online discours gehandhaafd door *netto-uyoku*. Voorbeelden van pejoratieve terminologie jegens etnische Koreanen zijn legio, maar vooral historische termen *futei senjin* (不逞鮮人, opstandige koreanen) and *sangokujin* (三国人, derdelandsonderdaan) kennen een heropkomst nu gericht op de Koreaanse diaspora. 
 
-####Koreaanse Diaspora
+####Koreaanse Diaspora (bijna)
 
-positie tov Zainichi-koreanen
+De negatieve positie van *netto-uyoku* tegenover de Zainichi, de Koreaanse diaspora[^85] in Japan, berust zich voornaam op drie zaken: de speciale rechten die die diaspora zou ontvangen in de vorm van onder andere sociale zekerheidsvoordelen en het statuut als Speciale Permanente Inwoners[^84], het gebruik van aliasen (通名) om zich te vermommen als "echte Japanners", en een associatie met misdaad.
 
-“生活保護”（3,971 件）、“人権”（2,909 件）、“参政権”（2,798件）、“特権”（2,746 件）、“通名”（2,540 件
+Onder de naam *zainichi tokken* (Speciale Rechten voor Zainichi, 在日特権) zouden Koreaanse inwoners van Japan genieten van zaken als belastingsverlaging, kosteloze leningen, een hogere sociale uitkering, en andere bevooroordeelde behandelingen. 
 
-Special Permanent Resident (特別永住者), na 1965 akkoord Japan / Zuid-Korea, zainichi koreanen die niet genaturaliseerd zijn krijgen dat akkoord. 
+
+
+@yasuda__2012
 
 『在日特権』 -> tax reduction, kosteloos lenen, minder snel gestraft, gebruik van nickname als officiële naam, social security, werk vinden zonder een residence card, favourable treatment. Nochtans: budget voor 生活保護 is ong. 3 biljoen yen en 98% van begunstigden -> Japans | hoax: 2.3 miljoen gebruikt voor Zainichi Koreanen
 
+Valse informatie (ガセネタ) en geruchten (デマ, 流言, うわさ)
+
 朝鮮進駐軍 -> Korean Occupying Forces als conspiracy voor Zainichi die misdaden plegen in Japan
 
->東日本大震災後に典型的に見られたように、ソーシャル・メディアでは、コリアンなどの外国籍住民についての悪質なデマがしばしば流行する（荻上，2011）。
+Geruchten[^89]
+
+>東日本大震災後に典型的に見られたように、ソーシャル・メディアでは、コリアンなどの外国籍住民についての悪質なデマがしばしば流行する（荻上，2011）。 (Chiki Ogiue) 検証　東日本大震災の流言・デマ (光文社新書)
+
+https://wiliki.zukeran.org/index.cgi?%A5%C7%A5%DE%A4%CE%B8%A1%BE%DA%A5%B5%A5%A4%A5%C8%B0%EC%CD%F7
+
+@morris-suzuki_beyond_2015 beschrijft die redenatie als een zero-sum game van semi-citizenship ‘multicultural coexistence’ (tabunka kyosei).
+
+@itagaki_anatomy_2015 ook zero-sum game: te veel rechten voor Zaitokukai is te weinig rechten voor Japanners
 
 ###Politiek (nog niet)
 
@@ -257,19 +247,9 @@ Patriottistische opvoeding? (愛国心教育)
 
 政治”（5,115 件）、“民主党”（4,679 件）、“安倍”（3,681 件）、“選挙” （3,550 件）、“自民党”（2,977 件）、“法案”（2,548 件）、“政権”（1,989 件）
 
-###Media (nog niet)
-
-@yasuda__2012 voor media?
-
->ヘイトグループの関係者の多くが、新聞、雑誌、テレビなどが自分たちから “真実” を隠しているという被害者感情を抱いているとしている。
-
-@taka_twitter_2015-1 masugomi en dergelijke termen over mainstream nieuws komen vrij vaak voor in berichten.
-
-“捏造”（2,472 件）、“噓”（2,170 件）
-
 ###Internetcommunicatie
 
-*netto-uyoku* en rechts-nationalistische internetdiscussies in Japan worden het meest in verband gebracht met online communicatieplatfora als 2channel en Niconico [@katayama_2-channel_2007;@tsuji__2008;@rumi_koreans_2011; @murai_net_2012], maar recentlijk ook Twitter [@yasuda__2012; @taka_twitter_2015-1]. Alledrie horen in 2017 tot de meest bezochte websites van Japan[^50] [@alexa_top_2017].
+*netto-uyoku* en rechts-nationalistische internetdiscussies in Japan worden het meest in verband gebracht met online communicatieplatfora als 2channel en Niconico [@katayama_2-channel_2007;@tsuji__2008;@rumi_koreans_2011; @murai_net_2012], maar recentlijk ook Twitter [@yasuda__2012; @morris-suzuki_freedom_2013; @taka_twitter_2015-1]. Alledrie horen in 2017 tot de meest bezochte websites van Japan[^50] [@alexa_top_2017].
 
 ####2channel
 
@@ -283,7 +263,7 @@ Een voorbeeld van nationalistische discussies gestart op 2channel die zich offli
 
 ####Nico Nico Douga
 
-Niconico (ニコニコ)[^48], opgericht als Nico Nico Douga (ニコニコ動画) in 2006, is een Japanse video-uploadwebsite met als specifiek kenmerk de mogelijkheid tot het plaatsen van commentaar rechtstreeks op het videoscherm zelf om een soort gemeenschappelijke kijkervaring te bekomen. In 2015 verklaarden de ontwikkelaars een record van 50 miljoen geregistreerde gebruikers en een extra 2,5 miljoen betalende gebruikers te hebben overschrijdt [@niconico_blog_2505000_2015]. 
+Niconico (ニコニコ)[^48], in 2006 opgericht als Nico Nico Douga (ニコニコ動画), is een Japanse video-uploadwebsite met als specifiek kenmerk de mogelijkheid tot het plaatsen van commentaar rechtstreeks op het videoscherm zelf om een soort gemeenschappelijke kijkervaring te bekomen. In 2015 verklaarden de ontwikkelaars een record van 50 miljoen geregistreerde gebruikers en een extra 2,5 miljoen betalende gebruikers te hebben overschrijdt [@niconico_blog_2505000_2015]. 
 
 ![Thematische categorisering van video's op "politics"-categorie op Niconico (Bron: @murai_net_2012, p.370)][murai_2012_nico]
 
@@ -330,11 +310,11 @@ Ook Murai stelt dat groepspolarizatie kenmerkelijk is aan de ideologieën die de
 
 Dankzij de anonieme aard van internetcommunicatie, en de rol van het internet als een *volkswil 2.0*, kunnen extremistische volksbewegingen niet alleen hun radicale aard verbergen, ook consensus wordt op die wijze gecreëerd. Dat, door in te spelen op de morele waarden en homogene *wij*-heid van Japanse *netizens*, en het antagoniseren van zowel andere mediavormen (de rol van massamedia als manipulatief en het bewust verbergen van waarheden), als van kritische tegenstanders - zij worden afgestempeld als Koreaanse anti-Japanse spionnen. De wij-groep wordt overtuigd om actie te ondernemen en waarheden over Japanse vijanden te verspreiden om anderen te doen ontwaken. Op die wijze maken ze zichzelf zowel tot patriottische burger als tot activist die dankzij het medium zonder moeite kan participeren door bijvoorbeeld video's te delen of deel te nemen in discussies.
 
-##Conclusie (herschrijven)
+##Conclusie
 
 De populariteit van bovenstaande platformen toont aan dat in de anonimiteit van het internet, en meer specifiek platformen als 2channel waar ook een gebruikersnaam als herkenningsmiddel vermeden wordt, het toch mogelijk is een gevoel van gemeenschap te creëren ondanks een gebrek aan fysieke kenmerken. Dat wordt verklaard door een gemeenschappelijke identiteit als patriottische *netizens*, met enerzijds de nativistische intentie om slechte anti-Japanse invloeden af te weren en anderzijds ook een antagonisering van tegengestelde meningen. Omdat er geen andere kenmerken ter herkenning zijn wordt dat imago geheel opgebouwd uit de schrijfstijl en opbouw van geplaatste berichten. Naar bovenstaande logica worden, aan de hand van de ideologieën die uit anonieme berichten geplaatst worden, *netizens* dan ook geklassificeerd als ofwel patriottische *netizens* ofwel "anti-Japanse" vijanden [@murai_net_2012, p.374].
 
-Met @mudde_oxford_2013 en @lindgren_developing_2015 in gedachten definiëerde deze paper in het eerste deel aan de hand van eerder onderzoek Japans populisme en bracht het in verband met internetcommunicatie en sociale media. In het tweede deel werd verder ingegaan op mogelijke sociale effecten van internetcommunicatie op de maatschappij door als case-study de extreem-rechtse, nationalistische internet-stem te nemen en hun politieke beweegredenen te bekijken. Het tweede deel concludeert dat het internet in een creatie van *imagined cybercommunities* zowel polariseert als nationalistische retoriek normaliseert, en aldus vrij spel creëert voor populisten. Samenvattend voldoen de ideologieën die de *netto-uyoku* voor hand hebben aan de eerder opgestelde definitie van populisme. Inhoudelijk zijn ze echter nativistisch door buitenlandse invloeden als anti-Japans te plaatsen en autoritair door de intentie die anti-Japanse invloeden te straffen. In lijn met Rolfe wordt daarnaast, inherent aan het *netizens*-discours, ook massamedia afgeschilderd als de manipulatieve elite. Dit hoofdstuk plaatste de *netto-uyoku netizen*-groep als wij-groep of *heartland* in functie van populistische politici. In het laatste deel onderneemt deze paper een poging om de ideologieën van Makoto Sakurai te classificeren: iemand die zich opstelt als representatief voor die groep, en in de literatuur daar vaak aan verbonden wordt.
+Met @mudde_oxford_2013 en @lindgren_developing_2015 in gedachten definiëerde deze paper in het eerste deel aan de hand van eerder onderzoek Japans populisme en bracht het in verband met internetcommunicatie en sociale media. In het tweede deel werd verder ingegaan op mogelijke sociale effecten van internetcommunicatie op de maatschappij door als case-study de extreem-rechtse, nationalistische internet-stem te nemen en hun politieke beweegredenen te bekijken. Het tweede deel concludeert dat het internet in een creatie van *imagined cybercommunities* zowel polariseert als nationalistische retoriek normaliseert, en aldus vrij spel creëert voor populisten. Samenvattend voldoen de ideologieën die de *netto-uyoku* voor hand hebben aan de eerder opgestelde definitie van populisme. Als gevolg van historische ontwikkelingen zijn ze inhoudelijk echter nativistisch door buitenlandse invloeden als anti-Japans te plaatsen, en autoritair door de intentie die anti-Japanse invloeden te straffen. In lijn met @rolfe_reinvention_2016 wordt daarnaast, inherent aan het *netizens*-discours, ook massamedia afgeschilderd als de manipulatieve elite. Dit hoofdstuk plaatste de *netto-uyoku netizen*-groep als wij-groep of *heartland* in functie van populistische politici. In het laatste deel onderneemt deze paper een poging om de ideologieën van Makoto Sakurai te classificeren: iemand die zich opstelt als representatief voor die groep, en in de literatuur daar vaak aan verbonden wordt.
 
 \newpage
 
@@ -344,13 +324,13 @@ Het hoeft niet gezegd te worden dat als spilfiguur in de discussie rond hatespee
 
 ##Achtergrond
 
-Volgens een uitgebreid interview met de conservatieve centrum-rechtse krant Sankei News in 2016 groeide Sakurai, geboren op 15 februari 1972, vaderloos op in Fukuoka, waar hij studeerde aan Fukuoka Kenritsu Nakama High School, tot hij in Edogawa, Tokio ging werken als part-time administratief bediende. In dat interview haalt hij enkele anekdotes naar boven die zijn huidige politieke ideologieën zouden hebben bepaald. Voorbeelden omvatten een geschiedenisleerkracht die frequent vrijaf nam om deel te nemen aan vakbondsacties van de Japan Teachers' Union[^33], studenten uit een aan Noord Korea-geaffilliëerde school[^34] die frequent geweld zouden plegen of studenten bedreigden voor geld [@inc_tokio_2016], en lokale politici die stemmen omkochten door het sociale zekerheidssysteem te misbruiken. 
+Volgens een uitgebreid interview met de conservatieve centrum-rechtse krant Sankei News in 2016 groeide Sakurai, geboren op 15 februari 1972, vaderloos op in Fukuoka, waar hij studeerde aan Fukuoka Kenritsu Nakama High School, tot hij in Edogawa, Tokio ging werken als part-time administratief bediende. In dat interview haalt hij enkele anekdotes naar boven die zijn huidige politieke ideologieën zouden hebben bepaald. Voorbeelden omvatten een geschiedenisleerkracht die frequent vrijaf nam om deel te nemen aan vakbondsacties van de Japan Teachers' Union[^33], studenten uit een school geaffilliëerd aan Noord-Korea[^34] die frequent geweld zouden plegen of andere studenten bedreigden voor geld [@inc_tokio_2016], en lokale politici die stemmen omkochten door het sociale zekerheidssysteem te misbruiken. 
 
-Als startpunt voor zijn anti-Koreaanse activiteiten (*kenkan katsudou*, 嫌韓活動) geeft hij echter een anekdote over zijn ervaring op een digitaal forum tijdens het wereldkampioenschap voetbal in 2002 georganiseerd in Seoul, Zuid-Korea. Ondanks volgens hem massale steun voor Zuid-Korea vanuit Japan kwam er toch anti-Japans sentiment uit Zuid-Koreaanse hoek (『日本負けろ』). Vervolgens stelt hij dat Zuid-Koreanen geen genoegen nemen met het 1964-verdrag dat relaties tussen Zuid-Korea en Japan normaliseerden[^35] en zaken als het 'troostmeisjes-probleem' onnodig laten aanslepen.
-
->"「３年間そんなことをやってきて、最後の討論の際、彼らにこう言ったんです。『朝鮮人が日本人に虐殺されたというけれども、それなら併合期になぜ人口が倍増しているんだ』と。韓国の教科書にその統計が載っているんですよ。国定教科書ですよ、向こうの。だからその向こうの国の教科書を相手に見せたんですよ。そうしたらこう返したんです。『いや、日帝は奴隷を作るために人口を増やしたんだ』と。私、脱力しましたね。これはダメだと、議論にならない」" [@inc_tokio_2016]
+Als startpunt voor zijn anti-Koreaanse activiteiten (*kenkan katsudou*, 嫌韓活動) geeft hij echter een anekdote over zijn ervaring op een digitaal forum tijdens het FIFA wereldkampioenschap voetbal in 2002 georganiseerd in Seoul, Zuid-Korea. Ondanks volgens hem massale steun voor Zuid-Korea vanuit Japan kwam er toch anti-Japans sentiment uit Zuid-Koreaanse hoek (『日本負けろ』). Vervolgens stelt hij dat Zuid-Koreanen geen genoegen nemen met het 1964-verdrag dat relaties tussen Zuid-Korea en Japan normaliseerden[^35] en zaken als het 'troostmeisjes-probleem' onnodig laten aanslepen.
 
 >"Na dat drie jaar te hebben volgehouden [het online discussiëren met Zuid-Koreanen] zei ik hun op het moment van mijn laatste discussie het volgende: 'Jullie stellen dat Koreanen [onder Japans colonialisme] massaal werden geëxecuteerd. Waarom verdubbelde de bevolking dan tijdens de annexatie?' Die cijfers staan in Zuid-Koreaanse schoolboeken hoor! In schoolboeken door de Koreaanse overheid gepubliceerd! Daarom liet ik die schoolboeken aan hun zien. Ik kreeg het volgende antwoord: 'Nee, het Japans Keizerrijk deed de bevolking stijgen om slaven te maken.' Toen was ik uitgeput. Nu is het genoeg, ik kan niet verder blijven argumenteren."
+
+>"「３年間そんなことをやってきて、最後の討論の際、彼らにこう言ったんです。『朝鮮人が日本人に虐殺されたというけれども、それなら併合期になぜ人口が倍増しているんだ』と。韓国の教科書にその統計が載っているんですよ。国定教科書ですよ、向こうの。だからその向こうの国の教科書を相手に見せたんですよ。そうしたらこう返したんです。『いや、日帝は奴隷を作るために人口を増やしたんだ』と。私、脱力しましたね。これはダメだと、議論にならない」" [@inc_tokio_2016]
 
 ##Activisme
 
@@ -366,26 +346,25 @@ Sakurai richtte de groep in 2006 op als protest jegens de Zainichi Koreanen, de 
 
 **7 campagnepunten**
 
-> １．在日による差別を振りかざしての特権要求を在特会は断じて許しません。         
-> "De Zaitokukai laat de eis naar speciale voorrechten voor Zainichi Koreanen die met 'discrimatie' zwaaien, absoluut niet toe."
-> 
-> ２．公式サイトの拡充、各地での講演会開催などを様々な媒体を通じて在日問題の周知を積極的に行っていきます。         
-> "We voeren actief een uitbreiding van kennis uit over het Zainichi-probleem door van allerlei media gebruik te maken zoals het uitbreiden van onze officiële site, in verschillende regio's lezingen houden, enzovoort."
-> 
-> ３．各所からの講演要請があれば在特会は可能な限り応じ、集会の規模を問わず講師の派遣を行います。         
-> "Als er vanuit bepaalde plekken een vraag komt naar een spreker, zal de Zaitokukai er voor zover mogelijk op reageren en, ongeacht de schaal van de bijeenkomst, een spreker uitzenden."
-> 
-> ４．「在日特権に断固反対」「在日問題を次の世代に引き継がせない」意思表示として在特会への会員登録を広く勧めていきます。         
-> "Met doelen als 'pertinent tegen de speciale voorrechten van de Zainichi Koreanen' en 'we laten het Zainichi-probleem niet over aan de volgende generaties' zullen we het aansluiten aan de Zaitokukai sterk aanmoedigen."
-> 
-> ５．当面の目標を登録会員数一万人に定め、目標に達し次第、警察当局や法務当局、各地方自治体、各政治家への在日問題解決の請願を開始します。         
-> "Zodra we ons huidig doel van 10.000 geregistreerde leden hebben bereikt, starten we een petitie gericht naar de politieautoriteiten, gerechtelijke instanties, lokale overheden, politici, enzovoort, om tot een resultaat te komen van het Zainichi-probleem."
-> 
-> ６．在日側からの希望があれば、放送・出版など様々なメディアにおいて公開討論に応じます。         
-> "Als er langs de kant van Zainichi Koreanen een wens bestaat, zullen we via allerlei media als publicaties, uitzendingen, enzovoort, reageren met een openlijk debat."
-> 
-> ７．不逞在日の犯罪行為に苦しむ各地の実態を知らしめ、その救済を在特会は目指していきます。         
-> "De Zaikokai streeft naar het helpen om de werkelijke staat van plaatsen die lijden onder misdadig gedrag van opstandige Zainichi Koreanen bekend te maken."
+>1. "De Zaitokukai laat de eis naar speciale voorrechten voor Zainichi Koreanen die met 'discrimatie' zwaaien, absoluut niet toe."         
+> 在日による差別を振りかざしての特権要求を在特会は断じて許しません。
+
+>2. "We voeren actief een uitbreiding van kennis uit over het Zainichi-probleem door van allerlei media gebruik te maken zoals het uitbreiden van onze officiële site, in verschillende regio's lezingen houden, enzovoort."   
+>公式サイトの拡充、各地での講演会開催などを様々な媒体を通じて在日問題の周知を積極的に行っていきます。         
+> 3. "Als er vanuit bepaalde plekken een vraag komt naar een spreker, zal de Zaitokukai er voor zover mogelijk op reageren en, ongeacht de schaal van de bijeenkomst, een spreker uitzenden."         
+>各所からの講演要請があれば在特会は可能な限り応じ、集会の規模を問わず講師の派遣を行います。         
+
+> 4. "Met doelen als 'pertinent tegen de speciale voorrechten van de Zainichi Koreanen' en 'we laten het Zainichi-probleem niet over aan de volgende generaties' zullen we het aansluiten aan de Zaitokukai sterk aanmoedigen."         
+>「在日特権に断固反対」「在日問題を次の世代に引き継がせない」意思表示として在特会への会員登録を広く勧めていきます。
+
+> 5. "Zodra we ons huidig doel van 10.000 geregistreerde leden hebben bereikt, starten we een petitie gericht naar de politieautoriteiten, gerechtelijke instanties, lokale overheden, politici, enzovoort, om tot een resultaat te komen van het Zainichi-probleem."    
+> 当面の目標を登録会員数一万人に定め、目標に達し次第、警察当局や法務当局、各地方自治体、各政治家への在日問題解決の請願を開始します。
+
+> 6. "Als er langs de kant van Zainichi Koreanen een wens bestaat, zullen we via allerlei media als publicaties, uitzendingen, enzovoort, reageren met een openlijk debat."         
+> 在日側からの希望があれば、放送・出版など様々なメディアにおいて公開討論に応じます。   
+
+> 7. "De Zaikokai streeft naar het helpen om de werkelijke staat van plaatsen die lijden onder misdadig gedrag van opstandige Zainichi Koreanen bekend te maken."         
+> 不逞在日の犯罪行為に苦しむ各地の実態を知らしめ、その救済を在特会は目指していきます。   
 
 [@z.n._zaitokukai_2017]
 
@@ -417,7 +396,7 @@ In december 2015 komt het Ministerie van Justitie, na een eerder vermeld onderzo
 
 Zaitokukai maakt sterk gebruik van sociale media en het internet. Naast verschillende actieve accounts op Twitter, Facebook, enzovoort worden activiteiten vaak live uitgezonden of achteraf geplaatst op video-uploadsites als Niconico, Channel Sakura[^69] en Youtube.
 
-De huigige webpagina heeft een eigen discussieruimte toegankelijk tot geregistreerde leden, en hanteert een gelijkaardige visuele stijl tot die van 2channel, met een toegankelijke, zelfs schattig design (zoals een banner die lijkt op de profielfoto's gebruikt door de 'hinomari clique' op Twitter). In de vorm van een cartoonesque Q&A sessie tussen een fictieve professor en een Zainichimeisje *Zaiko-chan* (ザイ子ちゃん) beschrijft een gids ten slotte de voornaamste punten van de Zaitokukai.
+De huigige webpagina heeft een eigen discussieruimte toegankelijk tot geregistreerde leden, en hanteert een gelijkaardige visuele stijl tot die van 2channel, met een toegankelijke, zelfs schattig design (zoals een banner die lijkt op de profielfoto's gebruikt door de 'hinomari clique' op Twitter). In de vorm van een cartoonesque Q&A sessie (zie **figuur 6**) tussen een fictieve professor en een Zainichimeisje *Zaiko-chan* (ザイ子ちゃん) beschrijft een gids ten slotte de voornaamste punten van de Zaitokukai.
 
 ![screenshot van een "vragenronde" over speciale rechten van Zaitokukai (Bron: @z.n._zaitokukai_2017)][zaitokukai_site_qa]
 
@@ -435,26 +414,26 @@ In 2016 stelde Sakurai zich als onafhankelijke kandidaat voor in de gouverneursv
 
 **7 campagnepunten**
 
->1. 「都内に在住する外国人の生活保護の支給を停止し、生活保護の受給者は日本国民に限定する」         
-"Stop het betalen van financiële overheidssteun aan buitenlanders die verblijven in Tokio en beperk ontvangers daarvan tot het Japanse volk."
+>1. "Stop het betalen van financiële overheidssteun aan buitenlanders die verblijven in Tokio en beperk ontvangers daarvan tot het Japanse volk."         
+>「都内に在住する外国人の生活保護の支給を停止し、生活保護の受給者は日本国民に限定する」
 
->2. 「都内の不法残留者を4年間で半減させる」         
-"Verminder binnen vier jaar het aantal overschrijdingen van de toegelate verblijftijd met de helft."
+>2. "Verminder binnen vier jaar het aantal overschrijdingen van de toegelate verblijftijd met de helft."         
+>「都内の不法残留者を4年間で半減させる」         
 
->3. 「日本人に対し外国人が虚構の歴史に基づいて責め立てる反日ヘイトスピーチを禁止する」         
-"Verbiedt opdringerige anti-Japanse hate speech gebaseerd op een door buitenlanders verzonnen fictieve Japanse geschiedenis."
+>3. "Verbiedt opdringerige anti-Japanse hate speech gebaseerd op een door buitenlanders verzonnen fictieve Japanse geschiedenis."         
+>「日本人に対し外国人が虚構の歴史に基づいて責め立てる反日ヘイトスピーチを禁止する」         
 
->4. 「税の公平性に反し減免されている、総連・民団の中央本部および関連施設への課税強化を図る」         
-"Ontwerp een belastingsverhoging voor het hoofdkantoor en de bijhorende faciliteiten van Chongryon en Mindan (die een oneerlijke belastingsverlaging krijgen)."
+>4. "Ontwerp een belastingsverhoging voor het hoofdkantoor en de bijhorende faciliteiten van Chongryon en Mindan (die een oneerlijke belastingsverlaging krijgen)."         
+>「税の公平性に反し減免されている、総連・民団の中央本部および関連施設への課税強化を図る」         
 
->5. 「違法賭博パチンコに対し規制を実施」         
-"Implementeer een wetgeving met betrekking tot pachinko als illegaal gokken."
+>5. "Implementeer een wetgeving met betrekking tot pachinko als illegaal gokken."         
+>「違法賭博パチンコに対し規制を実施」         
 
->6. 「韓国学校建設については中止」         
-"Stop het bouwen van scholen voor Koreanen."
+>6. "Stop het bouwen van scholen voor Koreanen."         
+>「韓国学校建設については中止」         
 
->7. 「コンパクト五輪の意義を考え、現行の東京五輪案の改善を図る」         
-"Ontwerp ter verbetering van het huidig 'Tokyo Olympics'-plan een meer compacte Tokyo Olympics."
+>7. "Ontwerp ter verbetering van het huidig 'Tokyo Olympics'-plan een meer compacte Tokyo Olympics."         
+>「コンパクト五輪の意義を考え、現行の東京五輪案の改善を図る」         
 
 [Bron: @shiminjichi_3rd_makoto_2016; @sankei_news_7_2016]
 
@@ -468,24 +447,58 @@ Het programma van de JFP is opgesteld in 10 categoriëen[^36] met een totaal aan
 
 >**Hoofdpunten van de JFP (日本第一党綱領)**
 
->「我が党は、世界に比類無き万世一系の天皇を戴いた民族国家日本の国体を護ります。」          
->"Onze partij zal de in deze wereld ongeëvenaarde, ongebroken keizerlijke lijn van de Japanse keizer beschermen als belichaming van de natiestaat Japan."
+>"Onze partij zal de in deze wereld ongeëvenaarde, ongebroken keizerlijke lijn van de Japanse keizer beschermen als belichaming van de natiestaat Japan."          
+>「我が党は、世界に比類無き万世一系の天皇を戴いた民族国家日本の国体を護ります。」
 
->「我が党は、日本第一主義を掲げ、日本国の国益を死守し、日本人の権利を保護し、日本全体の幸福追求を目指します。」         
->"Onze partij hanteert een Japan First doctrine, verdedigt de nationale belangen van Japan, beschermt de rechten van het Japanse volk en streeft naar geluk voor heel Japan."
+>"Onze partij hanteert een Japan First doctrine, verdedigt de nationale belangen van Japan, beschermt de rechten van het Japanse volk en streeft naar geluk voor heel Japan."         
+>「我が党は、日本第一主義を掲げ、日本国の国益を死守し、日本人の権利を保護し、日本全体の幸福追求を目指します。」
 
+>"Onze partij is gericht op het herstel van een essentieel conservatisme, en om de traditie, cultuur en geschiedenis van ons land te beschermen zijn we bereid om, in sommige gevallen, niet te aarzelen en buitenlandse vijanden te bestrijden."         
 >「我が党は、本来の保守主義の復権を目指し、我が国の伝統、文化、歴史を守る為、時として外敵と戦う事を辞さない覚悟を持ちます。」         
->"Onze partij is gericht op het herstel van een essentieel conservatisme, en om de traditie, cultuur en geschiedenis van ons land te beschermen zijn we bereid om, in sommige gevallen, niet te aarzelen en buitenlandse vijanden te bestrijden."
 
->「我が党は、逼迫する国際情勢の危機を看過する事なく、一日でも早く日本人自らの手で新憲法を制定し、国軍を保有することを目指します。」         
->"Onze partij zal zijn ogen niet sluiten voor een urgente internationale crisis en zal zo spoedig mogelijk een door Japanse handen ontworpen nieuwe grondwet creëren met als doel een eigen nationaal leger te beheren."
+>"Onze partij zal zijn ogen niet sluiten voor een urgente internationale crisis en zal zo spoedig mogelijk een door Japanse handen ontworpen nieuwe grondwet creëren met als doel een eigen nationaal leger te beheren."         
+>「我が党は、逼迫する国際情勢の危機を看過する事なく、一日でも早く日本人自らの手で新憲法を制定し、国軍を保有することを目指します。」
 
->「我が党は、歪な外国人社会福祉行政を廃止し、日本人のための社会福祉の充実を図ります。」         
->"Onze partij zal de misvormde (*crooked*) administratie van sociale zekerheid voor buitenlanders afschaffen en een verbeterde sociale zekerheid voor Japanners ontwerpen."
+>"Onze partij zal de misvormde (*crooked*) administratie van sociale zekerheid voor buitenlanders afschaffen en een verbeterde sociale zekerheid voor Japanners ontwerpen."         
+>「我が党は、歪な外国人社会福祉行政を廃止し、日本人のための社会福祉の充実を図ります。」  
 
 [Bron: @japan_first_party_japan_2016]
 
-##Kwantitatieve Inhoudsanalyse van Sakurai's Twitter-gebruik (oud)
+##Kwantitatieve Inhoudsanalyse (QCA)
+
+###QCA als Methodologie (deels)
+
+@riffe_analyzing_2014, auteurs van "Analyzing Media Messages: Using Quantitative Content Analysis in Research" definiëren op volgende wijze kwantitatieve inhoudsanalyse als onderzoeksmethode sumier op:
+
+>"the systematic assignment of communication content to categories according to rules, and the analysis of relationships involving those categories using statistical methods." [@riffe_analyzing_2014]
+
+Die definitie legt de nadruk van QCA enerzijds op de centraliteit van de verworven data zelf, als op de objectiviteit en systematische methoden om zich te onderscheiden van een onwetenschappelijk "informeel proces waarbij men conclusies trekt gebaseerd op waarnemingen van inhoud" waar we allen dagelijks aan deelnemen [-@riffe_analyzing_2014, p.23]. Concreet levert dat binnen studies van massacommunicatie een versatiele methode op voor onderzoekers om bepaalde stellingen empirisch te bewijzen door in dit geval *big data* gehaald uit massacommunicatie te categoriseren en daar conclusies uit te trekken. Deze definitie is opzettelijk vaag juist door de breedheid van deze methodologie: de onderzoeker stelt een typologie op waartegen de dataset wordt getoetst, en geeft aldus verdere betekenis aan de inhoud van die data om zo statistische conclusies te trekken.
+
+Uiteraard bestaan gegevens niet in het luchtledige en moeten ze gezien worden als het gevolg van een grote waaier aan voorafgaande processen en condities,  waarmee rekening gehouden wordt tijdens analyse en interpretatie. Net als Shoemaker & Reese stellen dat symboliek in media (e.g. allusies naar nationalisme of solidariteit tijdens oorlogsperiode) gevolgen zijn van een dominante cultuur en ideologie (1996), zal een twitterpagina van een rechts-populist als Makoto Sakurai, sterk actief in alternatief-rechtse gemeenschappen, zijn oorsprong vinden enerzijds op persoonlijk vlak en anderzijds door socio-historische ontwikkelingen, en hoogstwaarschijnlijk het discours van die gemeenschap reflecteren.
+
+|            **Table 8.1 Conducting a Content Analysis**            |
+|-------------------------------------------------------------------|
+| **Conceptualization and purpose**                                 |
+| &nbsp;&nbsp;Identify the problem                                  |
+| &nbsp;&nbsp;Review theory and research                            |
+| &nbsp;&nbsp;Pose specific research questions and hypotheses       |
+| **Design**                                                        |
+| &nbsp;&nbsp;Define relevant content                               |
+| &nbsp;&nbsp;Specify formal design                                 |
+| &nbsp;&nbsp;Create dummy tables                                   |
+| &nbsp;&nbsp;Operationalize (coding protocol and sheets)           |
+| &nbsp;&nbsp;Specify population and sampling plans                 |
+| &nbsp;&nbsp;Pretest and establish reliability procedures          |
+| **Analysis**                                                      |
+| &nbsp;&nbsp;Process data (establish reliability and code content) |
+| &nbsp;&nbsp;Apply statistical procedures                          |
+| &nbsp;&nbsp;Interpret and report results                          |
+
+Bron: @riffe_analyzing_2014
+
+Aldus zal deze paper gebruik maken van kwantitatieve inhoudsanalyse, gebaseerd op Riff en Lacy's ontwerpvoorstel (**Tabel 8.1**), op een verzameling van berichten gehaald van de publieke Twitter pagina van Makoto Sakurai. Dat als middel om Sakurai's voornaamste politieke ideologieën te categoriseren, en aldus als hulpmiddel in het beantwoorden van de onderzoeksvraag van deze paper. Voor die reden werd een typologie gecodeerd die aan de hand van een aantal kernwoorden berichten plaatst in verschillende categorieën (zie deel 5.5). De zwakte van deze methodologie ligt, naast de mogelijkheid tot foutieve correlaties, in de subjectiviteit die het opstellen van een typologie als "*lone wolf*" - één enkele onderzoeker - oplevert. ...
+
+###QCA van Sakurai's Twitter-gebruik
 
 Voor een beschrijving van de gehanteerde methodologie verwijst deze paper naar **bijlage 1**. Voor een beschrijving van de methode tot verwerven van deze data verwijst deze paper naar **bijlage 2**.
 
@@ -541,40 +554,6 @@ Verder is het aangewezen om een dergelijke analyse uit te voeren op het huidig p
 
 ##Methodologie
 
-###Kwantitatieve Inhoudsanalyse (QCA) (deels)
-
-(QCA als middel ter empirisch onderzoek in Japans populisme?)
-
-@riffe_analyzing_2014, auteurs van "Analyzing Media Messages: Using Quantitative Content Analysis in Research" definiëren op volgende wijze kwantitatieve inhoudsanalyse als onderzoeksmethode sumier op:
-
->"the systematic assignment of communication content to categories according to rules, and the analysis of relationships involving those categories using statistical methods." [@riffe_analyzing_2014]
-
-Die definitie legt de nadruk van QCA enerzijds op de centraliteit van de verworven data zelf, als op de objectiviteit en systematische methoden om zich te onderscheiden van een onwetenschappelijk "informeel proces waarbij men conclusies trekt gebaseerd op waarnemingen van inhoud" waar we allen dagelijks aan deelnemen [-@riffe_analyzing_2014, p.23]. Concreet levert dat binnen studies van massacommunicatie een versatiele methode op voor onderzoekers om bepaalde stellingen empirisch te bewijzen door in dit geval *big data* gehaald uit massacommunicatie te categoriseren en daar conclusies uit te trekken. Deze definitie is opzettelijk vaag juist door de breedheid van deze methodologie: de onderzoeker stelt een typologie op waartegen de dataset wordt getoetst, en geeft aldus verdere betekenis aan de inhoud van die data om zo statistische conclusies te trekken.
-
-Uiteraard bestaan gegevens niet in het luchtledige en moeten ze gezien worden als het gevolg van een grote waaier aan voorafgaande processen en condities,  waarmee rekening gehouden wordt tijdens analyse en interpretatie. Net als Shoemaker & Reese stellen dat symboliek in media (e.g. allusies naar nationalisme of solidariteit tijdens oorlogsperiode) gevolgen zijn van een dominante cultuur en ideologie (1996), zal een twitterpagina van een rechts-populist als Makoto Sakurai, sterk actief in alternatief-rechtse gemeenschappen, zijn oorsprong vinden enerzijds op persoonlijk vlak en anderzijds door socio-historische ontwikkelingen, en hoogstwaarschijnlijk het discours van die gemeenschap reflecteren.
-
-|            **Table 8.1 Conducting a Content Analysis**            |
-|-------------------------------------------------------------------|
-| **Conceptualization and purpose**                                 |
-| &nbsp;&nbsp;Identify the problem                                  |
-| &nbsp;&nbsp;Review theory and research                            |
-| &nbsp;&nbsp;Pose specific research questions and hypotheses       |
-| **Design**                                                        |
-| &nbsp;&nbsp;Define relevant content                               |
-| &nbsp;&nbsp;Specify formal design                                 |
-| &nbsp;&nbsp;Create dummy tables                                   |
-| &nbsp;&nbsp;Operationalize (coding protocol and sheets)           |
-| &nbsp;&nbsp;Specify population and sampling plans                 |
-| &nbsp;&nbsp;Pretest and establish reliability procedures          |
-| **Analysis**                                                      |
-| &nbsp;&nbsp;Process data (establish reliability and code content) |
-| &nbsp;&nbsp;Apply statistical procedures                          |
-| &nbsp;&nbsp;Interpret and report results                          |
-
-Bron: @riffe_analyzing_2014
-
-Aldus zal deze paper gebruik maken van kwantitatieve inhoudsanalyse, gebaseerd op Riff en Lacy's ontwerpvoorstel (**Tabel 8.1**), op een verzameling van berichten gehaald van de publieke Twitter pagina van Makoto Sakurai. Dat als middel om Sakurai's voornaamste politieke ideologieën te categoriseren, en aldus als hulpmiddel in het beantwoorden van de onderzoeksvraag van deze paper. Voor die reden werd een typologie gecodeerd die aan de hand van een aantal kernwoorden berichten plaatst in verschillende categorieën (zie deel 5.5). De zwakte van deze methodologie ligt, naast de mogelijkheid tot foutieve correlaties, in de subjectiviteit die het opstellen van een typologie als "*lone wolf*" - één enkele onderzoeker - oplevert. ...
-
 ###Twitter Datamining
 
 De achterliggende software van Twitter is op dergelijke wijze gebouwd dat het gebruik daarvan, en aldus de mogelijkheid tot dataverwerving, op relatief eenvoudige wijze kan worden uitgevoerd. Die software is, uit commerciële redenen, zo opgebouwd om aangesproken te kunnen worden door andere software en dus om interactiviteit tussen (web)applicaties te verhogen. Grote commerciële bedrijven gebruiken die mogelijkheden vooral om patronen en verbanden te leggen in grote hoeveelheden aan data en op die manier economische strategieën te maken of om vooruitzichten te creëren.
@@ -596,11 +575,14 @@ De dataset werd vervolgens opgekuist met **Open Refine** door voor deze paper ov
 
 \setlength{\parindent}{-0.2in}
 \setlength{\leftskip}{0.2in}
+\setlength{\parskip}{0em}
 \noindent
 
-Als standaard in de sociale wetenschappen hanteer dit document **Chicago B** (‘auteur-jaarsysteem’) als verwijzingssysteem. (nog slordig)
+Als standaard in de sociale wetenschappen hanteert dit document **Chicago B** (‘auteur-jaarsysteem’) als verwijzingssysteem. (nog slordig)
 
-\setlength{\parskip}{8pt}
+\vspace{4mm}
+\setlength{\parskip}{0em}
+\footnotesize
 
 [murai_2012_nico]: images/murai_2012_nico.jpg
 [zaitokukai_site_qa]: images/zaitokukai_site_qa.jpg
@@ -645,7 +627,6 @@ Als standaard in de sociale wetenschappen hanteer dit document **Chicago B** (�
 [^38]: Als gevolg hielden verschillende partijen internetcampagnes om jongeren politiek bewust te maken. de JCP ontwierp o.a. een animatiereeks en de LDP bracht een mangapamflet "Aan het Land Bezorgen" (*kuni ni todoke*, 国に届け) uit dat de geschiedenis van de LDP alsook stemprocedures beschreef [@asahi_shimbun_elections_2016]. 
 [^39]: De International Telecommunication Union rapporteert dat in 2015 91,06% van de totale bevolking gebruikt maakt van het internet, wat hoger is als in België en de VS, en ongeveer gelijk ligt met het Verenigd Koninkrijk. Volgens Technorati Japan werden er in 2007 meer blogs geschreven in het Japans als in het Engels (37% Japans tegenover 36% in het Engels). In 2011 kwamen 25% van alle Twitterberichten uit Japan.
 [^40]: Het plaatsen van vijandelijke of beledigende berichten op internetdiscussies.
-[^41]: Deze dag werd gekozen als verwijzing naar de Sam-il beweging in 1919, het eerste Koreaans protest tijdens de Japanse kolonisatie. 
 [^42]: Fuji TV kwam in 2015 nogmaals onder vuur, datmaal voor wat werd beschouwd als het opzettelijk haat zaaien tussen Zuid-Korea en Japan. Dat, door het foutieve gebruik van Japanse ondertitels van geïnterviewde Zuid-Koreanen in Japan. Volgens die ondertitels zouden de geïnterviewden "Japan haten" [@osaki_fuji_2015].
 [^43]: Deel van Team Kansai (チーム関西, overkoepelende citizen's group waaronder ook shukenkai). (Iets vermelden over Japanese Women for Justice and Peace? なでしこアクション? = internet-based rightist revisionair netwerk, anti-Koreaanse propaganda, comfort women ontkenning, opgericht door een Zaitokukai-lid)
 [^44]: Anderzijds ontstaan er, door het aansporen tot haat en verspreiden van extreem-nationalistische propaganda, ook anti-Zaitokukai tegenbewegingen zoals norikoe-net (afkorting van International Netwerk om Hatespeech en Racisme te Overkomen, ヘイトスピーチとレイシズムを乗り越える国際ネットワーク), met prominente leden als Murayama Tomiichi [@shibuichi_struggle_2016]. 
@@ -681,7 +662,7 @@ Als standaard in de sociale wetenschappen hanteer dit document **Chicago B** (�
 [^72]: De zelf-categorisatietheorie stemt voort uit de sociale identiteitstheorie en analyseert de cognitieve processen in zelf-categorisatie door de vraag te stellen wanneer, waarom en op welke basis we ons eerder als groep categoriseren dan als individu, alsook wat de psychologische gevolgen daarvan zijn. Op basis van sociale categoriëen gevormd uit geobserveerde overeenkomstigheden en contrasten categorizeren we anderen, maar veranderen we ook onze representatie van die leden. Ze worden niet langer gezien als unieke individuen maar als een uiting van attributen uit die groep en werken dus stereotypering in de hand. Op een zelfde wijze wordt ook gedrag als conformiteit of etnocentrisme verklaard.
 [^73]: Met andere woorden, de term ondergaat als significant of betekenaar in Rousseauiaanse woorden, doorheen verschillende contexten verschillende betekenissen tot het los staat van enige conceptuele inhoud.
 [^74]: Benjamin Krämer legt een verband maar stelt dat een structurele analyse van de relatie tussen internetcommunicatie en populisme een verdere analyse van onderliggende sociale, technologische en linguistische structuren vereist [-@kramer_media_2014, p.53]. Iets waar deze paper een eerste poging tot geeft.
-[^75]: Deze paper is opgesteld in een crossbreed markdown - latex formaat en is open-source beschikbaar op https://github.com/steviepoppe/bachelor_paper
+[^75]: Deze paper is opgesteld in een crossbreed markdown - latex formaat en is open-source beschikbaar op \url{https://github.com/steviepoppe/bachelor_paper}
 [^51]: Een samentreksel van *electronic* en *democracy*, als verwijzing naar een democratische vorm waarin internetcommunicatie participatie van een gemeenschap stimuleert.
 [^76]: Van ワイドショー, een Japanse term geconstrueerd uit Engelse leenwoorden als overkoepelende term voor talk- en variety shows met een focus op nieuwsgeving.
 [^12]: 36.8% (367 mensen) voelden anti-Koreaans of anti-Chinees sentiment, 6.4% (64 mensen) gingen akkoord met politiek conservatieve en nationalistische kwesties, en 15.2% (152 mensen) maakten gebruik van computerondersteunde communicatie om maatschappelijke en politieke kwesties te bespreken [@tsuji__2008, p.11].
@@ -691,3 +672,13 @@ Als standaard in de sociale wetenschappen hanteer dit document **Chicago B** (�
 [^80]: Ook @tsuji__2008 leest in de resultaten van zijn enquete een correlatie tussen 2channel en rechtsnationalistisch gedachtengoed.
 [^81]: Ook wel symbolisch racisme, in tegenstelling tot ouderwets racisme, gebaseerd op werken van David Sears en John McConahay. Wordt samengevat tot vier punten: 1. Minderheden worden niet langer geconfronteerd met vooroordelen en discriminatie. 2. Ongelijkheid komt als gevolg voort uit een gebrek aan inspanning door die minderheden. 3. Zelfs dan nog maken minderheden in een protest tegen discriminatie te veel eisen. 4. Minderheden hebben meer voorrechten gekregen dan dat ze verdienen [@taka_twitter_2015-1, p.143].
 [^82]: Respectievelijk uit 109,589 berichten 70% negatief sentiment tegenover Koreanen en uit 67,884 berichten negatief sentiment 67.3% tegenover China.
+[^83]: In een kwantitatieve analyse van Japanse Twitter-berichten merkt @taka_twitter_2015-1 ook een frequent voorkomen van termen als "fabricatie" (捏造, 2,472 keer), "leugen" (噓, 2,170 keer) en '*masugomi*' (マスゴミ, 1,290) die een wantrouwen jegens mainstream nieuwsgeving en massamedia aantonen.
+
+[^84]: Special Permanent Resident (特別永住者), na 1965 akkoord Japan / Zuid-Korea, zainichi koreanen die niet genaturaliseerd zijn krijgen dat akkoord. 
+
+[^85]: De Zainichi-identiteit en discriminatie daartegen kent een lange, ingewikkelde geschiedenis. Voor een verdere uiteenzetting verwijs ik naar [@lie_zainichi_2008].
+[^86]: In een internationale enquete uitgevoerd in 2014 door BBC World Service werd Noord-Korea door 91% van de Japanse bevolking als negatief bestempeld. Anderzijds is negatief sentiment jegens Japan in zowel Zuid-Korea en China sterk gestegen met een hoogtepunt van respectievelijk 79% en 90% [@bbc_world_service_poll_2014_2014].
+[^87]: Voor een beknopte analyse van bilaterale relaties tussen Japan en Noord-Korea verwijs ik naar [@morris-suzuki_re-imagining_2011].
+[^41]: Na een overwinning van schaatskampioene Yu-Na Kim tegenover Mao Asada op de 2010 olympische winterspelen ontstond er een klein media-incident als gevolg van een cyberaanval op 2channel. Door een online lastercampagne die beweerde dat de jury werd omgekocht door de Zuid Koreaanse overheid, hielden meer dan 10,000 Koreaanse *netizens* op 1 maart 2010 een poging om 2channel stil te leggen. Die dag werd gekozen als verwijzing naar de *Sam-il* beweging in 1919, het eerste Koreaans protest tijdens de Japanse kolonisatie. 
+[^88]: Een opvallend kenmerk van die termen zijn echter het gebrek van visuele of biologische kenmerken als bijvoorbeeld huidskleur. Ze vallen terug op vage elementen die niet op 'raciaal' gebied een machtsrelatie uiten op cultureel of politiek gebied. 
+[^89]: Na de aardbeving in 2011 deden er online geruchten de ronde dat Zainichi Koreanen zich aan allerlei criminele activiteiten zouden hebben schuldig gemaakt. Twitterberichten verzameld door @mutsuo_toi_het_2011 stellen dat er mensen zijn overgegaan tot moord, diefstal en verkrachting. In een bericht op Yahoo Japan stelt @nanako_1892_zainichi_2014 dat er misbruik gemaakt werd van de aardbeving om de identiteit van gestorven of vermiste Japanners over te nemen. Deze geruchten kunnen echter sterke consequenties hebben. Na de Grote Kanto Aardbeving van 1923 ontstonden er geruchten dat Koreanen in Japan gebruik maakte van de situatie om rel te schoppen en drinkwater te vergiftigen. Het gevolg van deze geruchten leidde tot een heksenjacht op Koreanen met minstens 6.000 doden als gevolg [@jooeun_great_2011].
