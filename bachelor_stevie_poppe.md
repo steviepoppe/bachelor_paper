@@ -18,7 +18,7 @@ fontsize: "11pt"
 mainfont: "Kozuka Mincho Pro"
 toc-depth: 4
 lang: nl
-keywords: Netto-uyoku, Zaitokukai, cybernationalisme, digitaal populisme, makoto sakurai
+Keywords: Netto-uyoku, Zaitokukai, cybernationalisme, digitaal populisme, Makoto Sakurai
 link-citations: true
 ---
 
@@ -31,33 +31,33 @@ link-citations: true
 
 #Inleiding[^75]
 
-De tweede helft van 2016 kenmerkt zich als politiek rumoerig. In Japan haalt de LDP-Komeitocoalitie een tweederdemeerderheid in het Hoger Huis, voldoende om een veelbesproken grondwettelijke revisie door te kunnen voeren. In Zuid-Korea wordt president Park Geun-hye wegens een politiek schandaal afgezet. In West-Europa ontstaat er sprake van een opmars van rechts-populistische partijen, en daadwerkelijk halen én het pro-Brexitkamp in het Brits EU-referendum, én Donald Trump als presidentiële kandidaat van de Verenigde Staten een meerderheid. Deze latere gebeurtenissen, vaak in één adem naast elkaar genoemd, worden wereldwijd door journalisten en politici bekeken als een belangrijke overwinning voor rechts-populisme en sterker, onder de noemer 'post-truth politics'[^13], als een keerpunt in politieke campagnevoering [@sismondo_post-truth?_2017].
+De tweede helft van 2016 kenmerkt zich als politiek rumoerig. In Japan haalt de LDP-Komeitocoalitie een tweederdemeerderheid in het Hoger Huis, voldoende om een veelbesproken grondwettelijke revisie door te kunnen voeren. In Zuid-Korea wordt president Park Geun-hye wegens een politiek schandaal afgezet. In West-Europa spreekt men van een opmars van rechts-populistische partijen, en daadwerkelijk halen én het pro-Brexitkamp in het Brits EU-referendum, én Donald Trump als presidentiële kandidaat van de Verenigde Staten een meerderheid. Die latere gebeurtenissen, vaak in één adem naast elkaar genoemd, worden wereldwijd door journalisten en politici bekeken als belangrijke overwinningen voor rechts-populisme. Sterker, onder de noemer 'post-truth politics'[^13] worden die overwinningen gezien als een keerpunt in politieke campagnevoering [@sismondo_post-truth?_2017].
 
-Om deze groei te verklaren ontstaat er een vernieuwde interesse in studies rond populisme en meer specifiek, het aandeel van (sociale) media daarin.  @rolfe_reinvention_2016 en @kim_digital_2009 observeren in het internet een mogelijkheid tot rechtstreeks contact met de kiezer en een grotere mobilisatiecapaciteit vast. Zo wordt bijvoorbeeld het Twitter-gebruik van huidig Amerikaans president Trump geargumenteerd als cruciaal onderdeel van zijn campagne te zijn geweest [@ott_age_2017]. Sociale netwerkdiensten als die van Google, Twitter en Facebook dragen daar tot bij in de vorm van o.a. zogenaamde *filter-bubbles*[^16] [@zimmermann_digital_2017], en op sociologisch niveau dragen meer anonieme fora als Reddit, 4chan, of de Japanse 2channel (2ちゃんねる) juist bij uit sociologische gevolgen die die anonimiteit met zich meebrengt.
+Om die groei te verklaren ontstaat er een vernieuwde interesse in studies rond populisme en, meer specifiek, het aandeel van (sociale) media daarin.  @rolfe_reinvention_2016 en @kim_digital_2009 observeren in het internet een mogelijkheid tot rechtstreeks contact met de kiezer en een grotere mobilisatiecapaciteit. Zo wordt bijvoorbeeld geargumenteerd dat het Twitter-gebruik van huidig Amerikaans president Trump een cruciaal onderdeel van zijn campagne is geweest [@ott_age_2017]. Sociale netwerkdiensten als die van Google, Twitter en Facebook dragen daartoe bij in de vorm van onder andere zogenaamde *filter-bubbles*[^16] [@zimmermann_digital_2017], en op sociologisch niveau dragen meer anonieme fora als Reddit, 4chan, of de Japanse 2channel (2ちゃんねる) juist bij uit sociologische gevolgen die die anonimiteit met zich meebrengt.
 
-Deze bachelorproef onderzoekt of ook in Japan de ontwikkeling van het internet bijdraagt als voedingsbodem tot populisme en zijn sporen achterlaat in het huidige Japanse politiek discours. Zo argumenteren @yamaguchi_xenophobia_2013 en @yasuda__2012 dat het internet voor ophefmakende groeperingen als de *Zaitokukai* (在特会)[^1] niet alleen de organisatie van activiteiten betekent, maar dat ook het ontstaan terug te leiden valt naar internetcommunicatie: met name naar een groeiende extreemrechtse internetbeweging bekend onder de koepelterm *netto-uyoku* (ネット右翼).[^3] Ondanks het laag aantal aanwezigen op protestacties en een laag geschatte aantal *netto-uyoku* onder Japanse internetgebruikers [@yasuda__2012] zijn er toch verschillende gebeurtenissen die een verschuiving in de Japanse maatschappij aantonen: het stijgend gebruik van sociale netwerkdiensten (SNS) door Japanse politici, het dalend vertrouwen in traditionele media door Japanse burgers, en de opkomst van een nieuwe, toegankelijkere golf van rechts-populistische bewegingen als de *Zaitokukai* en *Shukenkai* (主権会).[^9]
+Deze bachelorproef onderzoekt of ook in Japan de ontwikkeling van het internet bijdraagt als voedingsbodem voor populisme en zijn sporen achterlaat in het huidige Japanse politiek discours. Zo argumenteren @yamaguchi_xenophobia_2013 en @yasuda__2012 niet alleen dat het internet voor ophefmakende groeperingen als de *Zaitokukai* (在特会)[^1] de organisatie van activiteiten betekent, maar ook dat hun ontstaan zelf terug te leiden valt naar internetcommunicatie: met name naar een groeiende extreemrechtse internetbeweging bekend onder de koepelterm *netto-uyoku* (ネット右翼).[^3] Ondanks het laag aantal aanwezigen op protestacties en een laag geschatte aantal *netto-uyoku* onder Japanse internetgebruikers [@yasuda__2012] zijn er toch verschillende gebeurtenissen die een verschuiving in de Japanse maatschappij aantonen: het stijgend gebruik van sociale netwerkdiensten (SNS) door Japanse politici, het dalend vertrouwen in traditionele media door Japanse burgers, en de opkomst van een nieuwe, toegankelijkere golf van rechts-populistische bewegingen als de *Zaitokukai* en *Shukenkai* (主権会).[^9]
 
-Het eerste hoofdstuk van deze paper bouwt een conceptueel kader rond (digitaal) populisme om vervolgens bestaand onderzoek van een veronderstelde Japans populisme en recente ontwikkelingen met betrekking tot het internet te bespreken. Wegens de beperkte scope van deze paper zal het focuspunt liggen op rechtspopulisme, met een tweede en derde hoofdstuk als casestudy dat toespitst op de *netto-uyoku* en Makoto Sakurai. Het tweede hoofdstuk voert een literatuurstudie uit op de *netto-uyoku* en brengt ze, in een eerste poging tot verdere conceptualisatie van digitaal populisme, in verband met modellen rond het effect van internetcommunicatie en anonimiteit op het individu. Het derde hoofdstuk poogt, volgens eerdere definitie, Makoto Sakurai empirisch aan te tonen als populist door middel van een kwantitatieve inhoudsanalyse van zijn Twitteractiviteit. Dat, als prominent spilfiguur van de *netto-uyoku* met een niet te verwaarlozen invloedssfeer, maar anderzijds door zijn regelmatig verschijnen in berichtgeving als oprichter van de *Zaitokukai*, kandidaat tijdens de gouverneursverkiezingen van Tokio in 2016, en recentelijk als huidig leider van de politieke Japan First Party (日本第一党).[^15] Ten slotte blikt de conclusie terug op de bevindingen uit deze studie en stelt een verder onderzoeksplan voor naar zaken die buiten het bereik van deze paper lagen.
+Het eerste hoofdstuk van deze paper bouwt een conceptueel kader rond (digitaal) populisme om vervolgens bestaand onderzoek van een verondersteld Japans populisme en recente ontwikkelingen met betrekking tot het internet te bespreken. Wegens de beperkte scope van deze paper zal het focuspunt liggen op rechtspopulisme, met een tweede en derde hoofdstuk als casestudy die toespitst op de *netto-uyoku* en Makoto Sakurai. Het tweede hoofdstuk voert een literatuurstudie uit op de *netto-uyoku* en brengt ze, in een eerste poging tot verdere conceptualisatie van digitaal populisme, in verband met modellen rond het effect van internetcommunicatie en anonimiteit op het individu. Het derde hoofdstuk poogt, volgens eerdere definitie, Makoto Sakurai empirisch aan te tonen als populist door middel van een kwantitatieve inhoudsanalyse van zijn Twitteractiviteit. Die laatste is namelijk een prominent spilfiguur van de *netto-uyoku* met een niet te verwaarlozen invloedssfeer, verschijnt regelmatig in berichtgeving als oprichter van de *Zaitokukai*, was kandidaat tijdens de gouverneursverkiezingen van Tokio in 2016, en richtte recentelijk de politieke Japan First Party (日本第一党) op.[^15] Ten slotte blikt de conclusie terug op de bevindingen uit deze studie en stelt ze een verder onderzoeksplan voor over zaken die buiten het bereik van deze paper lagen.
 
-Eerder werden deze thema's al gedeeltelijk aangehaald door academici en journalisten als @tsuji__2008, @murai_net_2012, @yasuda__2012, @yamaguchi_xenophobia_2013, @higuchi_japans_2014 en @morris-suzuki_beyond_2015, maar ondanks een frequente vermelding naar de rol van het internet in een opkomst aan populisten in Japan [@taniguchi_changing_2007;@kobori_populism_2013;@trifu_prefectural_2013;@lindgren_developing_2015] zijn er weinig stappen gezet om dat concreet te onderzoeken. Deze paper poogt bij te dragen door gebruik te maken van nieuwe methoden van empirisch onderzoek binnenin de sociale en politieke wetenschappen, met name die uit het relatieve nieuwe domein van sociale netwerkanalyse.
+Eerder werden die thema's al gedeeltelijk aangehaald door academici en journalisten als @tsuji__2008, @murai_net_2012, @yasuda__2012, @yamaguchi_xenophobia_2013, @higuchi_japans_2014 en @morris-suzuki_beyond_2015, maar ondanks een frequente verwijzing naar de rol van het internet in de opkomst van populisten in Japan [@taniguchi_changing_2007;@kobori_populism_2013;@trifu_prefectural_2013;@lindgren_developing_2015] zijn er weinig stappen gezet om dat concreet te onderzoeken. Deze paper poogt bij te dragen door gebruik te maken van nieuwe methoden van empirisch onderzoek binnenin de sociale en politieke wetenschappen, met name die uit het relatief nieuwe domein van de sociale netwerkanalyse.
 
 \newpage
 
 #Digitaal Populisme in Japan
 
-## Populisme - een Conceptueel Kader
+## Populisme – een Conceptueel Kader
 
-De notie van populisme als theoretisch concept binnen de politieke wetenschappen kent een moeilijke ontwikkeling. Tot nu toe lijkt er mede uit geografische en tijdsgerelateerde contextuele verschillen in definitie[^17], maar ook door een pejoratieve connotatie die de term met zich meebrengt eerder dan ideologie waarin een partij zich kan vinden, geen algemeen aanvaarde definitie [@bale_thrown_2011; @mudde_oxford_2013]. Nochtans toont de adoptie van de term in het mainstream discours als gevolg van politieke verschuivingen in 2016 een nood aan verdere theoretische uitwerking. Met een als 'universeel toepasbare' grondlegging opgesteld door @taggart_populism_2000,[^22] volgt deze paper Mudde, Kaltwasser [-@mudde_oxford_2013], Abts en Rummens [-@abts_populism_2007, p.409] in hun minimalistische definitie van populisme als '*thin-centred ideology*' - een ideologie eerder dan politieke strategie of retoriek, gereduceerd tot drie basiskenmerken ('*a model of three logics*'), waardoor populisme als ideologie assimileert tot '*thick-centred*' ideologieën als fascisme of nationalisme.
+De notie van populisme als theoretisch concept binnen de politieke wetenschappen kent een moeilijke ontwikkeling. Tot nu toe lijkt er mede uit geografische en tijdsgerelateerde contextuele verschillen in definitie[^17], maar ook door een pejoratieve connotatie die de term met zich meebrengt,[^92] geen algemeen aanvaarde definitie te bestaan [@bale_thrown_2011; @mudde_oxford_2013]. Nochtans toont de adoptie van de term in het mainstream discours als gevolg van politieke verschuivingen in 2016 een nood aan verdere theoretische uitwerking. Met een 'universeel toepasbare' grondlegging opgesteld door @taggart_populism_2000,[^22] volgt deze paper Mudde, Kaltwasser [-@mudde_oxford_2013], Abts en Rummens [-@abts_populism_2007, p.409] in hun minimalistische definitie van populisme als '*thin-centred ideology*' - een ideologie eerder dan politieke strategie of retoriek, gereduceerd tot drie basiskenmerken ('*a model of three logics*'), waardoor populisme als ideologie aanleunt tegen '*thick-centred*' ideologieën als fascisme of nationalisme.
 
 ### Het Volk, de Elite en de Volkswil
 
 Gebruik makend van een wij/zij-dichotomie die vaak nativistisch[^18] is van aard, worden buitenstaanders (de *Andere*) afgebeeld als de morele antagonist van een veronderstelde homogene, van nature goedaardige wij-groep. Die wij-groep kan onder een weinigzeggende, normatieve noemer als 'het volk' [@abts_populism_2007] of '*the heartland*'[^28] [@taggart_populism_2000] vele vormen aannemen: het ideaalbeeld van één bevolking onder één natie, of net ter verdediging van volkssoevereiniteit. Laclau plaatst dergelijke terminologie zelfs centraal in zijn definitie van populisme en noemt ze lege omhulsels of *empty signifiers*, symbolen die een proces van abstrahering ondergaan en tenslotte in hun betekenisloosheid dienen ter expressie van universele ideeën [@laclau_populist_2005].[^73]
 
-Die wij-groep wordt vervolgens onderdrukt door de *Andere*. In populistische ideologieën zal de *Andere* voornaam een sociale of economische 'elite' in nemen (vaak naar verwezen als 'het establishment'), met als primair kenmerk een machtspositie ten nadele van 'het volk'. Mudde beschrijft het verband tussen 'elite' en economie als specifiek belangrijk voor reeds gezetelde politici, die vaak een gebrek aan politiek succes wijten aan die economische elite. Naast de *Andere* als elite wordt vaak ook, in wat beschreven wordt als een nieuwe golf van populisme, geantagoniseerd op basis van etnische afkomst; zij het xenofobie tegenover moslims in West-Europa en de VS, of tegen de Koreaanse diaspora in rechts-populistische retoriek in Japan.
+Die wij-groep wordt vervolgens onderdrukt door de *Andere*. In populistische ideologieën zal de *Andere* voornamelijk een sociale of economische 'elite' innemen (vaak naar verwezen als 'het establishment'), met als primair kenmerk een machtspositie ten nadele van 'het volk'. Mudde beschrijft het verband tussen 'elite' en economie als specifiek belangrijk voor reeds gezetelde politici, die vaak een gebrek aan politiek succes wijten aan die economische elite. Naast de *Andere* als elite wordt vaak ook, in wat beschreven wordt als een nieuwe golf van populisme, geantagoniseerd op basis van etnische afkomst; zij het xenofobie tegenover moslims in West-Europa en de VS, of tegen de Koreaanse diaspora in rechts-populistische retoriek in Japan.
 
-Een derde concept als basiskenmerk van populisme is dat van de volks- of algemene wil, een notie oorspronkelijk geconceptualiseerd door Rousseau als vorm van directe democratie (eerder dan representatieve democratie) waarin het volk rechtstreeks in staat is tot het opstellen van wetten. Als populistisch concept neemt dat onder rechtspopulisten vaak echter een nativistische vorm aan dat, door de homogeniteit van een volk te veronderstellen, neigingen heeft tot autoritarisme[^29] [@abts_populism_2007, pp.408-9]. Mudde, in referentie naar Canovan, argumenteert echter ook dat populisme niet noodzakelijk als anti-democratisch gezien moet worden: uit democratische hoek kan het juist groepen aanduiden die zich niet voldoende gerepresenteerd voelen. Die enerzijds ondermijnende, anderzijds democratisch-corrigerende mogelijkheden leiden tot een ambivalente relatie tussen populisme en democratie [@mudde_oxford_2013, p16-17].
+Een derde concept als basiskenmerk van populisme is dat van de volks- of algemene wil, een notie oorspronkelijk geconceptualiseerd door Rousseau als vorm van directe democratie (eerder dan representatieve democratie) waarin het volk rechtstreeks in staat is tot het opstellen van wetten. Als populistisch concept neemt die onder rechtspopulisten vaak echter een nativistische vorm aan dat, door de homogeniteit van een volk te veronderstellen, neigingen heeft tot autoritarisme[^29] [@abts_populism_2007, pp.408-9]. Mudde, in referentie naar Canovan, argumenteert echter ook dat populisme niet noodzakelijk als anti-democratisch gezien moet worden: uit democratische hoek kan het juist groepen aanduiden die zich niet voldoende gerepresenteerd voelen. Die enerzijds ondermijnende, anderzijds democratisch-corrigerende mogelijkheden leiden tot een ambivalente relatie tussen populisme en democratie [@mudde_oxford_2013, p16-17].
 
-Ten slotte kan het begrip populisme als ideologie, om het in Hegeliaanse dialectiek te stellen, enkel bestaan als een directe tegenstelling daarvan bestaat. Door de notie van populisme tot fluïde ideologie met bovenstaande kenmerken te reduceren plaatst hij dat, als een populist die in naam van het volk vecht tegen de elite, recht tegenover de idee van 'elitisme', dat een zelfde wij/zij dichotomie tussen een intellectuele en cultureel superieure elite plaatst tegenover een ongecultiveerd volk, en pluralisme, dat verschillen in een maatschappij juist als sterkte bestempelt [@mudde_oxford_2013].
+Ten slotte kan het begrip populisme als ideologie, om het in Hegeliaanse dialectiek te stellen, enkel bestaan als een directe tegenstelling daarvan bestaat. Door de notie van populisme tot fluïde ideologie met bovenstaande kenmerken te reduceren plaatst hij dat, als een populist die in naam van het volk tegen de elite vecht, recht tegenover de idee van 'elitisme', die een zelfde wij/zij dichotomie tussen een intellectuele en cultureel superieure elite plaatst tegenover een ongecultiveerd volk, en pluralisme, dat verschillen in een maatschappij juist als sterkte bestempelt [@mudde_oxford_2013].
 
 ### Populisme en Macro-Economie
 
@@ -213,7 +213,7 @@ Itagaki beschrijft de negativiteit ontstaan tegenover die ervaarde bevoordeelde 
 
 Afgaande op het model van digitaal populisme eerder opgesteld, wordt dat idee verder in stand gezet door het digitaal verspreiden van valse informatie (ガセネタ) en geruchten (デマ, 流言 of うわさ). [@yasuda__2012, p.219] beschrijft bijvoorbeeld het idee van '*Chosen shinchugun*' (Koreaanse Bezettingsmacht, 朝鮮進駐軍), georganiseerde Anti-japanse misdaad gepleegd door etnische Koreanen in Japan na de Tweede Wereldoorlog, als een vaak voorkomend gerucht. Ook na de aardbeving in 2011 deden er online allerhande geruchten de ronde dat Zainichi Koreanen zich aan diverse criminele activiteiten zouden hebben schuldig gemaakt.[^89] Twitterberichten verzameld door @mutsuo_toi_het_2011 stellen dat er mensen zijn overgegaan tot moord, diefstal en verkrachting. In een bericht op Yahoo Japan stelt @nanako_1892_zainichi_2014 bijvoorbeeld dat er misbruik gemaakt werd van de aardbeving om de identiteit van gestorven of vermiste Japanners over te nemen.[^91]
 
-###Politiek
+###Politieke Voorkeur
 
 Op nationale schaal worden netto-uyoku vooral verbonden aan Abe Shinzo en het nationalistisch beleid dat daar aan gekoppeld gaat. @murai_net_2012 analyseert maandelijkse opiniepeilingen naar politieke voorkeuren gehouden op Nico Nico Douga en merkt, wanneer vergeleken met offlinecijfers, een sterkerere neiging naar conservatisme en steun voor de LDP, ten koste van de DPJ. Na het doorbreken van de machtspositie van de LDP door de JDP in 2009 groeide er op de met *netto-uyoku*-geassocieëerde internetgemeenschappen een anti-JDP sentiment dat de JDP bekeek als een anti-Japan (反日) partij bestaande uit voornaam Zainichi-Koreanen die werken tegen het beste belang van een homogene Japanse bevolking.
 
@@ -348,7 +348,12 @@ Sakurai richtte de groep in 2006 op als protest jegens de Zainichi Koreanen, de 
 
 In 2017 heeft de Zaitokukai naast het hoofdkantoor 36 afdelingen verspreid over Japan. Een interactieve kaart op de officiële pagina van de Zaitokukai weergeeft per regio de demografie van het ledenbestand. Indien die kaart up-to-date wordt gehouden omvat het totaal aantal gebruikers op april, 2017 volgens de organisatie 16399 leden,[^65] waarvan 14079 (85,85%) mannen en 2315 (14,12%) vrouwen. Het hoogst aantal leden zou komen uit Tokio (2945 leden of een 17,97% aandeel), gevolgd door Kanagawa (1313 leden of 8,01%) en Osaka (1464 leden of 8,93%).
 
-![Cirkeldiagram van het aantal leden per regio][zaitokukai_user_base_table]
+\begin{figure}
+  \centering
+    \includegraphics[width=.8\textwidth]{images/Zaitokukai_members.pdf}
+\centering
+    \caption{Cirkeldiagram van het aantal leden per regio}
+\end{figure}
 
 **In progress**: Hier een paragraaf over de grootte van de partij en groei. Ook iets over de demografie: (Demografie van Zaitokukai volgens @higuchi_japans_2014 in interview met 25 leden vooral white-collar of self-employed middenklasse, dus past niet in theorie van lagere klasse onzekerheid.) Ook iets over de organisatie van de partij als gevolg van deze groei. Tenslotte nog vermelding van het aantal protesten uitgevoerd sinds de oprichting. 
 
@@ -411,7 +416,7 @@ In 2016 stelde Sakurai zich als onafhankelijke kandidaat voor in de gouverneursv
 
 [Bron: @shiminjichi_3rd_makoto_2016; @sankei_news_7_2016]
 
-Asahi Shimbun bekritiseerde zijn campagne als gebruikmakend van de verkiezingen om hate speech te verspreiden. Sankei News daarentegen raporteerde op frequente basis over Sakurai's campagne en hield ook een diepgaand interview. (meer)
+Asahi Shimbun bekritiseerde zijn campagne als gebruikmakend van de verkiezingen om hate speech te verspreiden. Sankei News daarentegen raporteerde op frequente basis over Sakurai's campagne en hield ook een diepgaand interview. (uitbreiden)
 
 ###Japan First Party (日本第一党)
 
@@ -438,63 +443,32 @@ Het programma van de JFP is opgesteld in 10 categoriëen[^36] met een totaal aan
 
 [Bron: @japan_first_party_japan_2016]
 
-##Kwantitatieve Inhoudsanalyse (QCA)
+##Ideologieën (beginnend/verder uitwerken)
 
-###QCA als Methodologie (deels)
+Het narratief van beide Korea's en de Koreaanse burgers in Japan als vijand van Japan is een thema dat in Sakurai's retoriek vaak terug komt. Ook een tekstanalyse van de Twitteraccount van Sakurai[^97] bevestigd dat.[^98]
 
-@riffe_analyzing_2014, auteurs van "Analyzing Media Messages: Using Quantitative Content Analysis in Research" definiëren op volgende wijze kwantitatieve inhoudsanalyse als onderzoeksmethode sumier op:
+Paragraaf uitschrijven: しばき隊: afkorting 「レイシストをしばき隊（レイシストをしばきたい。」, huidige Counter-Racist Action Collective. パヨク: pejoratieve term voor de politieke linkervleugel -> antagonisering. Verder geen verassing: 韓国 als belangrijkste pijnpunt, 支那 en 日本 alsook politieke actie onder 日本第一党 en 生放送.
 
->"the systematic assignment of communication content to categories according to rules, and the analysis of relationships involving those categories using statistical methods." [@riffe_analyzing_2014]
+\begin{figure}
+  \centering
+    \includegraphics[width=.8\textwidth]{images/frequency.pdf}
+    \centering\caption[Caption for LOF]{Grafiek van de top 10 meest gebruikte woorden\protect\footnotemark uit de verwerde Twittergegevens van Sakurai als corpus.}
+\end{figure}
+\footnotetext{Met exclusie van vaak voorkomende werkwoorden als する.}
 
-Die definitie legt de nadruk van QCA enerzijds op de centraliteit van de verworven data zelf, als op de objectiviteit en systematische methoden om zich te onderscheiden van een onwetenschappelijk "informeel proces waarbij men conclusies trekt gebaseerd op waarnemingen van inhoud" waar we allen dagelijks aan deelnemen [-@riffe_analyzing_2014, p.23]. Concreet levert dat binnen studies van massacommunicatie een versatiele methode op voor onderzoekers om bepaalde stellingen empirisch te bewijzen door in dit geval *big data* gehaald uit massacommunicatie te categoriseren en daar conclusies uit te trekken. Deze definitie is opzettelijk vaag juist door de breedheid van deze methodologie: de onderzoeker stelt een typologie op waartegen de dataset wordt getoetst, en geeft aldus verdere betekenis aan de inhoud van die data om zo statistische conclusies te trekken.
+\begin{figure}
+  \centering
+    \includegraphics[width=.8\textwidth]{images/co-occurance_network.pdf}
+    \centering\caption{Co-Occurrence netwerk van woorden uit het Sakurai Twittercorpus met een hoge frequentie.}
+\end{figure}
 
-Uiteraard bestaan gegevens niet in het luchtledige en moeten ze gezien worden als het gevolg van een grote waaier aan voorafgaande processen en condities,  waarmee rekening gehouden wordt tijdens analyse en interpretatie. Net als Shoemaker & Reese stellen dat symboliek in media (e.g. allusies naar nationalisme of solidariteit tijdens oorlogsperiode) gevolgen zijn van een dominante cultuur en ideologie (1996), zal een twitterpagina van een rechts-populist als Makoto Sakurai, sterk actief in alternatief-rechtse gemeenschappen, zijn oorsprong vinden enerzijds op persoonlijk vlak en anderzijds door socio-historische ontwikkelingen, en hoogstwaarschijnlijk het discours van die gemeenschap reflecteren.
+Paragraaf uitschrijven: visuele relatie tussen termen met hoge frequentie tonen kwantitatief sterk nativistische, conservatieve en nationalistische neigingen. Relatie tussen 日本 en 韓国 (-> 反日) en antagonisering (嫌, 反対) alsook antagonisering van politiek links (パヨク, Yoshifu Arita 有田芳生 van DPJ). Verder frequente verwijzingen naar Trump, en aanmoediging deelname live uitzendingen of lezingen.
 
-|            **Table 8.1 Conducting a Content Analysis**            |
-|-------------------------------------------------------------------|
-| **Conceptualization and purpose**                                 |
-| &nbsp;&nbsp;Identify the problem                                  |
-| &nbsp;&nbsp;Review theory and research                            |
-| &nbsp;&nbsp;Pose specific research questions and hypotheses       |
-| **Design**                                                        |
-| &nbsp;&nbsp;Define relevant content                               |
-| &nbsp;&nbsp;Specify formal design                                 |
-| &nbsp;&nbsp;Create dummy tables                                   |
-| &nbsp;&nbsp;Operationalize (coding protocol and sheets)           |
-| &nbsp;&nbsp;Specify population and sampling plans                 |
-| &nbsp;&nbsp;Pretest and establish reliability procedures          |
-| **Analysis**                                                      |
-| &nbsp;&nbsp;Process data (establish reliability and code content) |
-| &nbsp;&nbsp;Apply statistical procedures                          |
-| &nbsp;&nbsp;Interpret and report results                          |
-
-Bron: @riffe_analyzing_2014
-
-Aldus zal deze paper gebruik maken van kwantitatieve inhoudsanalyse, gebaseerd op Riff en Lacy's ontwerpvoorstel (**Tabel 8.1**), op een verzameling van berichten gehaald van de publieke Twitter pagina van Makoto Sakurai. Dat als middel om Sakurai's voornaamste politieke ideologieën te categoriseren, en aldus als hulpmiddel in het beantwoorden van de onderzoeksvraag van deze paper. Voor die reden werd een typologie gecodeerd die aan de hand van een aantal kernwoorden berichten plaatst in verschillende categorieën (zie deel 5.5). De zwakte van deze methodologie ligt, naast de mogelijkheid tot foutieve correlaties, in de subjectiviteit die het opstellen van een typologie als "*lone wolf*" - één enkele onderzoeker - oplevert. ...
-
-###QCA van Sakurai's Twitter-gebruik
-
-Voor een beschrijving van de gehanteerde methodologie verwijst deze paper naar **bijlage 1**. Voor een beschrijving van de methode tot verwerven van deze data verwijst deze paper naar **bijlage 2**.
-
-|Inhoud|Beschrijving|Voorbeeld|
-|---|----------|----------|
-|test|test|test|
-
-(Tabel coderen aan de hand van tabellen van Japans populisme: potentiele ideologieën etc: is Sakurai een populist (ja) en wat voor populist? Aan de hand van kernwoorden classificeren)
-
-Hier komt data over Doronpa01 account, followers, following, aantal Tweets, etc.
-
-##Ideologieën en Receptie (nog niet)
-
-Het narratief van beide Korea's en de Koreaanse burgers in Japan als vijand van Japan is een thema dat in Sakurai's retoriek vaak terug komt.
-
-Ideologieën? Conservatief, nationalistisch, antiglobalisme?
-
-**tabel 1.2**
+Tenslotte conclusie door die informatie te koppelen aan tabellen uit eerste hoofdstuk.
 
 \newpage
 
-#Conclusie (deels / oud)
+#Conclusie (deels / oud!)
 
 (Sociale media spelen een sterk aandeel in de dispersie van nieuw racisme met betrekking tot minderheden -> xenofobie = belangrijk deel van rechtspopulisten -> politieke steun verhoogd)
 
@@ -528,6 +502,8 @@ Verder is het aangewezen om een dergelijke analyse uit te voeren op het huidig p
 
 ##Methodologie
 
+(Kwantitatieve) tekstanalyse van Japanse teksten wordt vermoeilijkt door de structuur van de Japanse taal [@catalinac_quantitative_2014]. Om tekstanalyse uit te voeren is er nood aan software die Japanse teksten morfologisch kan analyseren. Daarin is de keuze relatief beperkt: historisch wordt vooral verwezen naar JUMAN[^94] en ChaSen[^95], maar deze paper maakt gebruik van de *open-source*-applicatie MeCab[^96] dat verderbouwt op ChaSen en zowel sneller werkt als meer vertrouwbare resultaten oplevert [@den_proper_2008]. Vervolgens gebruikt deze paper voor tekstanalyse zelf de *open-source*-applicatie KH Coder[^93]. Zoals eerder aangegeven bestaat het corpus van de tekstanalyse uit data gehaald uit Twitter, een proces dat ik in het volgende deel beschrijf.
+
 ###Twitter Datamining
 
 De achterliggende software van Twitter is op dergelijke wijze gebouwd dat het gebruik daarvan, en aldus de mogelijkheid tot dataverwerving, op relatief eenvoudige wijze kan worden uitgevoerd. Die software is, uit commerciële redenen, zo opgebouwd om aangesproken te kunnen worden door andere software en dus om interactiviteit tussen (web)applicaties te verhogen. Grote commerciële bedrijven gebruiken die mogelijkheden vooral om patronen en verbanden te leggen in grote hoeveelheden aan data en op die manier economische strategieën te maken of om vooruitzichten te creëren.
@@ -538,9 +514,15 @@ Indien volledigheid van data, of nauwkeurigheid over de periode van het aantal b
 
 ###Dataset van Makato Sakurai
 
-De dataset die gebruikt wordt in de kwantitatieve inhoudsanalyse bevat de laatste 3200 publieke berichten en *retweets* geplaatst door Makoto Sakurai op Twitter-account **&commat;Doronpa01** (https://twitter.com/doronpa01) en werd samengesteld op 4/04/2017 14:00. De dataset werd samengesteld door de Twitter (Search) API recursief aan te spreken met Python tot elk tweet-bestand verzameld werd in een JSON-bestand. De limitatie van 3200 berichten werd opgelegd door de API van Twitter - naast het webscrapen van elk individueel bericht (wat een hoop moeilijkheden oplevert door de opbouw van het platform zelf, berichten worden gegenereerd door JavaScript) is er nog geen mogelijkheid om deze te omzeilen. Het Python-script is online als digitale bijlage te raadplegen op https://github.com/steviepoppe/bachelor_paper (*nog niet*). 
+De dataset die gebruikt wordt in de kwantitatieve inhoudsanalyse bevat de laatste 3200 publieke berichten en *retweets* geplaatst door Makoto Sakurai op Twitter-account **&commat;Doronpa01** (https://twitter.com/doronpa01) en werd samengesteld op 4/04/2017 14:00. De dataset werd samengesteld door de Twitter (Search) API recursief aan te spreken met Python tot elk tweet-bestand verzameld werd in een JSON-bestand. De limitatie van 3200 berichten werd opgelegd door de API van Twitter - naast het webscrapen van elk individueel bericht (wat een hoop moeilijkheden oplevert door de opbouw van het platform zelf, berichten worden gegenereerd door JavaScript) is er nog geen mogelijkheid om deze te omzeilen. Het Python-script (licht gewijzigd om enige Twitter-identificatie weg te laten) is online als digitale bijlage te raadplegen op \url{https://github.com/steviepoppe/bachelor_paper} (*nog niet*). 
 
-De dataset werd vervolgens opgekuist met **Open Refine** door voor deze paper overbodige meta-informatie te verwijderen (welke?). De in deze paper gebruikte visualisaties werden vervolgens samengesteld door middel van **Tableau**. Een interactieve visuele weergave van de gebruikte dataset valt ten slotte te raadplegen op (*hier komt nog een link*).
+De dataset werd vervolgens opgekuist met **Open Refine** door voor deze paper overbodige meta-informatie te verwijderen. Voor de tekstanalyse werd enkel de tekst van het Twitterobject zelf gebruikt, met omissie van enige bijlagen en externe URL's.
+
+###Frequentieanalyse
+
+De frequentieanalyse als weergegeven in **illustratie 3** werd uitgevoerd met KH Coder, gebruikmakende van MeCab om de tekst morfologisch te analyseren. Een additionele lijst werd opgesteld om samenstellingen, afkortingen en vaak voorkomende elementen (zoals 行動する保守運動 en 北鮮) niet uit elkaar te trekken. Die lijst, alsook de volledige frequentieanalyse als CSV zijn beschikbaar als digitale bijlage op \url{https://github.com/steviepoppe/bachelor_paper} (*nog niet*). 
+
+De in deze paper gebruikte visualisaties werden vervolgens samengesteld door middel van **Tableau**. Een interactieve visuele weergave van de gebruikte dataset valt ten slotte te raadplegen op (*hier komt nog een link*).
 
 \newpage
 
@@ -562,10 +544,9 @@ Als standaard in de sociale wetenschappen hanteert dit document **Chicago B** (�
 [zaitokukai_site_qa]: images/zaitokukai_site_qa.jpg
 [twitter_hinomaru_crest]: images/twitter_hinomaru_crest.jpg
 [zaitokukai_user_base]: images/zaitokukai_user_base.jpg
-[zaitokukai_user_base_table]: images/zaitokukai_user_base_table.jpg
 [tsuji_masukomi_translated]: images/tsuji_masukomi_translated.jpg
 
-[^1]: Afkorting van *Zainichi Tokken o Yurusanai Shimin no Kai* (在日特権を許さない市民の会), vrij vertaald als "Associatie tegen het erkennen van Speciale Rechten van Zainichi". Zainichi (在日) betekend letterlijk "Verblijven in Japan" en kan elke buitenlandse inwoner van Japan aanduiden, maar in deze context verwijst het naar naar de Koreaanse diaspora onder de noemer *zainichi kankoku ・ chosenjin* (在日韓国・朝鮮人).
+[^1]: Afkorting van *Zainichi Tokken o Yurusanai Shimin no Kai* (在日特権を許さない市民の会), vrij vertaald als "Associatie tegen het erkennen van Speciale Rechten van Zainichi". Zainichi (在日) betekent letterlijk "Verblijven in Japan" en kan elke buitenlandse inwoner van Japan aanduiden, maar in deze context verwijst het naar de Koreaanse diaspora onder de noemer *zainichi kankoku ・ chosenjin* (在日韓国・朝鮮人).
 [^2]: Ontstaan in 2005 als protest tegen het stijgende succes van Zuid-Koreanse populaire media in Japan (de *Korean Wave*). Een sequel werd in 2006 uitgebracht.
 [^3]: Samentreksel van *intaanetto* (インターネット) en *uyoku* (右翼) dat de rechtervleugel op het internet aanduidt. Wordt ook pejoratief afgekort als *netouyo* (ネトウヨ). Akihiro Kitada spreekt dan weer over *uyo-chu* (ウヨ厨) gebruikers, een samentreksel van *uyoku* 右翼 (rechtervleugel) en *chubo* 厨房 (wat gebruikt wordt voor "*internet trol*" en gekozen werd door de gelijke uitspraak met 中坊, wat op zich een afkorting is voor 中学校の坊や). Die term ontstond als reactie op kinderachtige reactionaire berichten doorspekt met anti-linkse of anti-Koreaanse retoriek [@ito_fandom_2012, pp.80-81].
 [^4]: In 2012 kwam dit bedrag overeen met 14,067,361 euro.
@@ -574,16 +555,16 @@ Als standaard in de sociale wetenschappen hanteert dit document **Chicago B** (�
 [^8]: Mengwoord uit het Engelse free (of freelance) en het Duitse Arbeiter ("arbeider") dat jongeren, met uitzondering van huisvrouwen en studenten, aanduid die geen voltijdse baan hebben of werkloos zijn.
 [^9]: Afkorting van *Shuken Kaifuku o Mezasu Kai* (主権回復を目指す会), lett. "Associatie gericht op het Herstel van Soevereiniteit".
 [^16]: Algoritmes die op basis van interesses relatieve inhoud voordragen, waardoor het moeilijk wordt om een neutraal standpunt te houden.
-[^17]: Mudde plaatst populisme historisch in drie golven: een agrarische golf ontstaan in laat-tsaristisch Rusland en onder the People's Party in de VS, een socioeconomisch populisme in Zuid-America dat pleitte voor een grotere staatsol in economische zaken, en een xenofobisch populisme ontstaan in West-Europa met nadruk op cultuur en identiteit.
+[^17]: Mudde plaatst populisme historisch in drie golven: een agrarische golf ontstaan in laat-tsaristisch Rusland en onder de People's Party in de VS, een socioeconomisch populisme in Zuid-America dat pleitte voor een grotere staatsol in economische zaken, en een xenofobisch populisme ontstaan in West-Europa met nadruk op cultuur en identiteit.
 [^10]: In de context van massacommunicatie wordt de term echokamer gebruikt als metafoor voor het versterken van ideeën door middel van repetitie.
 [^11]: Het sociale proces van de ik-persoon of wij-groep te differentiëren van anderen door actoren buiten deze groep als anders of negatief te klassificeren. 
-[^13]: *post-truth* werd door Oxford Dictionary verkozen tot woord van het jaar in 2016, en wordt door @paelinck_post-truth_2016 beschreven als "omstandigheden waarbij objectieve feiten minder doorwegen dan emoties voor het vormen van de publieke opinie".
-[^15]: Een partij, opgericht in Augustus 2016, met een naamgeving gehaald uit de America First retoriek van President Trump en doelstellingen analoog tot de als grassroots-beweging ontstaande populistische Tea Party in de Verenigde Staten.
-[^18]: Mudde verklaart nativisme als een ideologie die stelt dat elementen niet inherent aan een oorspronkelijke homogene natiestaat (zoals ideeën of personen) een fundamentele dreiging vormen voor die natiestaat. 
+[^13]: *post-truth* werd door Oxford Dictionary verkozen tot woord van het jaar in 2016, en wordt door @paelinck_post-truth_2016 beschreven als 'omstandigheden waarbij objectieve feiten minder doorwegen dan emoties voor het vormen van de publieke opinie'.
+[^15]: Een partij, opgericht in augustus 2016, met een naamgeving gehaald uit de 'America First'-retoriek van President Trump en doelstellingen analoog aan de populistische Amerikaanse Tea Party, die ontstond als grassroots-beweging.
+[^18]: Mudde verklaart nativisme als een ideologie die stelt dat elementen die niet inherent zijn aan een oorspronkelijke homogene natiestaat (zoals ideeën of personen) een fundamentele dreiging vormen voor die natiestaat. 
 [^19]: De Japan Restoration Party, opgericht door Toru Hashimoto in 2012 en in 2014 hervormd tot de Japan Innovation Party, wordt ideologisch beschreven als een mengeling van neoliberalisme met elementen van nationalisme en conservatisme.
 [^20]: Denk aan Koizumi's sterk beeldende retoriek als 「自民党をぶっ壊す!」 (Lett. 'Ik ga de LDP vernietigen').
 [^21]: Neoliberaal populisme als een op de markt gericht beleid dat vakbonden antagoniseert en de eigen rol in economie en maatschappij tot een minimum reduceert door het privatiseren van publieke instellingen en reduceren van sociale voordelen [@weathers_reformer_2014].
-[^22]: Taggart definiëert populisme als ideologie aan de hand van volgende universele kenmerken: gevestigde politici of beleid als antagonist, een gebrek aan 'core values', reactionair en fluïditeit [@taggart_populism_2000].
+[^22]: Taggart definiëert populisme als ideologie aan de hand van volgende universele kenmerken: gevestigde politici of beleid als antagonist, een gebrek aan 'core values', reactionisme en fluïditeit [@taggart_populism_2000].
 [^23]: Tamura definiëert "populist democracy" in deze context als de vraag naar sterk leiderschap door charismatische politici die de stem van "het volk" of een "*heartland*" representeren. Als voornaam voorbeeld in Japan gebruikt ook Tamura voormalig eerste minister Jun'ichiro Koizumi, Shintaro Ishihara, Toru Hashimoto, Takashi Kawamura en Shinichi Takehara [@tamura_niggling_2014, p.125].
 [^24]: Als journalistieke term staat *soft news* voor nieuws dat vooral een entertainende functie heeft zoals *human interest*-verhalen, raportages over kunst, enzovoort. *hard news* daarentegen betreft zaken zoals politieke kwesties, misdaden, economie, enzovoort.
 [^25]: Een woordspelling op de afkorting voor *mass media*, *masukomi* (マスコミ). *Gomi* (ゴミ) betekent hier rommel of rotzooi.
@@ -634,7 +615,7 @@ Als standaard in de sociale wetenschappen hanteert dit document **Chicago B** (�
 [^70]: 10 jaar later worden er nog ongeveer 2 miljoen berichten per dag geplaatst [@2ch_statistics_suzume_2017].
 [^71]: Deze theorie stelt dat de identiteitservaring gebaseerd wordt op de perceptie van zichzelf binnen een groep, en van de groep collectief tegenover andere groepen. Eerst zal men zichzelf en anderen categoriseren in groepen. Vervolgens zal men aan de hand van die groepen zichzelf (en anderen) identificeren en zich conformeren naar het gedrag dat van die groep verwacht wordt. Tenslotte begint het process van vergelijken. Gevolgen daarvan zijn dat de groep waar men tot hoort, de in-groep ('wij'), ter verhogen van eigenwaarde, de andere groep zal discrimineren. 
 [^72]: De zelf-categorisatietheorie stemt voort uit de sociale identiteitstheorie en analyseert de cognitieve processen in zelf-categorisatie door de vraag te stellen wanneer, waarom en op welke basis we ons eerder als groep categoriseren dan als individu, alsook wat de psychologische gevolgen daarvan zijn. Op basis van sociale categoriëen gevormd uit geobserveerde overeenkomstigheden en contrasten categorizeren we anderen, maar veranderen we ook onze representatie van die leden. Ze worden niet langer gezien als unieke individuen maar als een uiting van attributen uit die groep en werken dus stereotypering in de hand. Op een zelfde wijze wordt ook gedrag als conformiteit of etnocentrisme verklaard.
-[^73]: Met andere woorden, de term ondergaat als significant of betekenaar in Rousseauiaanse woorden, doorheen verschillende contexten verschillende betekenissen tot het los staat van enige conceptuele inhoud.
+[^73]: Met andere woorden, de term ondergaat als significant of betekenaar in Rousseauiaanse woorden, doorheen verschillende contexten verschillende betekenissen tot hij los staat van enige conceptuele inhoud.
 [^74]: Benjamin Krämer legt een verband maar stelt dat een structurele analyse van de relatie tussen internetcommunicatie en populisme een verdere analyse van onderliggende sociale, technologische en linguistische structuren vereist [-@kramer_media_2014, p.53]. Iets waar deze paper een eerste poging tot geeft.
 [^75]: Deze paper is opgesteld in een crossbreed markdown - latex formaat en is open source beschikbaar op \url{https://github.com/steviepoppe/bachelor_paper}
 [^51]: Een samentreksel van *electronic* en *democracy*, als verwijzing naar een democratische vorm waarin internetcommunicatie participatie van een gemeenschap stimuleert.
@@ -658,3 +639,10 @@ Als standaard in de sociale wetenschappen hanteert dit document **Chicago B** (�
 [^90]: Zie ook @morris-suzuki_beyond_2015. Zij vergelijkt dergelijke retoriek van '*zero-sum citizenship*' met die van extreem-rechtse groeperingen in Europa en de Verenigde staten, en stelt '*Semi-Citizenship*' als theoretisch framework om dergelijke redenatie te overkomen.
 [^89]: Zie ook @ogiue_kensho_2011.
 [^91]: Deze geruchten kunnen echter sterke consequenties hebben. Na de Grote Kanto Aardbeving van 1923 ontstonden er geruchten dat Koreanen in Japan gebruik maakte van de situatie om rel te schoppen en drinkwater te vergiftigen. Het gevolg van deze geruchten leidde tot een heksenjacht op Koreanen met minstens 6.000 doden als gevolg [@jooeun_great_2011].
+[^92]: Eerder dan ideologie waarin een partij zich in kan vinden.
+[^93]: Ontwikkeld door Koichi Higuchi (樋口耕一), associate professor of Social Sciences aan Ritsumeikan Universiteit in Kioto. Beschikbaar op \url{http://khc.sourceforge.net/en/}. Maakt achterliggend gebruikt van de **R** programmeeromgeving, gericht op statistisch onderzoek en data-analyse.
+[^94]: \url{http://nlp.ist.i.kyoto-u.ac.jp/?JUMAN}
+[^95]: \url{http://chasen.naist.jp/hiki/ChaSen/}
+[^96]: \url{http://taku910.github.io/mecab/}
+[^97]: \url{https://twitter.com/doronpa01}. Op 18/05/2017 had hij 67.535 volgers en 11.636 geplaatste berichten. Sakurai onderhoudt ook een actieve Twitteraccount voor de Japan First Party te vinden op \url{https://twitter.com/nippondaiichi}.
+[^98]: Voor een beschrijving van de gehanteerde methodologie alsook beschrijving van de methode tot verwerven van deze data verwijst deze paper naar **bijlage 1**.
