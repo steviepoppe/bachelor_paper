@@ -53,9 +53,32 @@ $if(mathfont)$
     \setmathfont(Digits,Latin,Greek)[$for(mathfontoptions)$$mathfontoptions$$sep$,$endfor$]{$mathfont$}
 $endif$
 $if(CJKmainfont)$
-    \usepackage{xeCJK}
+    \usepackage{xeCJK}[2012/04/08 v3.0.0]
+    \xeCJKDeclareSubCJKBlock{Hangul}{"1100 -> "11FF, "3130 -> "318F, "A960 -> "A97F, "AC00 -> "D7AF, "D7B0 -> "D7FF}
+    %\xeCJKDeclareSubCJKBlock{Kana}{"3040 -> "309F, "30A0 -> "30FF, "31F0 -> "31FF, "1B000 -> "1B0FF}
     \setCJKmainfont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmainfont$}
+    \setCJKmainfont[Hangul]{Gulim}
 $endif$
+%$if(CJKmonofont)$
+%    \usepackage{xeCJK}
+%    \setCJKmonofont[$for(CJKoptions)$$CJKoptions$$sep$,$endfor$]{$CJKmonofont$}
+%$endif$
+
+
+
+%\setmainfont{CMU Serif}
+
+%\usepackage{xeCJK}
+%\setCJKmainfont{Kozuka Mincho Pro} % for Cn & Jp
+%\setCJKmonofont{Gulim} % for Kr
+
+%\usepackage{xeCJK}[2012/04/08 v3.0.0]
+
+
+
+%\setCJKmainfont{SimSun}
+%\setCJKmainfont[Kana]{Kozuka Mincho Pro}
+
 \fi
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
@@ -274,11 +297,14 @@ $endif$
 \hfill \break
 \hfill \break
 \hfill \break
-\centering{{\textcolor{titlepagecolor}{\Huge $titel$}}\\[\baselineskip] 
-\hfill \break
+{\textcolor{titlepagecolor}{\Huge $titel$}}\\[\baselineskip] 
+\hfill
 {\textcolor{titlepagecolor}{\LARGE $subtitel$ \setmainfont{$mainfont$} $subtitel2$ \setmainfont{Constantia}}}\\[\baselineskip] 
-\hfill \break
-{\textcolor{titlepagecolor}{\normalsize $auteur$}}\par 
+\hfill \break\break\break
+
+
+\vfill
+\raggedleft{{\textcolor{titlepagecolor}{\normalsize $auteur$}}\par 
 {\textcolor{titlepagecolor}{\normalsize $vak$}}\par 
 {\textcolor{titlepagecolor}{\normalsize Promoter: $promoter$}}\par 
 {\textcolor{titlepagecolor}{\normalsize Begeleider: $begeleider$}}\par 
@@ -403,6 +429,9 @@ $endif$
 \usepackage{chngcntr}
 \counterwithout*{footnote}{section}
 
+%\usepackage{sectsty}
+%\allsectionsfont{\normalfont\sffamily\bfseries}
+
 \begin{document}
 
 \pagenumbering{roman}
@@ -411,12 +440,18 @@ $endif$
 \clearpage\titleTH
 \thispagestyle{empty}
 
+% BoldFont={Meiryo Bold}, 
+% ItalicFont={Meiryo Italic},
+% BoldItalicFont={Meiryo Italic}
 \setmainfont[
  BoldFont={Meiryo Bold}, 
  ItalicFont={Meiryo Italic},
- BoldItalicFont={Meiryo Italic}
+ BoldItalicFont={Meiryo Bold Italic}
  ]{$mainfont$}
 
+% BoldFont={CMU Serif Bold}, 
+% ItalicFont={CMU Serif Italic},
+% BoldItalicFont={CMU Serif BoldItalic} 
 \newpage
 
 \intro
