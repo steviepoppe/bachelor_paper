@@ -305,7 +305,7 @@ $endif$
 
 \vfill
 \raggedleft{{\textcolor{titlepagecolor}{\normalsize $auteur$}}\par 
-{\textcolor{titlepagecolor}{\normalsize $vak$}}\par 
+{\textcolor{titlepagecolor}{\normalsize Bachelorpaper aangeboden binnen de opleiding\\$vak$}}\par 
 {\textcolor{titlepagecolor}{\normalsize Promoter: $promoter$}}\par 
 {\textcolor{titlepagecolor}{\normalsize Begeleider: $begeleider$}}\par 
 {\textcolor{titlepagecolor}{\normalsize $jaar$}}\par}
