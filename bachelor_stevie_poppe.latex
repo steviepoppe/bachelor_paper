@@ -299,7 +299,7 @@ $endif$
 \hfill \break
 {\textcolor{titlepagecolor}{\Huge $titel$}}\\[\baselineskip] 
 \hfill
-{\textcolor{titlepagecolor}{\LARGE $subtitel$ \setmainfont{$mainfont$} $subtitel2$ \setmainfont{Constantia}}}\\[\baselineskip] 
+{\textcolor{titlepagecolor}{\Large $subtitel$}}\\[\baselineskip] 
 \hfill \break\break\break
 
 
