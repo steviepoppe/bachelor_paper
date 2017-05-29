@@ -426,6 +426,7 @@ $endif$
 \usepackage{relsize,etoolbox}% http://ctan.org/pkg/{relsize,etoolbox}
 \AtBeginEnvironment{quote}{\smaller}% Step font down one size relative to current font.
 
+\usepackage{afterpage}
 \usepackage{chngcntr}
 \counterwithout*{footnote}{section}
 
