@@ -435,7 +435,7 @@ $endif$
 
 \begin{document}
 
-\pagenumbering{roman}
+\pagenumbering{Roman}
 \sloppy
 
 \clearpage\titleTH
@@ -454,6 +454,9 @@ $endif$
 % ItalicFont={CMU Serif Italic},
 % BoldItalicFont={CMU Serif BoldItalic} 
 \newpage
+
+
+\setcounter{page}{1}
 
 \intro
 \newpage
@@ -485,8 +488,6 @@ $endif$
 
 
 \setlength{\parindent}{2em}
-
-\pagenumbering{arabic}
 
 \setcounter{section}{-1}
 
